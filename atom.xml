@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>magicmeowo&apos;s portfolio</title>
-    <updated>2019-12-12T08:32:39.071Z</updated>
+    <updated>2019-12-12T11:02:15.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -62,11 +62,13 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 例如：Welcome to <a href="https://magicmeowo.github.io/" title="magicmeowo">magicmeowo’s workspace</a>!!!</p>
 <h2 id="6图片">6【图片】</h2>
 <p>终于到我最感兴趣的部分了，我真的有很多喜爱的图片，并且以后还想建立自己的相册和画集~</p>
-<h3 id="方法一超链接">方法一：超链接</h3>
-<p><img src="/Users/wangxiaoyi/Downloads/IMG_6415.JPG" alt="">（问题：如何寻找到正确的path？）<br>
+<h3 id="方法一超链接-本地图片">方法一：超链接-本地图片</h3>
+<p>!英文输入法下感叹号<a href="%E6%96%87%E4%BB%B6%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84or%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84">链接名称(可点击区域)</a><br>
+<img src="/Users/wangxiaoyi/Downloads/IMG_6415.JPG" alt="">（问题：如何寻找到正确的path？）<br>
 可能因为当前软件不支持本地图片的原因，该图片并没有显示，于是我决定自己上传对比一下区别。<br>
 <img src="https://magicmeowo.github.io//post-images/1576138945591.JPG" alt=""></p>
-<p>由于要去开会的原因，今天先更新到这里啦，下回再续。</p>
+<p>【路径复制的结果不一样，于是了解了一下mac如何进行文件路径查询，右键文件后按option，<br>
+拷贝“文件名”会变拷贝“文件名”路径</p>
 ]]></content>
     </entry>
     <entry>
