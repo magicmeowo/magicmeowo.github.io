@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>magicmeowo&apos;s portfolio</title>
-    <updated>2019-12-12T08:05:49.589Z</updated>
+    <updated>2019-12-12T08:20:16.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -63,6 +63,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <h2 id="6图片">6【图片】</h2>
 <p>终于到我最感兴趣的部分了，我真的有很多喜爱的图片，并且以后还想建立自己的相册和画集~</p>
 <h3 id="方法一超链接">方法一：超链接</h3>
+<figure data-type="image" tabindex="1"><img src="/Users/wangxiaoyi/Downloads/IMG_6415.JPG" alt="avatar"></figure>
 ]]></content>
     </entry>
     <entry>
