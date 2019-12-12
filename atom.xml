@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>magicmeowo&apos;s portfolio</title>
-    <updated>2019-12-08T04:35:40.914Z</updated>
+    <updated>2019-12-12T07:52:17.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -11,12 +11,68 @@
     <icon>https://magicmeowo.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, magicmeowo&apos;s portfolio</rights>
     <entry>
+        <title type="html"><![CDATA[Markdown learning]]></title>
+        <id>https://magicmeowo.github.io//post/keep-learning</id>
+        <link href="https://magicmeowo.github.io//post/keep-learning">
+        </link>
+        <updated>2019-12-12T05:29:29.000Z</updated>
+        <content type="html"><![CDATA[<p>期待学会Markdown，工具都准备好啦，这里就用来记录我的学习过程吧。<br>
+just do and enjoy it！友情提示：非正文（除英文）部分请在英文输入法下操作，嘻嘻。</p>
+<h1 id="markdown的正常打开方式">Markdown的正常打开方式</h1>
+<p>写“正确打开方式”怕被打：）</p>
+<h2 id="1标题">1【标题】</h2>
+<p>1个#表示一级标题，2个#表示二级标题，以此类推共支持6级标题。<br>
+注意：在部分编辑器中，#后，需要保留一个空格，不空格就不会生成标题的样式。</p>
+<h2 id="2字体">2【字体】</h2>
+<p>1个*表示字体倾斜，<br>
+<em>Mom said“don't study design”</em></p>
+<p>2个*表示字体加粗，<br>
+<strong>Mom said“don't study design”</strong></p>
+<p>3个*表示字体倾斜加粗，<br>
+<em><strong>Mom said“don't study design“</strong></em></p>
+<p>2个~表示删除，<br>
+<s>Mom said“don't study design”</s></p>
+<p>再尝试一下符合效果<br>
+<s><em>Mom said“don't study design”</em></s><br>
+<s><strong>Mom said“don't study design”</strong></s><br>
+sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
+<h2 id="3引用">3【引用】</h2>
+<p>【&gt;】这个符号表示引用,至于到底有几级引用，需要根据场景和正确语法进行考量。<br>
+传说中的一级引用如下</p>
+<blockquote>
+<p><strong>we are curious！</strong></p>
+<blockquote>
+<p><strong>we are youthful！</strong></p>
+<blockquote>
+<p><strong>we are passionate!</strong></p>
+<blockquote>
+<p><strong>we are energetic!</strong></p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="4分割线">4【分割线】</h2>
+<p>通常1行单独（没有其它字符）连用3个*星号或3个_下划线，就可以表示分割线。</p>
+<hr>
+<p>很神奇的是，当你使用3个-减号时，这一行会莫名其妙加粗，但是使用*和_确不会，同时显示分割但无星号样式，比如</p>
+<h2 id="amazing">Amazing！！！</h2>
+<h2 id="5超链接">5【超链接】</h2>
+<p><a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E2%80%9C%E8%B6%85%E9%93%BE%E6%8E%A5titile%E2%80%9D">链接名称</a><br>
+[链接名称(可点击区域)](超链接地址http：// “超链接titile”（hover状态显示内容）)<br>
+例如：Welcome to my space!!!<br>
+<a href="https://magicmeowo.github.io/" title="magicmeowo">magicmeowo</a></p>
+<h2 id="6图片">6【图片】</h2>
+<p>终于到我最感兴趣的部分了，我真的有很多喜爱的图片，并且以后还想建立自己的相册和画集~</p>
+<h3 id="方法一超链接">方法一：超链接</h3>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[about me]]></title>
         <id>https://magicmeowo.github.io//post/about</id>
         <link href="https://magicmeowo.github.io//post/about">
         </link>
         <updated>2019-12-08T04:32:19.000Z</updated>
-        <content type="html"><![CDATA[<p>🤑</p>
+        <content type="html"><![CDATA[<p>🤡</p>
 ]]></content>
     </entry>
     <entry>
