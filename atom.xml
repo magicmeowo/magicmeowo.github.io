@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>magicmeowo&apos;s portfolio</title>
-    <updated>2019-12-12T07:56:02.379Z</updated>
+    <updated>2019-12-12T07:59:05.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2019, magicmeowo&apos;s portfolio</rights>
     <entry>
         <title type="html"><![CDATA[Markdown learning]]></title>
-        <id>https://magicmeowo.github.io//post/keep-learning</id>
-        <link href="https://magicmeowo.github.io//post/keep-learning">
+        <id>https://magicmeowo.github.io//post/markdown-learning</id>
+        <link href="https://magicmeowo.github.io//post/markdown-learning">
         </link>
         <updated>2019-12-12T05:29:29.000Z</updated>
         <content type="html"><![CDATA[<p>期待学会Markdown，工具都准备好啦，这里就用来记录我的学习过程吧。<br>
@@ -54,8 +54,9 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <h2 id="4分割线">4【分割线】</h2>
 <p>通常1行单独（没有其它字符）连用3个*星号或3个_下划线，就可以表示分割线。</p>
 <hr>
-<p>很神奇的是，当你使用3个-减号时，这一行会莫名其妙加粗，但是使用*和_确不会，同时显示分割但无星号样式，例如：</p>
-<h2 id="amazing">Amazing！！！</h2>
+<h2 id="很神奇的是当你使用3个-减号时上一行会加粗且以标题形式呈现同时达到分割线的分行效果-例如amazing">很神奇的是，当你使用3个-减号时，上一行会加粗且以标题形式呈现，同时达到分割线的分行效果。<br>
+例如：<br>
+Amazing！！！</h2>
 <h2 id="5超链接">5【超链接】</h2>
 <p><a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E2%80%9C%E8%B6%85%E9%93%BE%E6%8E%A5titile%E2%80%9D">链接名称</a><br>
 [链接名称(可点击区域)](超链接地址http：// “超链接titile”（hover状态显示内容）)<br>
