@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2019-12-25T01:53:13.374Z</updated>
+    <updated>2019-12-25T02:14:21.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -233,15 +233,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[photograph]]></title>
-        <id>https://magicmeowo.github.io//post/photograph</id>
-        <link href="https://magicmeowo.github.io//post/photograph">
-        </link>
-        <updated>2019-12-18T03:30:02.000Z</updated>
-        <content type="html"><![CDATA[<p>~</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[记录于2019年的末尾，2020年的开端。]]></title>
         <id>https://magicmeowo.github.io//post/ji-lu-yu-2019-nian-de-mo-wei-2020-nian-de-kai-duan</id>
         <link href="https://magicmeowo.github.io//post/ji-lu-yu-2019-nian-de-mo-wei-2020-nian-de-kai-duan">
@@ -249,15 +240,6 @@
         <updated>2019-12-16T09:42:46.000Z</updated>
         <content type="html"><![CDATA[<p>你看到的不是你看到的。<br>
 你感受到的只是一个部分。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[about me]]></title>
-        <id>https://magicmeowo.github.io//post/about</id>
-        <link href="https://magicmeowo.github.io//post/about">
-        </link>
-        <updated>2019-12-16T07:30:25.000Z</updated>
-        <content type="html"><![CDATA[<p>I am nobody!</p>
 ]]></content>
     </entry>
     <entry>
@@ -385,33 +367,6 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <h3 id="11html语言支持">11【HTML语言支持】</h3>
 <h3 id="12数学公式插入">12【数学公式插入】</h3>
 <p>剩下的两个部分，就等我学有所成后再更新啦，下回再续~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据报表（BI-Dashboard design）]]></title>
-        <id>https://magicmeowo.github.io//post/dashboard report design</id>
-        <link href="https://magicmeowo.github.io//post/dashboard report design">
-        </link>
-        <updated>2019-12-08T04:32:19.000Z</updated>
-        <content type="html"><![CDATA[<p>🤡</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被游戏化的管理类测评工具                                                                                  （Tmist - 区域销售管理测评工具）]]></title>
-        <id>https://magicmeowo.github.io//post/Tmist design</id>
-        <link href="https://magicmeowo.github.io//post/Tmist design">
-        </link>
-        <updated>2019-12-08T04:10:22.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://magicmeowo.github.io//post-images/1575778323053.JPG" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何设计一个灵活有温度的数据科技公司官网?                                          （Pharbers - Website design）]]></title>
-        <id>https://magicmeowo.github.io//post/web-design</id>
-        <link href="https://magicmeowo.github.io//post/web-design">
-        </link>
-        <updated>2019-12-08T03:18:06.000Z</updated>
-        <content type="html"><![CDATA[<p>waiting to upload</p>
 ]]></content>
     </entry>
 </feed>
