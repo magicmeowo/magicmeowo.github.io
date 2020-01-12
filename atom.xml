@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-12T09:38:37.102Z</updated>
+    <updated>2020-01-12T09:41:37.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -20,7 +20,7 @@
 <p>本文灵感来源于后台产品的个人中心模块设计，在个人中心的帐号管理模块涉及到帐号的增删改查，以帐号的登录方式与绑定为主要分析内容。梳理登录流程，以及登录方式与绑定当前存在的一些优化问题。<br>
 &lt;图片&gt;</p>
 <p>关于为什么我们需要一个帐号，谁在使用帐号，以及当前Web、移动端常见的帐号类型，<br>
-可以参考文章[《真实世界中的你我，虚拟世界中的帐号》]（）</p>
+可以参考文章<a href="https://wxy.magicmeowo.space/post/account/">《真实世界中的你我，虚拟世界中的帐号》</a></p>
 ]]></content>
     </entry>
     <entry>
