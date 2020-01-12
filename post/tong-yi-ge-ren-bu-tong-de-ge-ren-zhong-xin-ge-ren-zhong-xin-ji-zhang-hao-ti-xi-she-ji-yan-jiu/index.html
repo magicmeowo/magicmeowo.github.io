@@ -2,9 +2,9 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title> 注册登录 | Magicmeowo</title>
+<title>帐号的登录方式与绑定 | Magicmeowo</title>
 <meta name="description" content=" welcome to my space  (๑>◡<๑)" />
-<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1578490085893">
+<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1578821838927">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://magicmeowo.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://magicmeowo.github.io/">
-  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1578490085893" alt="">
+  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1578821838927" alt="">
   </a>
   <h1 class="site-title">
     Magicmeowo
@@ -73,7 +73,7 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-               注册登录
+              帐号的登录方式与绑定
             </h2>
             <div class="post-info">
               <span>
@@ -87,13 +87,11 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>：）注册登录我细数有反反复复设计过4-5次，但是每一次设计都有缺陷。<br>
-现在细想原因，可能是对交互流程的构成，组件的使用，以及场景没有理解到位，导致反复翻工。<br>
-今好好总结注册登录相关流程。</p>
-<p>帐号类型通常包含：邮箱帐号、产品体系帐号（产品自生帐号密码）、手机号、第三方帐号等。<br>
-帐号登录方式通常包含：游客登录、邮箱-密码、产品体系帐号-密码、手机号-密码、动态验证码验证、第三方登录，当前暂不考虑生物识别。<br>
-针对不同的帐号类型和登录方式，结合产品的发展阶段和帐号体系策略，选择适合自己场景的注册登录方式。<br>
-此处整理包含所有可能性的注册登录方式。</p>
+                <p>登录往往是我们进入一个产品世界的第一步，不同产品有不同的登录方式。如“游客登录、密码登录、第三方授权登录...”，不同的登录方式涉及到帐号的绑定和安全机制的设计。因此帐号的行为（增删改查）作为整个帐号和产品系统的重要部分，非常值得好好研究总结及设计。</p>
+<p>本文灵感来源于后台产品的个人中心模块设计，在个人中心的帐号管理模块涉及到帐号的增删改查，以帐号的登录方式与绑定为主要分析内容。梳理登录流程，以及登录方式与绑定当前存在的一些优化问题。<br>
+&lt;图片&gt;</p>
+<p>关于为什么我们需要一个帐号，谁在使用帐号，以及当前Web、移动端常见的帐号类型，<br>
+可以参考文章[《真实世界中的你我，虚拟世界中的帐号》]（）</p>
 
               </div>
               <div class="toc-container">
