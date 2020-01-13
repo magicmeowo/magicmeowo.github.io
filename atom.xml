@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-13T09:14:33.493Z</updated>
+    <updated>2020-01-13T09:16:11.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -272,6 +272,16 @@ QQ，盛大游戏等。存在的问题：经常出现密码错误，忘记密码
 <p><strong>科技的进步和碎片化场景的需求将各种各样的功能有设计地融合在一起，构成了我们现在看到的产品。而帐号体系，作为一个非常底层和基础的组成元素，贯穿了整条发展线。1个人所拥有的信息是海量的，围绕着帐号和相关的产品，能够关联一个人与产品甚至超出产品体系的信息。信息越来越透明的同时，信息安全也越来越重要，我们生活在真实世界中，我们也生活在虚拟世界中，真实世界中的你我，是，又不仅仅是虚拟世界中的“帐号”，祝畅游~</strong></p>
 <p>更多关于引发关于“帐号的增删改查、帐号行为、帐号体系、帐号管理”等方面的思考可以查看文章<br>
 （记得放链接）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[about me]]></title>
+        <id>https://magicmeowo.github.io//post/about</id>
+        <link href="https://magicmeowo.github.io//post/about">
+        </link>
+        <updated>2019-12-16T07:30:25.000Z</updated>
+        <content type="html"><![CDATA[<p>有一点神秘的人，<br>
+如果有机会的，希望可以遇见。</p>
 ]]></content>
     </entry>
     <entry>
