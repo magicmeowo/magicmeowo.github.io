@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-13T09:16:11.052Z</updated>
+    <updated>2020-01-15T11:18:26.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
@@ -88,7 +88,14 @@
 手机号注册同步绑定数据ID，邮箱密码 / 帐号密码 / 第三方快速登录。主要以手机号验证码进行登录，随着产品的发展壮大，逐渐补充登录方式。<br>
 【B端C化产品】<br>
 一般用户：手机号 / 邮箱 / 第三方注册，绑定手机号。企业级产品用户：需要满足条件。</p>
-<p>满足多种登录方式的流程图<br>
+<p>不同的产品确实有不同的注册方式，登录方式，绑定方式，但大多逃不出，<br>
+注册：表单+身份验证。<br>
+登录：密码/短信/第三方/生物属性登录。<br>
+绑定：手机，邮箱，第三方绑定。</p>
+<p>在此进行通用设计的一个模板抽象，会根据不同的场景有所修饰和改变，仅供参考。</p>
+<p><em><strong>密码登录&amp;验证码登录页面说明</strong></em><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<p>不满足多种登录方式的流程图<br>
 验证图</p>
 ]]></content>
     </entry>
