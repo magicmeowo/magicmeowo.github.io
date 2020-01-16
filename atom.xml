@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-16T04:21:42.494Z</updated>
+    <updated>2020-01-16T09:37:35.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
-    <link rel="self" href="https://magicmeowo.github.io//atom.xml"/>
+    <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
     <subtitle> welcome to my space  (๑&gt;◡&lt;๑)</subtitle>
-    <logo>https://magicmeowo.github.io//images/avatar.png</logo>
-    <icon>https://magicmeowo.github.io//favicon.ico</icon>
+    <logo>https://magicmeowo.github.io/images/avatar.png</logo>
+    <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
     <entry>
         <title type="html"><![CDATA[帐号的登录方式与绑定]]></title>
-        <id>https://magicmeowo.github.io//post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu</id>
-        <link href="https://magicmeowo.github.io//post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu">
+        <id>https://magicmeowo.github.io/post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu</id>
+        <link href="https://magicmeowo.github.io/post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu">
         </link>
         <updated>2020-01-08T08:43:29.000Z</updated>
         <content type="html"><![CDATA[<h3 id="前言">前言</h3>
 <p>登录往往是我们进入一个产品世界的第一步，不同产品有不同的登录方式。如“游客登录、密码登录、第三方授权登录...”，不同的登录方式涉及到帐号的绑定和安全机制的设计。因此帐号的行为（增删改查）作为整个帐号和产品系统的重要部分，非常值得好好研究总结及设计。</p>
 <p>本文灵感来源于后台产品的个人中心模块设计，在个人中心的帐号管理模块涉及到帐号的增删改查，以帐号的登录方式与绑定为主要分析内容。梳理登录流程，以及登录方式与绑定当前存在的一些优化问题。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%90%E5%8F%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%B8%8E%E7%BB%91%E5%AE%9A.png" alt="帐号的登录方式与绑定"></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%90%E5%8F%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%B8%8E%E7%BB%91%E5%AE%9A.png" alt="帐号的登录方式与绑定" loading="lazy"></p>
 <p>关于为什么我们需要一个帐号，谁在使用帐号，以及当前Web、移动端常见的帐号类型，<br>
 可以参考文章<a href="https://wxy.magicmeowo.space/post/account/">《真实世界中的你我，虚拟世界中的帐号》</a></p>
 <h3 id="帐号行为">帐号行为</h3>
@@ -94,21 +94,30 @@
 绑定：手机，邮箱，第三方绑定。</p>
 <p>在此进行通用设计的一个模板抽象，会根据不同的场景有所修饰和改变，仅供参考。</p>
 <p><strong>密码登录&amp;验证码登录页面说明</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>手机验证码验证流程 / 手机绑定流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>密码登录流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>忘记密码 / 找回密码 / 修改密码</strong> （包含邮箱验证码流程）<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt="" loading="lazy"></p>
 <p><strong>注册流程的简化流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于design system的一些小思考]]></title>
+        <id>https://magicmeowo.github.io/post/design system</id>
+        <link href="https://magicmeowo.github.io/post/design system">
+        </link>
+        <updated>2020-01-03T09:33:49.000Z</updated>
+        <content type="html"><![CDATA[<p>工作期间，公司开始属于自己的UI视觉规范，基于视觉设计规范，我们开始形成了模块组件迭代。并由此，围绕着产品交互，UI，前端开发，三轴同步跟进自己的系统，争取在需求确定后，以最准确最快速最低地成本完成迭代。本文就这一阶段的设计经历，谈一谈自己对于design system、规范、合作、以及不同类型的设计系统语言的理解。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的2019：社会新人→社会星人  ]]></title>
-        <id>https://magicmeowo.github.io//post/brief summery</id>
-        <link href="https://magicmeowo.github.io//post/brief summery">
+        <id>https://magicmeowo.github.io/post/brief summery</id>
+        <link href="https://magicmeowo.github.io/post/brief summery">
         </link>
         <updated>2019-12-31T13:21:21.000Z</updated>
         <content type="html"><![CDATA[<p><strong>社会新人</strong> 指刚刚步入社会的人。<br>
@@ -249,8 +258,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[真实世界中的你我，虚拟世界中的帐号]]></title>
-        <id>https://magicmeowo.github.io//post/account</id>
-        <link href="https://magicmeowo.github.io//post/account">
+        <id>https://magicmeowo.github.io/post/account</id>
+        <link href="https://magicmeowo.github.io/post/account">
         </link>
         <updated>2019-12-19T03:10:29.000Z</updated>
         <content type="html"><![CDATA[<h3 id="前言">前言</h3>
@@ -289,8 +298,8 @@ QQ，盛大游戏等。存在的问题：经常出现密码错误，忘记密码
     </entry>
     <entry>
         <title type="html"><![CDATA[about me]]></title>
-        <id>https://magicmeowo.github.io//post/about</id>
-        <link href="https://magicmeowo.github.io//post/about">
+        <id>https://magicmeowo.github.io/post/about</id>
+        <link href="https://magicmeowo.github.io/post/about">
         </link>
         <updated>2019-12-16T07:30:25.000Z</updated>
         <content type="html"><![CDATA[<p>有一点神秘的人，<br>
@@ -299,8 +308,8 @@ QQ，盛大游戏等。存在的问题：经常出现密码错误，忘记密码
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown learning]]></title>
-        <id>https://magicmeowo.github.io//post/markdown-learning</id>
-        <link href="https://magicmeowo.github.io//post/markdown-learning">
+        <id>https://magicmeowo.github.io/post/markdown-learning</id>
+        <link href="https://magicmeowo.github.io/post/markdown-learning">
         </link>
         <updated>2019-12-12T05:29:29.000Z</updated>
         <content type="html"><![CDATA[<p>期待学会 Markdown，工具都准备好啦，这里就用来记录我的学习过程吧。<br>
@@ -354,7 +363,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <p>终于到我最感兴趣的部分了，我真的有很多喜爱的图片，并且以后还想建立自己的相册和画集~</p>
 <h4 id="方法一超链接-本地图片">方法一：超链接-本地图片</h4>
 <p>!英文输入法下感叹号[链接名称(可点击区域)] (文件相对路径or绝对路径)<br>
-<img src="/Users/wangxiaoyi/Downloads/IMG_6415.JPG" alt="">（问题：如何寻找到正确的path？）<br>
+<img src="/Users/wangxiaoyi/Downloads/IMG_6415.JPG" alt="" loading="lazy">（问题：如何寻找到正确的path？）<br>
 可能因为当前软件不支持本地图片的原因，该图片并没有显示，于是我决定自己上传对比一下区别。</p>
 <!--![](https://magicmeowo.github.io//post-images/1576138945591.JPG) -->
 <img src="file:///Users/wangxiaoyi/Documents/Gridea/post-images/1576164375740.JPG" alt=“离不开心远一点，离A梦近一点。” width="500" height="500"/>
@@ -382,7 +391,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <li>the rest is metamodernity</li>
 </ul>
 <h3 id="9表格">9【表格】</h3>
-<figure data-type="image" tabindex="1"><img src="https://magicmeowo.github.io//post-images/1576162204325.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://magicmeowo.github.io//post-images/1576162204325.png" alt="" loading="lazy"></figure>
 <table>
 <thead>
 <tr>

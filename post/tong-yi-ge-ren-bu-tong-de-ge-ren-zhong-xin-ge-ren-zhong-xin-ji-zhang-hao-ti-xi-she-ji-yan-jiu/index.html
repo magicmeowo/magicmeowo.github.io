@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>帐号的登录方式与绑定 | Magicmeowo</title>
 <meta name="description" content=" welcome to my space  (๑>◡<๑)" />
-<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1579145223508">
+<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1579167452419">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://magicmeowo.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://magicmeowo.github.io/">
-  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1579145223508" alt="">
+  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1579167452419" alt="">
   </a>
   <h1 class="site-title">
     Magicmeowo
@@ -92,7 +92,7 @@
                 <h3 id="前言">前言</h3>
 <p>登录往往是我们进入一个产品世界的第一步，不同产品有不同的登录方式。如“游客登录、密码登录、第三方授权登录...”，不同的登录方式涉及到帐号的绑定和安全机制的设计。因此帐号的行为（增删改查）作为整个帐号和产品系统的重要部分，非常值得好好研究总结及设计。</p>
 <p>本文灵感来源于后台产品的个人中心模块设计，在个人中心的帐号管理模块涉及到帐号的增删改查，以帐号的登录方式与绑定为主要分析内容。梳理登录流程，以及登录方式与绑定当前存在的一些优化问题。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%90%E5%8F%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%B8%8E%E7%BB%91%E5%AE%9A.png" alt="帐号的登录方式与绑定"></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%90%E5%8F%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%B8%8E%E7%BB%91%E5%AE%9A.png" alt="帐号的登录方式与绑定" loading="lazy"></p>
 <p>关于为什么我们需要一个帐号，谁在使用帐号，以及当前Web、移动端常见的帐号类型，<br>
 可以参考文章<a href="https://wxy.magicmeowo.space/post/account/">《真实世界中的你我，虚拟世界中的帐号》</a></p>
 <h3 id="帐号行为">帐号行为</h3>
@@ -167,15 +167,15 @@
 绑定：手机，邮箱，第三方绑定。</p>
 <p>在此进行通用设计的一个模板抽象，会根据不同的场景有所修饰和改变，仅供参考。</p>
 <p><strong>密码登录&amp;验证码登录页面说明</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>手机验证码验证流程 / 手机绑定流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>密码登录流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>忘记密码 / 找回密码 / 修改密码</strong> （包含邮箱验证码流程）<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt="" loading="lazy"></p>
 <p><strong>注册流程的简化流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt=""></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 
               </div>
               <div class="toc-container">
@@ -204,9 +204,9 @@
         
           <div class="next-post">
             <div class="next">下一篇</div>
-            <a href="https://magicmeowo.github.io//post/brief summery">
+            <a href="https://magicmeowo.github.io/post/design system">
               <h3 class="post-title">
-                我的2019：社会新人→社会星人  
+                关于design system的一些小思考
               </h3>
             </a>
           </div>
