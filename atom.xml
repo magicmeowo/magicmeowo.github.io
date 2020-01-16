@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-16T10:06:27.995Z</updated>
+    <updated>2020-01-16T14:25:05.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -106,12 +106,21 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于design system的一些小思考]]></title>
+        <title type="html"><![CDATA[关于 design language system的一些小思考]]></title>
         <id>https://magicmeowo.github.io/post/design system</id>
         <link href="https://magicmeowo.github.io/post/design system">
         </link>
         <updated>2020-01-03T09:33:49.000Z</updated>
-        <content type="html"><![CDATA[<p>工作期间，公司开始属于自己的UI视觉规范，基于视觉设计规范，我们开始形成了模块组件迭代。并由此，围绕着产品交互，UI，前端开发，三轴同步跟进自己的系统，争取在需求确定后，以最准确最快速最低地成本完成迭代。本文就这一阶段的设计经历，谈一谈自己对于design system、规范、合作、以及不同类型的设计系统语言的理解。</p>
+        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>工作期间，公司开始属于自己的UI视觉规范，基于视觉设计规范，我们开始形成了模块组件迭代。并由此，围绕着产品交互，UI，前端开发，三轴同步跟进自己的系统，争取在需求确定后，以最准确最快速最低地成本完成迭代。本文就这一阶段的参与交互规范设计的经历，谈一谈自己对于design language system、规范、合作、以及不同类型的设计系统语言的理解。</p>
+<h3 id="我所理解的-design-language-system">我所理解的 design language system</h3>
+<p>Alla Kholmatova 在书籍《design system》中描述到早期设计体系发展的背景，建立于传统网页设计方式通常以&quot;页&quot;为单元进行思考，而随着互联网的飞速发展和产品复杂度的提升，非体系化的”页“思考与设计的方法越来越不适用，因此建立体系化的设计模式，对于产品的持久性发展至关重要。</p>
+<p><strong>设计语言系统</strong><br>
+若将其整体视为名词，则指的是一个渐成的以设计语言为主题的系统，又或者是以设计为主题的语言系统。<br>
+若将其拆解为动词与名词，则可理解为是设计与语言相关的系统。</p>
+<p>以上三者对于设计语言系统这个词的定义涵盖了大部分这个系统的使用场景。设计师和开发人员齐心协力设计与设计语言相关的系统，目的是为了让内部产品研发相关人员能够快速就所要设计的项目，需要用到的零部件快速达到一致。而这样一套语言的设计，需要考虑产品的真实业务场景，商业目标，用户的体验场景，心智模型，情感要素，产品开发的成本等相关因素。对于基本组件有了明确的定义，产品研发的相关工作人员就能够更加专注地研究场景，并基于各自擅长领域的研究，对于整体体系进行迭代升级，从而达到灵活可持续的长久发展。尽可能得提高消息传递的准确率和效率。</p>
+<p><strong>design language system的构成</strong><br>
+《design system》中提到设计moshi</p>
 ]]></content>
     </entry>
     <entry>
