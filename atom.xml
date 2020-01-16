@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-16T14:26:46.979Z</updated>
+    <updated>2020-01-16T14:31:59.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -120,7 +120,7 @@
 若将其拆解为动词与名词，则可理解为是设计与语言相关的系统。</p>
 <p>以上三者对于设计语言系统这个词的定义涵盖了大部分这个系统的使用场景。设计师和开发人员齐心协力设计与设计语言相关的系统，目的是为了让内部产品研发相关人员能够快速就所要设计的项目，需要用到的零部件快速达到一致。而这样一套语言的设计，需要考虑产品的真实业务场景，商业目标，用户的体验场景，心智模型，情感要素，产品开发的成本等相关因素。对于基本组件有了明确的定义，产品研发的相关工作人员就能够更加专注地研究场景，并基于各自擅长领域的研究，对于整体体系进行迭代升级，从而达到灵活可持续的长久发展。尽可能得提高消息传递的准确率和效率。</p>
 <p><strong>design language system的构成</strong><br>
-《design system》中提到设计moshi</p>
+《design system》中提到设计</p>
 ]]></content>
     </entry>
     <entry>
