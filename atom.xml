@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-16T14:31:59.886Z</updated>
+    <updated>2020-01-17T08:42:20.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -103,6 +103,8 @@
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt="" loading="lazy"></p>
 <p><strong>注册流程的简化流程</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
+<p>补充说明：<br>
+对于验证流程中，部分动作设定条件需实时监听才能激活状态，较于无条件默认用户触发可点击验证状态而言，开发流程更加繁琐，也可能会面临要修改流程细节的问题，因此可考虑验证填写空状态，即当用户未填写任何内容时，触发验证，给予提示“请输入...内容”，而输入过程中监听可以考虑仅在设定新密码过程中进行条件判断验证，如输入字符类型，输入位数等。</p>
 ]]></content>
     </entry>
     <entry>
@@ -120,7 +122,8 @@
 若将其拆解为动词与名词，则可理解为是设计与语言相关的系统。</p>
 <p>以上三者对于设计语言系统这个词的定义涵盖了大部分这个系统的使用场景。设计师和开发人员齐心协力设计与设计语言相关的系统，目的是为了让内部产品研发相关人员能够快速就所要设计的项目，需要用到的零部件快速达到一致。而这样一套语言的设计，需要考虑产品的真实业务场景，商业目标，用户的体验场景，心智模型，情感要素，产品开发的成本等相关因素。对于基本组件有了明确的定义，产品研发的相关工作人员就能够更加专注地研究场景，并基于各自擅长领域的研究，对于整体体系进行迭代升级，从而达到灵活可持续的长久发展。尽可能得提高消息传递的准确率和效率。</p>
 <p><strong>design language system的构成</strong><br>
-《design system》中提到设计</p>
+《design system》描述到设计体系包含”设计模式“和”实践方法“两个方面，设计模式包含功能性模式设计和感知性模式设计，功能性设计模式（组件设计）主要关注于行为和实体组成要素，感知性设计（风格设计）主要关注非实体组成要素，如界面外观，配色，字体等。实践方法则强调如何构建与维护体系，如前期规划，界面清查，模式库创建，文档撰写，语义定义，迭代。</p>
+<p>发展到现在，design system已经成为各互联网公司</p>
 ]]></content>
     </entry>
     <entry>
