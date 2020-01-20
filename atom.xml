@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-20T01:42:11.200Z</updated>
+    <updated>2020-01-20T01:46:43.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -663,6 +663,15 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <h3 id="11html语言支持">11【HTML语言支持】</h3>
 <h3 id="12数学公式插入">12【数学公式插入】</h3>
 <p>剩下的两个部分，就等我学有所成后再更新啦，下回再续~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何设计一个会“72变”的官网? （Pharbers - Website design）]]></title>
+        <id>https://magicmeowo.github.io/post/web-design</id>
+        <link href="https://magicmeowo.github.io/post/web-design">
+        </link>
+        <updated>2019-12-08T03:18:06.000Z</updated>
+        <content type="html"><![CDATA[<p>waiting to upload</p>
 ]]></content>
     </entry>
 </feed>
