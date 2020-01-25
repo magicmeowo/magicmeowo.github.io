@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>如何定义与描述时间？ | Magicmeowo</title>
 <meta name="description" content=" welcome to my space  (๑>◡<๑)" />
-<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1579524349946">
+<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1579918644688">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://magicmeowo.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://magicmeowo.github.io/">
-  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1579524349946" alt="">
+  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1579918644688" alt="">
   </a>
   <h1 class="site-title">
     Magicmeowo
@@ -80,35 +80,71 @@
                 2019-12-26
               </span>
               <span>
-                1 min read
+                2 min read
               </span>
               
             </div>
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>1、对时间的描述和度量。<br>
-2、时间的特征：连续，离散。<br>
-3、目的：行为事件<br>
-4、每个人在不同的场景下感知时间的方式不同：主动或被动的感知时间。<br>
-如：deadline<br>
-5、时间的滞后影响，可见但又容易忽略，其影响往往是巨大的。<br>
-6、时间查看的冬季，可能是用于反思过去，明确当下，和预测未来。 （英语语态）<br>
-7、时间的积累效应。<br>
-8、时间的周期性影响。<br>
-9、时间总有开始和结束。<br>
-10、时间水位线（应用场景min - max）<br>
-11、通过时间结合行为，定义规则。</p>
+                <h3 id="前言">前言</h3>
+<p>我一出世就沉没在时间里了，时间如水我如鱼。<br>
+那是烟、雾、空气的包围，浑然不觉如影相随，我几乎不能明确是我拥有了它还是我正被它裹挟。<br>
+——《抓不住的鼬鼠》周涛</p>
+<p>如何定义与描述时间，这个问题的提出来源于时间组件的设计，由于不同场景下的需求，对时间需要划分不同的颗粒度，时间的连续与它的一去不返的特点，让我关注到它，并引申出想要单独研究时间，探讨时间的想法。故作此文，记录关于时间的探讨以及设计的记录，文末会放关于时间组件的设计分析，仅供参考。</p>
+<h3 id="1-对时间的描述和度量">1、对时间的描述和度量</h3>
+<p>时间观：引用对于时间的定义，物质运动需要消耗“时”，“时间”是人根据物质运动消耗“时”所划分的对“时”的度量。将时光分割为时间，对时间命名，并加以区分，结合到具体的场景中使用。时间的概念是人类认识、归纳、描述自然的结果，是一种客观存在。</p>
+<h3 id="2-时间的特征连续离散">2、时间的特征：连续，离散。</h3>
+<h3 id="3-目的行为事件">3、目的：行为事件</h3>
+<h3 id="4-每个人在不同的场景下感知时间的方式不同主动或被动的感知时间-如deadline">4、每个人在不同的场景下感知时间的方式不同：主动或被动的感知时间。如：deadline</h3>
+<h3 id="5-时间的滞后影响可见但又容易忽略其影响往往是巨大的">5、时间的滞后影响，可见但又容易忽略，其影响往往是巨大的。</h3>
+<h3 id="6-时间查看的冬季可能是用于反思过去明确当下和预测未来-英语语态">6、时间查看的冬季，可能是用于反思过去，明确当下，和预测未来。 （英语语态）</h3>
+<h3 id="7-时间的积累效应">7、时间的积累效应。</h3>
+<h3 id="8-时间的周期性影响">8、时间的周期性影响。</h3>
+<h3 id="9-时间总有开始和结束">9、时间总有开始和结束。</h3>
+<h3 id="10-时间水位线应用场景min-max">10、时间水位线（应用场景min - max）</h3>
+<h3 id="11-通过时间结合行为定义规则">11、通过时间结合行为，定义规则。</h3>
 <p>特点、功能、感觉、程度。</p>
 
               </div>
               <div class="toc-container">
-                
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
+<li><a href="#1-%E5%AF%B9%E6%97%B6%E9%97%B4%E7%9A%84%E6%8F%8F%E8%BF%B0%E5%92%8C%E5%BA%A6%E9%87%8F">1、对时间的描述和度量</a></li>
+<li><a href="#2-%E6%97%B6%E9%97%B4%E7%9A%84%E7%89%B9%E5%BE%81%E8%BF%9E%E7%BB%AD%E7%A6%BB%E6%95%A3">2、时间的特征：连续，离散。</a></li>
+<li><a href="#3-%E7%9B%AE%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%BA%8B%E4%BB%B6">3、目的：行为事件</a></li>
+<li><a href="#4-%E6%AF%8F%E4%B8%AA%E4%BA%BA%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9C%BA%E6%99%AF%E4%B8%8B%E6%84%9F%E7%9F%A5%E6%97%B6%E9%97%B4%E7%9A%84%E6%96%B9%E5%BC%8F%E4%B8%8D%E5%90%8C%E4%B8%BB%E5%8A%A8%E6%88%96%E8%A2%AB%E5%8A%A8%E7%9A%84%E6%84%9F%E7%9F%A5%E6%97%B6%E9%97%B4-%E5%A6%82deadline">4、每个人在不同的场景下感知时间的方式不同：主动或被动的感知时间。如：deadline</a></li>
+<li><a href="#5-%E6%97%B6%E9%97%B4%E7%9A%84%E6%BB%9E%E5%90%8E%E5%BD%B1%E5%93%8D%E5%8F%AF%E8%A7%81%E4%BD%86%E5%8F%88%E5%AE%B9%E6%98%93%E5%BF%BD%E7%95%A5%E5%85%B6%E5%BD%B1%E5%93%8D%E5%BE%80%E5%BE%80%E6%98%AF%E5%B7%A8%E5%A4%A7%E7%9A%84">5、时间的滞后影响，可见但又容易忽略，其影响往往是巨大的。</a></li>
+<li><a href="#6-%E6%97%B6%E9%97%B4%E6%9F%A5%E7%9C%8B%E7%9A%84%E5%86%AC%E5%AD%A3%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%A8%E4%BA%8E%E5%8F%8D%E6%80%9D%E8%BF%87%E5%8E%BB%E6%98%8E%E7%A1%AE%E5%BD%93%E4%B8%8B%E5%92%8C%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5-%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%80%81">6、时间查看的冬季，可能是用于反思过去，明确当下，和预测未来。 （英语语态）</a></li>
+<li><a href="#7-%E6%97%B6%E9%97%B4%E7%9A%84%E7%A7%AF%E7%B4%AF%E6%95%88%E5%BA%94">7、时间的积累效应。</a></li>
+<li><a href="#8-%E6%97%B6%E9%97%B4%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E5%BD%B1%E5%93%8D">8、时间的周期性影响。</a></li>
+<li><a href="#9-%E6%97%B6%E9%97%B4%E6%80%BB%E6%9C%89%E5%BC%80%E5%A7%8B%E5%92%8C%E7%BB%93%E6%9D%9F">9、时间总有开始和结束。</a></li>
+<li><a href="#10-%E6%97%B6%E9%97%B4%E6%B0%B4%E4%BD%8D%E7%BA%BF%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AFmin-max">10、时间水位线（应用场景min - max）</a></li>
+<li><a href="#11-%E9%80%9A%E8%BF%87%E6%97%B6%E9%97%B4%E7%BB%93%E5%90%88%E8%A1%8C%E4%B8%BA%E5%AE%9A%E4%B9%89%E8%A7%84%E5%88%99">11、通过时间结合行为，定义规则。</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
               </div>
             </div>
           </article>
         </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://magicmeowo.github.io/post/form design">
+              <h3 class="post-title">
+                可思可议的Web表单设计
+              </h3>
+            </a>
+          </div>
         
 
         

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-20T12:50:22.368Z</updated>
+    <updated>2020-01-25T02:17:34.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -268,6 +268,32 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何定义与描述时间？]]></title>
+        <id>https://magicmeowo.github.io/post/time-design</id>
+        <link href="https://magicmeowo.github.io/post/time-design">
+        </link>
+        <updated>2019-12-26T04:04:12.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>我一出世就沉没在时间里了，时间如水我如鱼。<br>
+那是烟、雾、空气的包围，浑然不觉如影相随，我几乎不能明确是我拥有了它还是我正被它裹挟。<br>
+——《抓不住的鼬鼠》周涛</p>
+<p>如何定义与描述时间，这个问题的提出来源于时间组件的设计，由于不同场景下的需求，对时间需要划分不同的颗粒度，时间的连续与它的一去不返的特点，让我关注到它，并引申出想要单独研究时间，探讨时间的想法。故作此文，记录关于时间的探讨以及设计的记录，文末会放关于时间组件的设计分析，仅供参考。</p>
+<h3 id="1-对时间的描述和度量">1、对时间的描述和度量</h3>
+<p>时间观：引用对于时间的定义，物质运动需要消耗“时”，“时间”是人根据物质运动消耗“时”所划分的对“时”的度量。将时光分割为时间，对时间命名，并加以区分，结合到具体的场景中使用。时间的概念是人类认识、归纳、描述自然的结果，是一种客观存在。</p>
+<h3 id="2-时间的特征连续离散">2、时间的特征：连续，离散。</h3>
+<h3 id="3-目的行为事件">3、目的：行为事件</h3>
+<h3 id="4-每个人在不同的场景下感知时间的方式不同主动或被动的感知时间-如deadline">4、每个人在不同的场景下感知时间的方式不同：主动或被动的感知时间。如：deadline</h3>
+<h3 id="5-时间的滞后影响可见但又容易忽略其影响往往是巨大的">5、时间的滞后影响，可见但又容易忽略，其影响往往是巨大的。</h3>
+<h3 id="6-时间查看的冬季可能是用于反思过去明确当下和预测未来-英语语态">6、时间查看的冬季，可能是用于反思过去，明确当下，和预测未来。 （英语语态）</h3>
+<h3 id="7-时间的积累效应">7、时间的积累效应。</h3>
+<h3 id="8-时间的周期性影响">8、时间的周期性影响。</h3>
+<h3 id="9-时间总有开始和结束">9、时间总有开始和结束。</h3>
+<h3 id="10-时间水位线应用场景min-max">10、时间水位线（应用场景min - max）</h3>
+<h3 id="11-通过时间结合行为定义规则">11、通过时间结合行为，定义规则。</h3>
+<p>特点、功能、感觉、程度。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[可思可议的Web表单设计]]></title>
         <id>https://magicmeowo.github.io/post/form design</id>
         <link href="https://magicmeowo.github.io/post/form design">
@@ -526,16 +552,6 @@ QQ，盛大游戏等。存在的问题：经常出现密码错误，忘记密码
 <p><strong>科技的进步和碎片化场景的需求将各种各样的功能有设计地融合在一起，构成了我们现在看到的产品。而帐号体系，作为一个非常底层和基础的组成元素，贯穿了整条发展线。1个人所拥有的信息是海量的，围绕着帐号和相关的产品，能够关联一个人与产品甚至超出产品体系的信息。信息越来越透明的同时，信息安全也越来越重要，我们生活在真实世界中，我们也生活在虚拟世界中，真实世界中的你我，是，又不仅仅是虚拟世界中的“帐号”，祝畅游~</strong></p>
 <p>更多关于引发关于“帐号的增删改查、帐号行为、帐号体系、帐号管理”等方面的思考可以查看文章<br>
 （记得放链接）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[about me]]></title>
-        <id>https://magicmeowo.github.io/post/about</id>
-        <link href="https://magicmeowo.github.io/post/about">
-        </link>
-        <updated>2019-12-16T07:30:25.000Z</updated>
-        <content type="html"><![CDATA[<p>有一点神秘的人，<br>
-如果有机会的，希望可以遇见。</p>
 ]]></content>
     </entry>
     <entry>
