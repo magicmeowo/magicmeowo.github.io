@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-26T15:28:35.714Z</updated>
+    <updated>2020-01-26T16:18:58.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -29,6 +29,8 @@
 <p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
 <h2 id="关键点突破">关键点突破</h2>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4.png" alt="" loading="lazy"></figure>
+<p><strong>信息架构梳理</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
