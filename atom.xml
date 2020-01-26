@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-26T13:30:14.746Z</updated>
+    <updated>2020-01-26T14:06:06.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -11,12 +11,24 @@
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
     <entry>
-        <title type="html"><![CDATA[企业官网的交互设计 Pharbers website design]]></title>
+        <title type="html"><![CDATA[企业官网交互设计 Pharbers website design]]></title>
         <id>https://magicmeowo.github.io/post/website design</id>
         <link href="https://magicmeowo.github.io/post/website design">
         </link>
         <updated>2020-01-26T08:37:00.000Z</updated>
-        <content type="html"><![CDATA[<p>images upload</p>
+        <content type="html"><![CDATA[<h2 id="背景挑战">背景挑战</h2>
+<p><strong>关于法伯</strong><br>
+成立于2008年的法伯宏业——Pharbers，是一家关注建设医药行业领先的市场销售saas决策平台的公司，<br>
+致力于以高效便捷生动的方式解决客户对数据分析的需求，当前公司多款核心产品已覆盖多家内外资药企和医疗健卡机构。面对产品线类型和数量的增多，法伯希望通过整合各产品线打造一体化数据平台设计，<br>
+有利于公司多业务发展及管理的同时提高用户产品及服务体验。</p>
+<p>官网作为体现品牌产品和服务的展示和获取销售线索的入口，亦需要根据公司未来发展计划，<br>
+做出相应的信息架构布局展示，调整以适应不同阶段的公司及市场发展环境的变化。</p>
+<p><strong>我的角色</strong><br>
+信息架构梳理 &amp; 交互设计 &amp; 产品体验测试</p>
+<p><strong>团队协作</strong><br>
+产品策略、交互设计、视觉设计、研发工程</p>
+<p><strong>项目耗时</strong><br>
+2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
 ]]></content>
     </entry>
     <entry>
