@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-25T10:57:45.702Z</updated>
+    <updated>2020-01-26T08:38:55.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[企业官网的交互设计—— Pharbers official website design]]></title>
+        <id>https://magicmeowo.github.io/post/qi-ye-guan-wang-she-ji-pharbers-official-website-design</id>
+        <link href="https://magicmeowo.github.io/post/qi-ye-guan-wang-she-ji-pharbers-official-website-design">
+        </link>
+        <updated>2020-01-26T08:37:00.000Z</updated>
+        <content type="html"><![CDATA[<p>images upload</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帐号的登录方式与绑定]]></title>
         <id>https://magicmeowo.github.io/post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu</id>
@@ -707,7 +716,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何设计一个会“72变”的官网? （Pharbers - Website design）]]></title>
+        <title type="html"><![CDATA[如何设计一个会“72变”的官网? ]]></title>
         <id>https://magicmeowo.github.io/post/web-design</id>
         <link href="https://magicmeowo.github.io/post/web-design">
         </link>
