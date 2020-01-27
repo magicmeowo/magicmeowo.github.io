@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-27T04:22:57.809Z</updated>
+    <updated>2020-01-27T08:39:58.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://magicmeowo.github.io/post/website design">
         </link>
         <updated>2020-01-26T08:37:00.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="背景挑战">背景挑战</h2>
+        <content type="html"><![CDATA[<h3 id="背景挑战">背景挑战</h3>
 <p><strong>关于法伯</strong><br>
 成立于2008年的法伯宏业——Pharbers，是一家关注建设医药行业领先的市场销售saas决策平台的公司，<br>
 致力于以高效便捷生动的方式解决客户对数据分析的需求，当前公司多款核心产品已覆盖多家内外资药企和医疗健卡机构。面对产品线类型和数量的增多，法伯希望通过整合各产品线打造一体化数据平台设计，<br>
@@ -27,12 +27,14 @@
 <p><strong>团队协作</strong>：产品策略、交互设计、视觉设计、研发工程</p>
 <p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
 <p><strong>网站地址</strong>：占位（插入网站页面图片）</p>
-<h2 id="关键点突破">关键点突破</h2>
+<h3 id="关键点突破">关键点突破</h3>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4.png" alt="" loading="lazy"></figure>
-<h2 id="信息架构梳理">信息架构梳理</h2>
+<h3 id="信息架构梳理">信息架构梳理</h3>
 <figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png" alt="" loading="lazy"></figure>
-<h2 id="页面内容故事线设计">页面内容故事线设计</h2>
+<h3 id="页面内容故事线设计">页面内容故事线设计</h3>
 <figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%95%85%E4%BA%8B%E7%BA%BF.png" alt="" loading="lazy"></figure>
+<h3 id="页面层级数量关系及特点">页面层级数量关系及特点</h3>
+<figure data-type="image" tabindex="4"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%A1%B5%E9%9D%A2%E5%B1%82%E7%BA%A71.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
