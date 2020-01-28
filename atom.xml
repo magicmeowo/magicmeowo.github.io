@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-28T05:28:05.000Z</updated>
+    <updated>2020-01-28T06:15:36.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -27,6 +27,8 @@
 <p><strong>团队协作</strong>：产品策略、交互设计、视觉设计、研发工程</p>
 <p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
 <p><strong>网站地址</strong>：占位（插入网站页面图片）</p>
+<p><em><strong>友情提示： 图片内容可通过对网站比例尺寸调整放大查看</strong></em></p>
+<hr>
 <h3 id="关键点突破">关键点突破</h3>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4.png" alt="" loading="lazy"></figure>
 <h3 id="信息架构梳理">信息架构梳理</h3>
@@ -37,12 +39,30 @@
 <figure data-type="image" tabindex="4"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%A1%B5%E9%9D%A2%E5%B1%82%E7%BA%A72.png" alt="" loading="lazy"></figure>
 <h3 id="页面信息模块化设计">页面信息模块化设计</h3>
 <figure data-type="image" tabindex="5"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%A8%A1%E5%9D%97.png" alt="" loading="lazy"></figure>
+<h3 id="页面信息布局">页面信息布局</h3>
 <h3 id="网站页面构成">网站页面构成</h3>
 <figure data-type="image" tabindex="6"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BA%A4%E4%BA%92%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"></figure>
 <h3 id="导航与站点地图的设计">导航与站点地图的设计</h3>
 <figure data-type="image" tabindex="7"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/sitemap%20navi.png" alt="" loading="lazy"></figure>
 <h3 id="动作表单设计">动作表单设计</h3>
 <h3 id="设计回顾与小结">设计回顾与小结</h3>
+<p><strong>设计思路</strong><br>
+对比两种不同的设计思路，第一种是让每一个页面体现它的场景，第二种是页面间保持相对一致性，且展示页面来源。当内容信息和运营维护能力不够强的时候，无序的增加页面层级并不是明智的方案，只会增加内容空旷感和维护压力。</p>
+<p><strong>复关于用性与灵活性</strong><br>
+高度复用的结构和一致性的组件布局，整体网站符合一致性设计不容易让用户迷失。在设计的过程中不仅仅需要对于交互流程方式进行抽象，也需要对常规页面布局进行抽象，对不同展示标题信息动作组件和其它类型组件进行抽象，以达到最小成本，最便捷的交互流程，最熟悉的操作方式，最灵活的信息延展性。注重全局设计也注重局部细节设计。</p>
+<p><strong>关于复盘</strong><br>
+不要看表面样式，要看为什么要这样设计，要耐心分析元素构成，要考虑当前可实现的基础和全集延展性。<br>
+注重积累：积累元素，积累组件，积累布局，积累UI，积累状态，积累反馈，积累极限参数规则。</p>
+<p><strong>如何跳出当前方案的设计，保持持续迭代</strong><br>
+设计过程中有所考量的方案，暂时无法实现可以收纳于功能盒（functional box）。<br>
+如何跳出当前的方案，如何打破固有认知？<br>
+首先，要有井底之蛙需要有自知之明。最灵活最自由的东西，奇点的突破才是最难把握的。<br>
+1、当我们没有达到最灵活最自由的状态的时候，不要觉得当前的方案就是最好的，不存在最，只存在更。<br>
+2、利用时滞效应进行回顾，有时有效。<br>
+3、多角色多元角度进行回顾。（可以是自己演绎也可以是请教）<br>
+4、查看头部同类型内容，观察对方是否存在新突破点。<br>
+5、查看相似但不同类内容，观察是否有可融合点。<br>
+（很多时候打破现状的方法不仅是单一方法应用，更多的是多方法应用...有待补充）</p>
 <h3 id="参考网站">参考网站</h3>
 ]]></content>
     </entry>
