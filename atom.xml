@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-29T01:28:02.814Z</updated>
+    <updated>2020-01-29T07:28:34.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -775,7 +775,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
         <link href="https://magicmeowo.github.io/post/Tmist design">
         </link>
         <updated>2019-12-08T04:10:22.000Z</updated>
-        <content type="html"><![CDATA[<p>jjj</p>
+        <content type="html"><![CDATA[<p>在思考用一种更通俗易懂地方式表达。</p>
 ]]></content>
     </entry>
 </feed>
