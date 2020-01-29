@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-29T12:40:14.290Z</updated>
+    <updated>2020-01-29T13:12:04.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -380,15 +380,6 @@
 <p>结合对以上内容的思考，以及对于大部分时间选择器的研究。整理出了如下的一份思考小结，和时间选择器的构成。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8%E7%A0%94%E7%A9%B6.png" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/time%20picker.png" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8%E6%96%B9%E6%A1%88.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学科和科学，我开始有了一点点理解。]]></title>
-        <id>https://magicmeowo.github.io/post/science&amp;subject</id>
-        <link href="https://magicmeowo.github.io/post/science&amp;subject">
-        </link>
-        <updated>2019-12-26T02:48:49.000Z</updated>
-        <content type="html"><![CDATA[<p>前段时间很流行“达克效应”，主要是</p>
 ]]></content>
     </entry>
     <entry>
@@ -780,7 +771,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[游戏化的管理类测评工具（Tmist 区域管理测评工具）]]></title>
+        <title type="html"><![CDATA[游戏化的管理类测评工具设计（ Tmist - UCB ）]]></title>
         <id>https://magicmeowo.github.io/post/Tmist design</id>
         <link href="https://magicmeowo.github.io/post/Tmist design">
         </link>
