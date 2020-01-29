@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-29T07:28:34.489Z</updated>
+    <updated>2020-01-29T07:36:44.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -42,7 +42,7 @@
 <strong>影响力模块信息设计案例</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png" alt="" loading="lazy"></p>
 <h3 id="页面信息布局">页面信息布局</h3>
-<figure data-type="image" tabindex="5"><img src="https://magicmeowo.github.io//post-images/1580224694804.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%83%E5%B1%80%20(1).png" alt="" loading="lazy"></figure>
 <h3 id="网站页面构成">网站页面构成</h3>
 <figure data-type="image" tabindex="6"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BA%A4%E4%BA%92%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"></figure>
 <h3 id="导航与站点地图的设计">导航与站点地图的设计</h3>
