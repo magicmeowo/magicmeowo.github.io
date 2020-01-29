@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-29T08:45:40.985Z</updated>
+    <updated>2020-01-29T12:03:29.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -23,8 +23,8 @@
 有利于公司多业务发展及管理的同时提高用户产品及服务体验。</p>
 <p>官网作为体现品牌产品和服务的展示和获取销售线索的入口，亦需要根据公司未来发展计划，<br>
 做出相应的信息架构布局展示，调整以适应不同阶段的公司及市场发展环境的变化。</p>
-<p><strong>我的角色</strong>：信息架构梳理 &amp; 交互设计 &amp; 产品体验测试</p>
-<p><strong>团队协作</strong>：产品策略、交互设计、视觉设计、研发工程</p>
+<p><strong>我的参与</strong>：信息架构梳理 &amp; 全流程交互设计 &amp; 产品体验测试</p>
+<p><strong>项目属性</strong>：企业团队项目</p>
 <p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
 <p><strong>网站地址</strong>：占位（插入网站页面图片）</p>
 <p><em><strong>友情提示： 图片内容可通过对网站比例尺寸调整放大查看</strong></em></p>
@@ -785,10 +785,20 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
         <link href="https://magicmeowo.github.io/post/Tmist design">
         </link>
         <updated>2019-12-08T04:10:22.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="关于tmist">关于TMIST</h3>
-<p>TMIST（Teriitory Management Interactive Simulation Tool）以多维科学管理理论，精准算法模型定制真实场景，是一款用于医药企业区域市场管理模拟和区域经理培训的工具，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
-<p>**关键词：**场景分析、业务决策、管理决策</p>
-<p><strong>我的角色:</strong></p>
+        <content type="html"><![CDATA[<h3 id="关于-tmist">关于 TMIST</h3>
+<p>TMIST（Teriitory Management Interactive Simulation Tool）是一款用于医药企业区域市场管理模拟和区域经理培训的工具，它以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
+<p>（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
+<p><strong>关键词</strong>：场景分析、业务决策、管理决策</p>
+<p><strong>我的参与</strong>：信息架构梳理 &amp; 产品从0-1设计 &amp; 体验测试</p>
+<p><strong>项目属性</strong>：企业团队项目</p>
+<h3 id="关键点突破">关键点突破</h3>
+<h3 id="信息架构梳理">信息架构梳理</h3>
+<h3 id="部分功能设计展示">部分功能设计展示</h3>
+<p><strong>视觉</strong><br>
+<strong>信息定义</strong><br>
+<strong>交互流程</strong><br>
+<strong>交互页面</strong></p>
+<h3 id="设计回顾与小结">设计回顾与小结</h3>
 ]]></content>
     </entry>
 </feed>
