@@ -2,9 +2,9 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>游戏化的管理类测评工具设计（ Tmist-UCB ） | Magicmeowo</title>
+<title>游戏化的企业培训工具设计（Tmist-UCB） | Magicmeowo</title>
 <meta name="description" content=" welcome to my space  (๑>◡<๑)" />
-<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1580352858848">
+<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1580367764211">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://magicmeowo.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://magicmeowo.github.io/">
-  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1580352858848" alt="">
+  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1580367764211" alt="">
   </a>
   <h1 class="site-title">
     Magicmeowo
@@ -73,14 +73,14 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              游戏化的管理类测评工具设计（ Tmist-UCB ）
+              游戏化的企业培训工具设计（Tmist-UCB）
             </h2>
             <div class="post-info">
               <span>
                 2019-12-08
               </span>
               <span>
-                2 min read
+                3 min read
               </span>
               
                 <a href="https://magicmeowo.github.io/tag/project" class="post-tag">
@@ -94,16 +94,29 @@
             <div class="post-content-wrapper">
               <div class="post-content">
                 <h3 id="关于-tmist">关于 TMIST</h3>
-<p>TMIST（Teriitory Management Interactive Simulation Tool）是一款用于医药企业区域市场管理模拟和区域经理培训的工具，它以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
-<p>本软件与医药公司<a href="https://www.ucb.com/">优时比</a>( UCB )内部管理组织进行合作，用于公司内部管理和销售计划预测使用。（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
+<p>TMIST（Teriitory Management Interactive Simulation Tool）用于医药企业区域市场管理模拟和区域经理培训的工具，以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
+<p>本软件与医药公司<a href="https://www.ucb.com/">优时比</a>( UCB )内部管理组织进行合作，用于公司内部管理和销售计划预测使用，目标是协助UCB完成30位地区经理提供线上能力测评，并根据UCB对个人管理、业务管理、团队管理的能力模型定制分析报告，帮助企业全面了解销售管理团队能力，为进一步精准培训提供科学客观依据。</p>
+<p>（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
 <p><strong>关键词</strong>：场景分析、业务决策、管理决策</p>
 <p><strong>项目属性</strong>：企业团队项目</p>
 <p><strong>我的参与</strong>：信息架构梳理 &amp; 产品设计 &amp; 体验测试<br>
 V2.0.0 进行了原产品的彻底改版，实现了业务逻辑和交互逻辑的重构优化，并向 UCB 进行交付。<br>
+1、全新页面布局匹配流畅业务故事线。<br>
+2、明确各个对象的关联关系，灵活应用交互组件，减少用户操作步骤，明确引导用户操作。<br>
+3、多数据图表可视化展示。<br>
+4、完善各项提示信息反馈。<br>
+5、新增多关卡多周期测试场景。<br>
 V3.0.0 针对业务决策和管理决策进行交互优化，对数据的导出内容和功能进行设计，实现多周期测评功能。</p>
-<h3 id="关键点突破">关键点突破</h3>
+<h3 id="问题与挑战">问题与挑战</h3>
+<p>-对企业人员的培训效率低下，培训工作量太大。<br>
+-培训结果难以追踪，缺乏持续跟进的手段。<br>
+-适应性差，角色的期望不断发生变化。</p>
+<h3 id="应对挑战解决问题信息架构梳理">应对挑战，解决问题——信息架构梳理</h3>
+<p>铁马，依据地区经理的能力模型，进行构建。</p>
+<h3 id=""></h3>
+<h3 id="设计关键点突破">设计关键点突破</h3>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/Tmist%E5%85%B3%E9%94%AE%E7%AA%81%E7%A0%B4%E7%82%B9.png" alt="" loading="lazy"></figure>
-<h3 id="信息架构梳理">信息架构梳理</h3>
+<h3 id="项目流程">项目流程</h3>
 <h3 id="部分功能设计展示">部分功能设计展示</h3>
 <p><strong>视觉</strong><br>
 <strong>信息定义</strong><br>
@@ -119,8 +132,11 @@ V3.0.0 针对业务决策和管理决策进行交互优化，对数据的导出�
 <li>
 <ul>
 <li><a href="#%E5%85%B3%E4%BA%8E-tmist">关于 TMIST</a></li>
-<li><a href="#%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4">关键点突破</a></li>
-<li><a href="#%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84%E6%A2%B3%E7%90%86">信息架构梳理</a></li>
+<li><a href="#%E9%97%AE%E9%A2%98%E4%B8%8E%E6%8C%91%E6%88%98">问题与挑战</a></li>
+<li><a href="#%E5%BA%94%E5%AF%B9%E6%8C%91%E6%88%98%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84%E6%A2%B3%E7%90%86">应对挑战，解决问题——信息架构梳理</a></li>
+<li></li>
+<li><a href="#%E8%AE%BE%E8%AE%A1%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4">设计关键点突破</a></li>
+<li><a href="#%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B">项目流程</a></li>
 <li><a href="#%E9%83%A8%E5%88%86%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1%E5%B1%95%E7%A4%BA">部分功能设计展示</a></li>
 <li><a href="#%E8%AE%BE%E8%AE%A1%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B0%8F%E7%BB%93">设计回顾与小结</a></li>
 </ul>

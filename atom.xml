@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-30T02:54:23.015Z</updated>
+    <updated>2020-01-30T07:02:46.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -770,22 +770,35 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[游戏化的管理类测评工具设计（ Tmist-UCB ）]]></title>
+        <title type="html"><![CDATA[游戏化的企业培训工具设计（Tmist-UCB）]]></title>
         <id>https://magicmeowo.github.io/post/Tmist design</id>
         <link href="https://magicmeowo.github.io/post/Tmist design">
         </link>
         <updated>2019-12-08T04:10:22.000Z</updated>
         <content type="html"><![CDATA[<h3 id="关于-tmist">关于 TMIST</h3>
-<p>TMIST（Teriitory Management Interactive Simulation Tool）是一款用于医药企业区域市场管理模拟和区域经理培训的工具，它以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
-<p>本软件与医药公司<a href="https://www.ucb.com/">优时比</a>( UCB )内部管理组织进行合作，用于公司内部管理和销售计划预测使用。（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
+<p>TMIST（Teriitory Management Interactive Simulation Tool）用于医药企业区域市场管理模拟和区域经理培训的工具，以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
+<p>本软件与医药公司<a href="https://www.ucb.com/">优时比</a>( UCB )内部管理组织进行合作，用于公司内部管理和销售计划预测使用，目标是协助UCB完成30位地区经理提供线上能力测评，并根据UCB对个人管理、业务管理、团队管理的能力模型定制分析报告，帮助企业全面了解销售管理团队能力，为进一步精准培训提供科学客观依据。</p>
+<p>（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
 <p><strong>关键词</strong>：场景分析、业务决策、管理决策</p>
 <p><strong>项目属性</strong>：企业团队项目</p>
 <p><strong>我的参与</strong>：信息架构梳理 &amp; 产品设计 &amp; 体验测试<br>
 V2.0.0 进行了原产品的彻底改版，实现了业务逻辑和交互逻辑的重构优化，并向 UCB 进行交付。<br>
+1、全新页面布局匹配流畅业务故事线。<br>
+2、明确各个对象的关联关系，灵活应用交互组件，减少用户操作步骤，明确引导用户操作。<br>
+3、多数据图表可视化展示。<br>
+4、完善各项提示信息反馈。<br>
+5、新增多关卡多周期测试场景。<br>
 V3.0.0 针对业务决策和管理决策进行交互优化，对数据的导出内容和功能进行设计，实现多周期测评功能。</p>
-<h3 id="关键点突破">关键点突破</h3>
+<h3 id="问题与挑战">问题与挑战</h3>
+<p>-对企业人员的培训效率低下，培训工作量太大。<br>
+-培训结果难以追踪，缺乏持续跟进的手段。<br>
+-适应性差，角色的期望不断发生变化。</p>
+<h3 id="应对挑战解决问题信息架构梳理">应对挑战，解决问题——信息架构梳理</h3>
+<p>铁马，依据地区经理的能力模型，进行构建。</p>
+<h3 id=""></h3>
+<h3 id="设计关键点突破">设计关键点突破</h3>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/Tmist%E5%85%B3%E9%94%AE%E7%AA%81%E7%A0%B4%E7%82%B9.png" alt="" loading="lazy"></figure>
-<h3 id="信息架构梳理">信息架构梳理</h3>
+<h3 id="项目流程">项目流程</h3>
 <h3 id="部分功能设计展示">部分功能设计展示</h3>
 <p><strong>视觉</strong><br>
 <strong>信息定义</strong><br>
