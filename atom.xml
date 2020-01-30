@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-01-29T15:37:28.202Z</updated>
+    <updated>2020-01-30T02:54:23.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -23,8 +23,8 @@
 有利于公司多业务发展及管理的同时提高用户产品及服务体验。</p>
 <p>官网作为体现品牌产品和服务的展示和获取销售线索的入口，亦需要根据公司未来发展计划，<br>
 做出相应的信息架构布局展示，调整以适应不同阶段的公司及市场发展环境的变化。</p>
-<p><strong>我的参与</strong>：信息架构梳理 &amp; 全流程交互设计 &amp; 产品体验测试</p>
 <p><strong>项目属性</strong>：企业团队项目</p>
+<p><strong>我的参与</strong>：信息架构梳理 &amp; 全流程交互设计 &amp; 产品体验测试</p>
 <p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
 <p><strong>网站地址</strong>：占位（插入网站页面图片）</p>
 <p><em><strong>友情提示： 图片内容可通过对网站比例尺寸调整放大查看</strong></em></p>
@@ -42,12 +42,11 @@
 <strong>影响力模块信息设计案例</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png" alt="" loading="lazy"></p>
 <h3 id="页面信息布局">页面信息布局</h3>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%83%E5%B1%80%20.png" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/3x4variations%20poster.jpg" alt="3x4 variations poster原图链接" loading="lazy"></p>
+<figure data-type="image" tabindex="5"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%83%E5%B1%80%20.png" alt="" loading="lazy"></figure>
 <h3 id="网站页面构成">网站页面构成</h3>
-<figure data-type="image" tabindex="5"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BA%A4%E4%BA%92%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BA%A4%E4%BA%92%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"></figure>
 <h3 id="导航与站点地图的设计">导航与站点地图的设计</h3>
-<figure data-type="image" tabindex="6"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/sitemap%20navi.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/sitemap%20navi.png" alt="" loading="lazy"></figure>
 <h3 id="动作表单设计">动作表单设计</h3>
 <p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A1%A8%E5%8D%95%E5%8A%A8%E4%BD%9C.png" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A1%A8%E5%8D%95%E5%8A%A8%E4%BD%9C%E8%AF%B4%E6%98%8E.png" alt="" loading="lazy"></p>
@@ -780,8 +779,10 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <p>TMIST（Teriitory Management Interactive Simulation Tool）是一款用于医药企业区域市场管理模拟和区域经理培训的工具，它以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
 <p>本软件与医药公司<a href="https://www.ucb.com/">优时比</a>( UCB )内部管理组织进行合作，用于公司内部管理和销售计划预测使用。（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
 <p><strong>关键词</strong>：场景分析、业务决策、管理决策</p>
-<p><strong>我的参与</strong>：信息架构梳理 &amp; 产品从0-1设计 &amp; 体验测试</p>
 <p><strong>项目属性</strong>：企业团队项目</p>
+<p><strong>我的参与</strong>：信息架构梳理 &amp; 产品设计 &amp; 体验测试<br>
+V2.0.0 进行了原产品的彻底改版，实现了业务逻辑和交互逻辑的重构优化，并向 UCB 进行交付。<br>
+V3.0.0 针对业务决策和管理决策进行交互优化，对数据的导出内容和功能进行设计，实现多周期测评功能。</p>
 <h3 id="关键点突破">关键点突破</h3>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/Tmist%E5%85%B3%E9%94%AE%E7%AA%81%E7%A0%B4%E7%82%B9.png" alt="" loading="lazy"></figure>
 <h3 id="信息架构梳理">信息架构梳理</h3>
