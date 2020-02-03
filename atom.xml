@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-03T01:44:05.795Z</updated>
+    <updated>2020-02-03T01:48:52.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -814,9 +814,12 @@ TMIST 依据地区经理的能力模型，进行构建。<img src="https://raw.g
 <p><strong>视觉展示</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A7%86%E8%A7%89%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"><br>
 <strong>交互页面展示</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2.png" alt="V3.0.0" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2V2.0.png" alt="V2.0.0" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2V1.0.0.png" alt="V1.0.0" loading="lazy"><br>
+<strong>V3.0.0</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"><br>
+<strong>V2.0.0</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2V2.0.png" alt="" loading="lazy"><br>
+<strong>V1.0.0</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2V1.0.0.png" alt="" loading="lazy"><br>
 <strong>反馈提示</strong><br>
 反馈提示设计需建立标准模板库，友好型一致性话术设计需根据不同的场景需要进行迭代。<br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%8F%90%E7%A4%BA%E5%8F%8D%E9%A6%88.png" alt="" loading="lazy"></p>
