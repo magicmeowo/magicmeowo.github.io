@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-03T02:01:01.219Z</updated>
+    <updated>2020-02-03T02:56:02.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -812,7 +812,7 @@ TMIST 依据地区经理的能力模型，进行构建。<img src="https://raw.g
 <figure data-type="image" tabindex="4"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/TIMST%20%E9%93%81%E9%A9%AC%20%E5%85%A8%E6%96%B03.0%20%E9%80%9A%E7%94%A8%E7%89%88.jpg" alt="" loading="lazy"></figure>
 <h3 id="8-部分功能设计展示">8. 部分功能设计展示</h3>
 <p><strong>视觉展示</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A7%86%E8%A7%89%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A7%86%E8%A7%89%E9%A1%B5%E9%9D%A2v3.0.0.png" alt="" loading="lazy"><br>
 <strong>交互页面展示</strong><br>
 <strong>V3.0.0</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"><br>
