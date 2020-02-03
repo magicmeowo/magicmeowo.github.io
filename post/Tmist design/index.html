@@ -2,9 +2,9 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>游戏化的企业培训工具设计（Tmist-UCB） | Magicmeowo</title>
+<title>TMIST 区域管理模拟沙盘工具设计 | Magicmeowo</title>
 <meta name="description" content=" welcome to my space  (๑>◡<๑)" />
-<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1580367764211">
+<link rel="shortcut icon" href="https://magicmeowo.github.io//favicon.ico?v=1580694227310">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://magicmeowo.github.io//styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://magicmeowo.github.io/">
-  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1580367764211" alt="">
+  <img class="avatar" src="https://magicmeowo.github.io//images/avatar.png?v=1580694227310" alt="">
   </a>
   <h1 class="site-title">
     Magicmeowo
@@ -73,14 +73,14 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              游戏化的企业培训工具设计（Tmist-UCB）
+              TMIST 区域管理模拟沙盘工具设计
             </h2>
             <div class="post-info">
               <span>
                 2019-12-08
               </span>
               <span>
-                3 min read
+                8 min read
               </span>
               
                 <a href="https://magicmeowo.github.io/tag/project" class="post-tag">
@@ -93,36 +93,71 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <h3 id="关于-tmist">关于 TMIST</h3>
-<p>TMIST（Teriitory Management Interactive Simulation Tool）用于医药企业区域市场管理模拟和区域经理培训的工具，以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
+                <h3 id="1-关于-tmist">1. 关于 TMIST</h3>
+<p>TMIST（Territory Management Interactive Simulation Tool）用于医药企业区域市场管理模拟和区域经理培训的工具，以多维科学管理理论，精准算法模型定制真实场景，协助企业应对复杂多变的医药销售环境，区域经理通过铁马 Tmist 进行基于真实市场的模拟训练，深度剖析和解读团队能力图谱及面临的挑战。</p>
 <p>本软件与医药公司<a href="https://www.ucb.com/">优时比</a>( UCB )内部管理组织进行合作，用于公司内部管理和销售计划预测使用，目标是协助UCB完成30位地区经理提供线上能力测评，并根据UCB对个人管理、业务管理、团队管理的能力模型定制分析报告，帮助企业全面了解销售管理团队能力，为进一步精准培训提供科学客观依据。</p>
-<p>（由于属于企业内部产品，考虑到产品隐私，此文仅就我从设计结果和过程进行简单小结分享）</p>
+<p><em>（由于属于企业内部产品，考虑到产品隐私，此文仅就设计结果和过程进行简单小结分享）</em></p>
 <p><strong>关键词</strong>：场景分析、业务决策、管理决策</p>
 <p><strong>项目属性</strong>：企业团队项目</p>
-<p><strong>我的参与</strong>：信息架构梳理 &amp; 产品设计 &amp; 体验测试<br>
-V2.0.0 进行了原产品的彻底改版，实现了业务逻辑和交互逻辑的重构优化，并向 UCB 进行交付。<br>
+<p><strong>我的参与</strong>：信息架构梳理 &amp; 产品设计 &amp; 体验测试</p>
+<p><strong>V2.0.0</strong> 进行了原产品的彻底改版，实现了业务逻辑和交互逻辑的重构优化，并向 UCB 进行交付。<br>
 1、全新页面布局匹配流畅业务故事线。<br>
-2、明确各个对象的关联关系，灵活应用交互组件，减少用户操作步骤，明确引导用户操作。<br>
-3、多数据图表可视化展示。<br>
-4、完善各项提示信息反馈。<br>
-5、新增多关卡多周期测试场景。<br>
-V3.0.0 针对业务决策和管理决策进行交互优化，对数据的导出内容和功能进行设计，实现多周期测评功能。</p>
-<h3 id="问题与挑战">问题与挑战</h3>
-<p>-对企业人员的培训效率低下，培训工作量太大。<br>
--培训结果难以追踪，缺乏持续跟进的手段。<br>
--适应性差，角色的期望不断发生变化。</p>
-<h3 id="应对挑战解决问题信息架构梳理">应对挑战，解决问题——信息架构梳理</h3>
-<p>铁马，依据地区经理的能力模型，进行构建。</p>
-<h3 id=""></h3>
-<h3 id="设计关键点突破">设计关键点突破</h3>
+2、明确各个对象的关联关系，灵活应用交互组件，减少用户操作步骤，明确引导用户操作。</p>
+<p><strong>V3.0.0</strong> 针对业务决策和管理决策进行交互优化，对数据的导出内容和功能进行设计，实现多周期测评功能。<br>
+1、交互更加便捷高效。<br>
+2、多数据图表可视化展示。<br>
+3、完善各项提示信息反馈。<br>
+4、新增多关卡多周期测试场景故事。<br>
+5、测评报告场景内容更加丰富。</p>
+<h3 id="2-问题挑战">2. 问题挑战</h3>
+<p>1、对企业人员的培训效率低下，培训工作量太大。<br>
+2、培训结果难以追踪，缺乏持续跟进的手段。<br>
+3、适应性差，角色的期望不断发生变化。</p>
+<h3 id="3-解决问题">3. 解决问题</h3>
+<p><strong>信息架构梳理</strong><br>
+TMIST 依据地区经理的能力模型，进行构建。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%83%BD%E5%8A%9B%E7%BB%B4%E5%BA%A6.png" alt="" loading="lazy"><br>
+通过设计贴合企业人才发展和培养计划的内容测评，持续深度了解被测者能力图谱变化，有的放矢。<br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AE%9A%E5%88%B6%E5%8C%96.png" alt="" loading="lazy"><br>
+作为计划工具，可以建立真实的数据库，配合区域经理实际工作计划与执行反馈。<br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%83%BD%E5%8A%9B%E5%88%86%E6%9E%90.png" alt="" loading="lazy"></p>
+<h3 id="4-设计关键点突破">4. 设计关键点突破</h3>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/Tmist%E5%85%B3%E9%94%AE%E7%AA%81%E7%A0%B4%E7%82%B9.png" alt="" loading="lazy"></figure>
-<h3 id="项目流程">项目流程</h3>
-<h3 id="部分功能设计展示">部分功能设计展示</h3>
-<p><strong>视觉</strong><br>
-<strong>信息定义</strong><br>
-<strong>交互流程</strong><br>
-<strong>交互页面</strong></p>
-<h3 id="设计回顾与小结">设计回顾与小结</h3>
+<h3 id="5-项目流程">5. 项目流程</h3>
+<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></figure>
+<h3 id="6-多周期交互流程图">6. 多周期交互流程图</h3>
+<figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/TMIST%E6%B5%81%E7%A8%8B%E5%9B%BE.png" alt="" loading="lazy"></figure>
+<h3 id="7-基本信息架构">7. 基本信息架构</h3>
+<figure data-type="image" tabindex="4"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/TIMST%20%E9%93%81%E9%A9%AC%20%E5%85%A8%E6%96%B03.0%20%E9%80%9A%E7%94%A8%E7%89%88.jpg" alt="" loading="lazy"></figure>
+<h3 id="8-部分功能设计展示">8. 部分功能设计展示</h3>
+<p><strong>视觉展示</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A7%86%E8%A7%89%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"><br>
+<strong>交互页面展示</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2.png" alt="V3.0.0" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2V2.0.png" alt="V2.0.0" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E9%A1%B5%E9%9D%A2V1.0.0.png" alt="V1.0.0" loading="lazy"><br>
+<strong>反馈提示</strong><br>
+反馈提示设计需建立标准模板库，友好型一致性话术设计需根据不同的场景需要进行迭代。<br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%8F%90%E7%A4%BA%E5%8F%8D%E9%A6%88.png" alt="" loading="lazy"></p>
+<h3 id="9-设计回顾与小结">9. 设计回顾与小结</h3>
+<p>TMIST 作为用于经理进行区域销售模拟管理的测评工具，与业务管理、团队管理、个人管理紧密相连。而为了更好的决策，对外部信息和对内部信息分析也十分重要。TMIST 的设计不仅加深了我对管理学的认识，更新了我关于企业发展与整个公司业务目标，团队管理，人才培养等企业管理相关的知识。在产品设计领域，也增强了我对于标准化和结构化以及复用性的理解，与整个开发团队，视觉设计团队的沟通和协作。</p>
+<p><strong>管理的艺术</strong><br>
+小到个人的管理，大到团队、企业的管理和国家的管理甚至整个世界的管理。如果说把人生比作产品，那每个人都是人生这个产品的设计师和产品经理，因此管理是每个人都需要掌握的艺术。对于个人管理而言可能涉及到阶段性目标管理、知识能力管理、任务时间管理、情绪管理、财务管理、人际管理、信息管理、物品管理等， 管理更像是设计和维持一种环境，使在这一环境中工作的人们能够用尽可能少的支出实现既定的目标，或者以现有的资源实现最大的目标（最优资源配置）。</p>
+<p><strong>MVP 灵活的产品设计</strong><br>
+产品设计中有一个产品理论是MVP（Minimum Viable Product —— 最简化可实行产品，也有人称最小可行性产品。对于这个产品理论我有 2 种理解，第 1 种是达到最简化可实行说明该产品处于现阶段最灵活状态，意味着可以向下一个发展阶段有多种可能。第 2 种是为了产品在实现过程中，达到最精准可行，不会出现反工现象。而理论的应用场景，可以作为产品设计的阶段性目标，也可以作为检验目标的准则。</p>
+<p>在设计 TMIST 的过程中，早期由于需求的不确认需要进行多次调整。所以再实际落实到工程实现过程中，也会遇到返工的现象，这很容易导致团队成员因重复劳动而产生不良情绪。因此在设计方案前，应尽可能再次和业务方沟通和落实清楚产品的设计方案，并进行方案自检。此处强调的最小可实行，往往针对主线流程，涉及到用户体验，除非业务方强调需求，应该根据实际的工程实施情况，进行重要性排序。</p>
+<p><strong>工具产品设计原则</strong><br>
+工具相比于其他类型的产品，其实更加注重用于体验。工具参与完成创新活动且作为重要手段之一，选择合适的工具会使创新活动的效率更高、甚至会达到倍增的效果。创新活动反过来又对工具的改进和新工具的需求起着强大的推动作用。为了达到效率的提升，因此在工具的设计上应尽量满足：<br>
+1、清晰的产品故事，产品功能及使用方式介绍，让用户明确产品功能。<br>
+2、符合用户认知的简易页面布局，易懂的指导性语言。<br>
+3、常规交互组件，减少冗余交互动作及功能，避免自创组件。<br>
+4、精准操作且提供可预测结果。</p>
+<p><strong>聚是一团火，散是满天星</strong><br>
+项目的执行过程中，有伙伴加入，有伙伴离开。那些大家为产品设计出谋划策的时间，始终保存在我的记忆中。在每一个成员的身上，我都有学习到很多，积极踏实的工作态度，乐于助人的分享态度，深入细致的思考与钻研精神，为团队付出的精神......一个项目的落地真的需要大量的时间和精力，大到功能，小到像素，每一处的调整都是环环相扣，需要大家共同的主动努力，因此，我也在努力学习如何成为会鼓励他人的人。</p>
+<p><strong>沟通，其实也是一种体验设计</strong><br>
+团队的力量是巨大的，而沟通是很好的润滑剂。做到主动沟通，精准沟通，友好沟通，并没有想象中的简单。在学习工作沟通的过程中，由逻辑不清到有条有理，能做到就事论事，这是我的进步。我也有反思，就事论事和就人论事的异同。就事论事在短期内快速做到理清事情的关键，但是往往会对他人造成情绪上的波动。说者无心，听者有意。面对团队场景，个人认为就事论事可以快速达到效果，细节之处可以就人论事，此时需要考虑听者的看法。面对个人，我认为需要就事论事为主，就人论事为辅，让听者能够更好地接受你的观点，于是沟通也成为一种体验设计，我想这也是大家常说到的沟通的艺术。</p>
+<p><strong>精益 Never End</strong><br>
+有生命的产品遵循螺旋上升曲线，没有完美，只有更美，所以产品的当前版本，也只是一个“逗号”而已。<br>
+<strong>加油！！</strong></p>
 
               </div>
               <div class="toc-container">
@@ -131,14 +166,15 @@ V3.0.0 针对业务决策和管理决策进行交互优化，对数据的导出�
 <ul>
 <li>
 <ul>
-<li><a href="#%E5%85%B3%E4%BA%8E-tmist">关于 TMIST</a></li>
-<li><a href="#%E9%97%AE%E9%A2%98%E4%B8%8E%E6%8C%91%E6%88%98">问题与挑战</a></li>
-<li><a href="#%E5%BA%94%E5%AF%B9%E6%8C%91%E6%88%98%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84%E6%A2%B3%E7%90%86">应对挑战，解决问题——信息架构梳理</a></li>
-<li></li>
-<li><a href="#%E8%AE%BE%E8%AE%A1%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4">设计关键点突破</a></li>
-<li><a href="#%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B">项目流程</a></li>
-<li><a href="#%E9%83%A8%E5%88%86%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1%E5%B1%95%E7%A4%BA">部分功能设计展示</a></li>
-<li><a href="#%E8%AE%BE%E8%AE%A1%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B0%8F%E7%BB%93">设计回顾与小结</a></li>
+<li><a href="#1-%E5%85%B3%E4%BA%8E-tmist">1. 关于 TMIST</a></li>
+<li><a href="#2-%E9%97%AE%E9%A2%98%E6%8C%91%E6%88%98">2. 问题挑战</a></li>
+<li><a href="#3-%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98">3. 解决问题</a></li>
+<li><a href="#4-%E8%AE%BE%E8%AE%A1%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4">4. 设计关键点突破</a></li>
+<li><a href="#5-%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B">5. 项目流程</a></li>
+<li><a href="#6-%E5%A4%9A%E5%91%A8%E6%9C%9F%E4%BA%A4%E4%BA%92%E6%B5%81%E7%A8%8B%E5%9B%BE">6. 多周期交互流程图</a></li>
+<li><a href="#7-%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84">7. 基本信息架构</a></li>
+<li><a href="#8-%E9%83%A8%E5%88%86%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1%E5%B1%95%E7%A4%BA">8. 部分功能设计展示</a></li>
+<li><a href="#9-%E8%AE%BE%E8%AE%A1%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B0%8F%E7%BB%93">9. 设计回顾与小结</a></li>
 </ul>
 </li>
 </ul>
