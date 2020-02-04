@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io/</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-04T03:30:34.179Z</updated>
+    <updated>2020-02-04T03:33:42.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io/"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -38,7 +38,8 @@
 <h3 id="5-页面层数-关系及特点">5、页面层数、关系及特点</h3>
 <figure data-type="image" tabindex="4"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%A1%B5%E9%9D%A2%E5%B1%82%E7%BA%A72.png" alt="" loading="lazy"></figure>
 <h3 id="6-页面信息模块化设计">6、页面信息模块化设计</h3>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%A8%A1%E5%9D%97.png" alt="" loading="lazy"><br>
+<p><strong>信息模块</strong><br>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%A8%A1%E5%9D%97.png" alt="" loading="lazy"><br>
 <strong>影响力模块信息设计案例</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png" alt="" loading="lazy"></p>
 <h3 id="7-页面信息布局">7、页面信息布局</h3>
