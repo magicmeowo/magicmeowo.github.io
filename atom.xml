@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://magicmeowo.github.io/</id>
+    <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-10T15:24:22.977Z</updated>
+    <updated>2020-02-10T15:33:03.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://magicmeowo.github.io/"/>
+    <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
     <subtitle> welcome to my space  (๑&gt;◡&lt;๑)</subtitle>
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
@@ -743,7 +743,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <p>!英文输入法下感叹号[链接名称(可点击区域)] (文件相对路径or绝对路径)<br>
 <img src="/Users/wangxiaoyi/Downloads/IMG_6415.JPG" alt="" loading="lazy">（问题：如何寻找到正确的path？）<br>
 可能因为当前软件不支持本地图片的原因，该图片并没有显示，于是我决定自己上传对比一下区别。</p>
-<!--![](https://magicmeowo.github.io//post-images/1576138945591.JPG) -->
+<!--![](https://magicmeowo.github.io/post-images/1576138945591.JPG) -->
 <img src="file:///Users/wangxiaoyi/Documents/Gridea/post-images/1576164375740.JPG" alt=“离不开心远一点，离A梦近一点。” width="500" height="500"/>
 【路径复制的结果不一样，于是了解了一下 mac 如何进行文件路径查询，右键文件后按option，
 拷贝“文件名”会变拷贝“文件名”路径，amazing~】
@@ -769,7 +769,7 @@ sorry,暂时没有发现如何对倾斜加粗的文字进行删除...   😃</p>
 <li>the rest is metamodernity</li>
 </ul>
 <h3 id="9表格">9【表格】</h3>
-<figure data-type="image" tabindex="1"><img src="https://magicmeowo.github.io//post-images/1576162204325.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://magicmeowo.github.io/post-images/1576162204325.png" alt="" loading="lazy"></figure>
 <table>
 <thead>
 <tr>
