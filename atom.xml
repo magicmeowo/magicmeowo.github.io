@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-17T04:57:19.275Z</updated>
+    <updated>2020-02-17T05:36:06.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -26,7 +26,7 @@
 <p><strong>项目属性</strong>：企业团队项目</p>
 <p><strong>我的参与</strong>：信息架构梳理 &amp; 全流程交互设计 &amp; 产品体验测试</p>
 <p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
-<p><strong>网站地址</strong>：占位（插入网站页面图片）</p>
+<p><a href="http://web.pharbers.com"><strong>网站地址</strong></a></p>
 <p><em><strong>友情提示： 图片内容可通过对网站比例尺寸调整放大查看</strong></em></p>
 <hr>
 <h3 id="2关键点突破">2.关键点突破</h3>
