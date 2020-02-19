@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-17T05:36:06.219Z</updated>
+    <updated>2020-02-19T16:51:29.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
-    <subtitle> welcome to my space  (๑&gt;◡&lt;๑)</subtitle>
+    <subtitle> welcome to my space  &gt;◡&lt;</subtitle>
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
@@ -25,8 +25,8 @@
 做出相应的信息架构布局展示，调整以适应不同阶段的公司及市场发展环境的变化。</p>
 <p><strong>项目属性</strong>：企业团队项目</p>
 <p><strong>我的参与</strong>：信息架构梳理 &amp; 全流程交互设计 &amp; 产品体验测试</p>
-<p><strong>项目耗时</strong>：2个月：从设计到开发（2019/12/09 — 2020/01/22）</p>
-<p><a href="http://web.pharbers.com"><strong>网站地址</strong></a></p>
+<p><strong>项目耗时</strong>：2个月：从设计到开发开始执行（2019/12/09 — 2020/01/22）</p>
+<p><a href="http://web.pharbers.com"><strong>网站地址</strong></a>（开发中）</p>
 <p><em><strong>友情提示： 图片内容可通过对网站比例尺寸调整放大查看</strong></em></p>
 <hr>
 <h3 id="2关键点突破">2.关键点突破</h3>
@@ -172,7 +172,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于 design language system的一些思考]]></title>
+        <title type="html"><![CDATA[关于 design language system 的一些思考]]></title>
         <id>https://magicmeowo.github.io/post/design system</id>
         <link href="https://magicmeowo.github.io/post/design system">
         </link>
