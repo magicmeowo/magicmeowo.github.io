@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-19T16:51:29.269Z</updated>
+    <updated>2020-02-20T03:22:05.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -162,7 +162,7 @@
 <p><strong>手机验证码验证流程 / 手机绑定流程</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p><strong>密码登录流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
+<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/password%20entry.png" alt="" loading="lazy"></p>
 <p><strong>忘记密码 / 找回密码 / 修改密码</strong> （包含邮箱验证码流程）<br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt="" loading="lazy"></p>
 <p><strong>注册流程的简化流程</strong><br>
@@ -405,8 +405,8 @@
 <p>另外在检索“达克效应”的过程中，发现英国哲学家——贝特朗罗素说过的一句话“我们这个时代让人困扰的事之一是：那些对事确信无疑的人其实很蠢，而那些富有想象力和理解力的人却总是怀疑和优柔寡断。”，看来即便是处于平稳阶段的人，也会有他的困难。</p>
 <p><strong>主观能动性</strong><br>
 也许关于对内对外引发自己感到自己无知的场景区分，意义并不大，本质上一定是因为有输入，才会有相应的反馈。这也就意味着，如果能够增加不同类型的输入频率和输入深度，便能够更加快速和有效地更新自己的认知。被动型输入容易让人产生不适，因此主动性便变得非常重要。这让我想到两个案例，均来自生命。第一个案例是鸡蛋，被敲开始无生命的，从里面开确实拥有生命的。第二案例是花朵，含苞待放的花朵，在外力作用下打开的美，并没有由内而外绽放那样自然。因此，对于从无知到有知变化的过程，如果想要有良好的体验，主动是非常重要的。</p>
-<p><strong>构建自己的知识能力体系</strong><br>
-关于建立知识能力体系，是需要分场景的。比如围绕三观（价值观、世界观、人生观），或者围绕生活，围绕工作等。这是非常庞大的体系，我也是在工作一年后，开始逐渐有了自己的理解。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%B8%89%E8%A7%82%E5%AE%9A%E4%B9%89.png" alt="" loading="lazy"><br>
+<h3 id="基于三观构建自己的知识能力体系">基于三观构建自己的知识能力体系</h3>
+<p>关于建立知识能力体系，是需要分场景的。比如围绕三观（价值观、世界观、人生观），或者围绕生活，围绕工作等。这是非常庞大的体系，我也是在工作一年后，开始逐渐有了自己的理解。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%B8%89%E8%A7%82%E5%AE%9A%E4%B9%89.png" alt="" loading="lazy"><br>
 来自百度百科的对于三观的定义（较客观，若有其它更丰富的内容解读，欢迎分享）<br>
 关于价值观，我感觉自己并不能够有明确的定义，价值观似乎是建立在个人与外部环境长久交互过程中而产生的。与其说个人定义，不如谈谈自己的希望。我希望世界美好，万物有爱，我期待所有的事都变得美好，并渴望自己能够奉献一份力量。我也相信事情有糟糕和美好的一面，黑暗中总会有一束光给予希望。而关于价值，我相信所有的事情都有存在的意义，于己，或于他/她/它。</p>
 <p>关于世界观，学生时期建立世界观，主要来源于课堂，家庭。从小我们的教育体制，就帮我们划分了学科门类，基于对于基础学科的学习，在接受高等教育时，选择自己日后要钻研的方向。但现实是，大部分高中毕业生并不知道大学的专业方向对于自己的影响，所以在选择上也并没有达到理想。因此对于学科的门类的认知，随着教育体制改革的发展，应该逐渐纳入通识中。这也就意味着，在孩子还不能建立自己对于学问知识和世界的认知框架时，长辈们应该尽可能地以一种孩子能接受（趣味培养更佳）的方式，向孩子们描绘世界和学科的关联关系。这样也许能更培养孩子们学习了解学科的兴趣，从而更加了解世界。全面系统的知识构建并不是一朝一夕之事，需要结合体验，经历实践才能领域。而在学生时期，多指点，多激励，激发孩子们的好奇心，就像播种一样，当时间变长，孩子自然会收获属于自己的森林。<br>
