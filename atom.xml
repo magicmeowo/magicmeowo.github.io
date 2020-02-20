@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-02-20T06:32:11.321Z</updated>
+    <updated>2020-02-20T07:32:46.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,17 +10,6 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
-    <entry>
-        <title type="html"><![CDATA[一些读后感 some Impression after reading]]></title>
-        <id>https://magicmeowo.github.io/post/impression-after-reading</id>
-        <link href="https://magicmeowo.github.io/post/impression-after-reading">
-        </link>
-        <updated>2020-02-20T06:29:02.000Z</updated>
-        <content type="html"><![CDATA[<p>开这个模块用于持续记录阅读感想，不仅仅是自己的感想，也包含他人的评价。</p>
-<p>【2020/02/20】<br>
-<a href="http://dy.163.com/v2/article/detail/DK3FC7BV0521PA4F.html">《知识的边界》</a></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[企业官网交互设计 Pharbers website design]]></title>
         <id>https://magicmeowo.github.io/post/website design</id>
@@ -198,6 +187,17 @@
 <p><strong>design language system的构成</strong><br>
 《design system》描述到设计体系包含”设计模式“和”实践方法“两个方面，设计模式包含功能性模式设计和感知性模式设计，功能性设计模式（组件设计）主要关注于行为和实体组成要素，感知性设计（风格设计）主要关注非实体组成要素，如界面外观，配色，字体等。实践方法则强调如何构建与维护体系，如前期规划，界面清查，模式库创建，文档撰写，语义定义，迭代。</p>
 <p>发展到现在，design system已经成为各互联网公司</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些读后感 some Impression after reading]]></title>
+        <id>https://magicmeowo.github.io/post/impression-after-reading</id>
+        <link href="https://magicmeowo.github.io/post/impression-after-reading">
+        </link>
+        <updated>2020-01-01T06:29:02.000Z</updated>
+        <content type="html"><![CDATA[<p>开这个模块用于持续记录阅读感想，不仅仅是自己的感想，也包含他人的评价。</p>
+<p>【2020/02/20】<br>
+<a href="http://dy.163.com/v2/article/detail/DK3FC7BV0521PA4F.html">《知识的边界》</a></p>
 ]]></content>
     </entry>
     <entry>
