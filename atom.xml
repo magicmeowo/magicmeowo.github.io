@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-03-21T02:35:07.375Z</updated>
+    <updated>2020-03-21T03:01:28.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[爵士乐学习之旅]]></title>
+        <id>https://magicmeowo.github.io/post/Jazz Music</id>
+        <link href="https://magicmeowo.github.io/post/Jazz Music">
+        </link>
+        <updated>2020-03-21T02:54:48.000Z</updated>
+        <content type="html"><![CDATA[<p>自由浪漫的爵士乐是我漫长人生中的一剂良药，我想习得它，拥有它，与它的自由浪漫永远在一起。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[求职历程小总结 ]]></title>
         <id>https://magicmeowo.github.io/post/job application</id>
@@ -491,7 +500,7 @@
 <p><strong>关于达克效应中的绝望之谷</strong><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%82%93%E5%AE%81%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94.jpeg" alt="" loading="lazy"><br>
 前段时间很流行“达克效应”，第一次看到这张图时候，我感觉我自己就处在绝望之谷，当然现在好像也没走出绝望之谷。我感觉我处在绝望之谷，是因为生活的位置与未来的不确定性，还有我来自工作上同事们的指导。虽然身处绝望之谷，经常让人感到崩溃，但无需过度苛责自己，只要保持空杯和积极，意识到自己无知，是学习和进步地开始。我也是在一次又一次的自我暗示下，找到了心态平衡点。在急切需要提升个人认知和知识及经验时，下意识告诉自己慢就是快。而这里的慢是想强调通过对事物本质建立更深层次需要花费时间，这是必须的，所以不要让心态影响了学习的过程。</p>
-<p>另外在检索“达克效应”的过程中，发现英国哲学家——贝特朗罗素说过的一句话“我们这个时代让人困扰的事之一是：那些对事确信无疑的人其实很蠢，而那些富有想象力和理解力的人却总是怀疑和优柔寡断。”，看来即便是处于平稳阶段的人，也会有他的困难。</p>
+<p>另外在检索“达克效应”的过程中，发现英国哲学家——贝特朗罗素说过的一句话“我们这个时代让人困扰的事之一是：那些对事确信无疑的人其实很蠢，而那些富有想象力和理解力的人却总是怀疑和优柔寡断。”看来即便是处于平稳阶段的人，也会有他的困难。</p>
 <p><strong>主观能动性</strong><br>
 也许关于对内对外引发自己感到自己无知的场景区分，意义并不大，本质上一定是因为有输入，才会有相应的反馈。这也就意味着，如果能够增加不同类型的输入频率和输入深度，便能够更加快速和有效地更新自己的认知。被动型输入容易让人产生不适，因此主动性便变得非常重要。这让我想到两个案例，均来自生命。第一个案例是鸡蛋，被敲开始无生命的，从里面开确实拥有生命的。第二案例是花朵，含苞待放的花朵，在外力作用下打开的美，并没有由内而外绽放那样自然。因此，对于从无知到有知变化的过程，如果想要有良好的体验，主动是非常重要的。</p>
 <h3 id="基于三观构建自己的知识能力体系">基于三观构建自己的知识能力体系</h3>
@@ -511,227 +520,6 @@
 人生的阶段不能单纯地按年龄进行分割，虽然有大致时段分割，但各自人生阶段能由自己决定。因此到了什么年龄就该做什么年龄的事，也只具有相对借鉴意义，很开心我能大致窥见未来将会发生的一些事。虽然对于“哲学三问”我依然没有办法给出肯定的答案，但是面对不确定的世界，我似乎也开始变得期待。</p>
 <p>我热爱生活，也期待一直如此 ~</p>
 <p>关于职业的能力知识架构，后期新增文章分享，还在积累中～～</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可思可议的Web表单设计]]></title>
-        <id>https://magicmeowo.github.io/post/form design</id>
-        <link href="https://magicmeowo.github.io/post/form design">
-        </link>
-        <updated>2019-12-24T05:30:54.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="前言"><strong>前言</strong></h3>
-<p>本文基于上传数据流程的表单设计流程进行总结，全文篇幅较长，大家可根据目录各取所需。<br>
-欢迎多多交流，共同进步～</p>
-<p><strong>本文目录</strong></p>
-<p>一、表单的定义与用途<br>
-二、表单的使用场景<br>
-三、从内容信息开始设计表单<br>
-四、表单构成<br>
-五、一步表单与分步表单，表单布局。<br>
-六、表单的页面交互方式<br>
-七、表单的设计原则<br>
-八、参考文献及资料</p>
-<p><strong>关键词：</strong><br>
-表单、信息标签、容错性设计、步骤组件（steps）的应用、进度条组件、页面交互、表单动作、设计原则</p>
-<h3 id="一-表单的定义及用途"><strong>一、表单的定义及用途</strong></h3>
-<p>表单在网页中主要负责数据采集功能。通常情况下，表单由一系列总结的模块化信息标签(表单信息标题)、对应的输入组件（input components），和表单操作的动作，反馈提示信息构成。有结构、有逻辑、强引导，且注重保护用户隐私信息的表单，往往能够在适宜的场景下成功采集信息。</p>
-<h3 id="二-表单的使用场景"><strong>二、表单的使用场景</strong></h3>
-<p>常见使用表单的场景如：注册流程、创建流程、购买填写信息流程、用户调研问卷等信息输入流程。与使用填写表单不同，此处分享创建表单的流程设计，作为表单设计者，既需要建表单，又需要填表单，还需要验证填写的内容。</p>
-<h3 id="三-从内容信息开始设计表单"><strong>三、从内容信息开始设计表单</strong></h3>
-<p>作为一个专门用于收集数据、信息等内容的表单，必须明确它的第一要务，收集哪些信息。<br>
-根据不同的业务场景需要，需要定义表单内容的边界，信息的主次，以及呈列的结构。<br>
-比如账号注册，可能包含的信息会有姓名、生日、邮箱账号、密码等。<br>
-确定好了表单的信息内容，也就完成了表单设计的第一步。</p>
-<h3 id="四-表单构成"><strong>四、表单构成</strong></h3>
-<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/1%E3%80%81%E8%A1%A8%E5%8D%95%E6%9E%84%E6%88%90" alt="表单构成" loading="lazy"></figure>
-<p>结合表单构成，我们从信息角度、交互角度、视觉角度对构成元素进行分析。</p>
-<p><strong>1、友好型引导提示</strong></p>
-<p>友好型引导，即以一种亲切的口吻引导用户进行流程操作。引导、提示、解决故障，均属于容错性设计领域的范畴。容错性，是使系统在部分组件（一个或多个）发生故障时仍能正常运作的能力。容错性最初应用于计算机领域，它的存在能保证系统在故障存在的情况下不失效，仍然正常工作。产品容错性设计能使产品与人的交流或人与人借助产品的交流更加流畅。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/2%E3%80%81%E5%AE%B9%E9%94%99%E6%80%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99" alt="" loading="lazy"></p>
-<p>友好型引导可以激励用户进行操作，同时也可以进行避免用户进行错误操作。在用户操作过程中出现的提示或验证，可以帮助用户尽快完成相关操作。而反馈以及反馈分析能够帮助用户明确操作结果以及及时调整操作。</p>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/3%E3%80%81Airbnb%E6%88%BF%E6%BA%90%E5%88%9B%E5%BB%BA" alt="" loading="lazy"><br>
-▲ 图片来自Airbnb 创建房源流程</p>
-<p>在Airbnb的创建房源流程中，标题以对话的形式向用户提问，让用户进行选择。同时对于每一个选择项有相关解释，避免用户选择失误。</p>
-<p><strong>2、信息标签的展示及交互</strong></p>
-<p>明确每一个信息标签的信息层级，尽可能用通俗的语言描述你要获取的信息类型得到信息标签的定义，控制信息标签的长度，对于难以解释较专业化或抽象化的词汇，可以通过标志icon和交互组件tooltips进行解释。</p>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/4%E3%80%81%E8%A1%8C%E5%8A%A8%E7%82%B9%E6%95%B0" alt="" loading="lazy"><br>
-▲ 图片来自某设计稿</p>
-<p><strong>常见的信息标签的对齐方式</strong></p>
-<p>左对齐、右对齐，顶对齐，框内标签。</p>
-<p>根据Matteo Penzo的眼动实验发现，顶部标签方式，标签移动到输入框需50毫秒，比左对齐标签方式（500毫秒）快了10倍，比右对齐标签方式（240毫秒）快了5倍左右。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/5%E3%80%81%E7%9C%BC%E5%8A%A8%E5%AE%9E%E9%AA%8C.gif" alt="" loading="lazy"><br>
-▲ 图片来自Google 图片搜索“Matteo Penzo的眼动实验”</p>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/6%E3%80%81%E7%9C%BC%E5%8A%A8%E8%AF%B4%E6%98%8E" alt="" loading="lazy"><br>
-▲ 图片来自Google 图片搜索</p>
-<p><strong>具体场景分析</strong></p>
-<p><strong>a、左对齐</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/7%E3%80%81Google%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83" alt="" loading="lazy"><br>
-▲ 图片来自Google 个人中心</p>
-<p>左对齐标签，符合用户从左往右的阅读逻辑，鼓励用户能够清晰地浏览信息。<br>
-优点：部分场合鼓励用户认真阅读信息再进行填写。<br>
-缺点：当标签信息长短不一且结合输入框横向排列时，需要控制标签与输入框的合理距离。是对齐方式中阅读最慢的。标签文字信息长度不够灵活。</p>
-<p><strong>b、右对齐</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/8%E3%80%81Instagram%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83" alt="" loading="lazy"><br>
-▲ 图片来自Instagram 个人中心</p>
-<p>与左对齐标签相似，符合常规的阅读逻辑，但相比左对齐，右对齐阅读速度要更快。<br>
-优点：当希望用户快速识别信息并填写时，同时充分利用页面空间时可以采用右对齐。<br>
-缺点：当标签信息长短不一且结合输入框横向排列时，需要控制标签与输入框的合理距离。标签文字信息长度不够灵活。</p>
-<p><strong>c、顶对齐</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/9%E3%80%81Pinterest%20setting" alt="" loading="lazy"><br>
-▲ 图片来自pinterest account setting</p>
-<p>顶对齐标签，web表单标签顶对齐的方式，是识别最迅速的一种对齐方式。</p>
-<p>优点：在有输入框的场景下成功避免了左对齐和右对齐对于垂直距离的影响，灵活运用于各种组件中，标签的长度更加灵活，在输入框内可以定义相应的提示信息。</p>
-<p>缺点：输入框内文本信息需要精准定义，尽量文字歧义。用户需要阅读的信息较多。</p>
-<p><strong>d、输入框内部标签</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/10%E3%80%81Google%E7%99%BB%E5%BD%95%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"><br>
-▲ 图片来自Google  登陆流程（左：默认状态；右：激活状态）</p>
-<p>交互方式：当用户激活输入框时，默认的标签可能消失或者移动到输入框上方或左上角。<br>
-优点：在有输入框的场景下成功避免了左对齐和右对齐对于垂直距离的影响。<br>
-缺点：相较于顶对齐，采用输入框内部标签需要考虑动效设计。当输入框信息较多时，不建议使用标签信息隐藏的组件。避免用户中途忘记输入内容的主题。</p>
-<p>根据你的设计场景，选择合适的标签对齐方式吧～</p>
-<p><strong>3、常用的信息输入组件及反馈</strong></p>
-<p>短输入框、长输入框、段落输入框、标签选择、radio选择器、checkbox选择器、下拉选择框、文件上传框、时间选择器、日期选择器、地址选择器等..每一种输入组件的使用都需要对应你定义的信息边界，信息格式，信息的容量。并结合输入前的默认状态，输入中的激活状态，输入后的结果状态，给予相应的反馈与提示。</p>
-<p>（信息输入组件特点，将以其它独立文章形式进行总结，本文仅对该部分内容进行基本概述。）</p>
-<p><strong>4、填写表单过程中涉及到的决定性动作及反馈</strong></p>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/11%E3%80%81%E5%85%B3%E9%94%AE%E8%A1%A8%E5%8D%95%E5%8A%A8%E4%BD%9C" alt="" loading="lazy"><br>
-这些动作针对的对象是？是全局操作，局部操作？<br>
-动作是怎么触发的，在哪触发，何时触发，触发后的结果是？我们一一研究。</p>
-<p><strong>取消：</strong><br>
-全局取消，局部取消。此处讨论全局取消即取消关闭正在进行的表单填写过程，考虑组件的样式，位置，激活方式以及反馈。</p>
-<p>取消后反馈：<br>
-1、放弃该表单填写流程，返回着陆页；<br>
-2、是否给予提示“是否确定要退出？”及退出后果供用户决策。（通常用于信息量较大且不允许多次编辑的流程中。）<br>
-结合保存功能讨论全局取消：手动保存的情况下提示，点击退出后是否要保存当前状态？<br>
-1、退出并自动保存；<br>
-2、保留上一次用户手动保存的版本？<br>
-如果有自动保存功能，编辑即保存，退出也意味着保存，则回到上一页，发布过程独立。<br>
-（具体的动作结果需要根据具体的信息内容重要性及输入场景确定）</p>
-<p><strong>离线保存</strong><br>
-在线存储指联网状态下将资料放在网络上存储。从用户角度来讲用户不仅可以通过web方式进行在线手动文件管理，并且可以通过客户端方式实现离线编辑和在线自动同步上传，用户可以通过修改本地磁盘文件来修改网络文件。即无论客户机处于在线状态还是处于离线状态，用户都可以对本地文件夹中的文件进行编辑，一旦客户机处于在线状态，系统会自动同步文件到网上。指在断网情况下仍可以保存，数据将临时缓存，等到网络正常时再同步数据到线上，可以最大程度不影响用户使用产品，比如石墨的网页和客户端就提供了离线保存功能，如图所示。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/12%E3%80%81%E7%9F%B3%E5%A2%A8%E6%96%87%E6%A1%A3%E7%BC%96%E6%96%87%E6%A1%A3%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"><br>
-▲ 图片来自石墨文档，编辑文档流程。</p>
-<p><strong>自动保存</strong><br>
-通过定时的自动保存来避免由于意外断电、误操作或系统错误导致的损失，给予编辑者安全感。<br>
-常见的几种自动保存设计机制：<br>
-1、用户编辑过程中或停止编辑状态下设置定时保存，不给予用户保存状态通知，但不会干扰用户进行操作。如Mac OS X Lion auto save<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/13%E3%80%81macos%E6%97%A9%E6%9C%9F%20aotosave" alt="" loading="lazy"></p>
-<p>2、在编辑过程中或停止编辑状态下定时保存，给予用户保存状态，不干扰用户进行操作。同时设置手动保存快捷键。如石墨文档；Adobe creative suites<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/14%E3%80%81%E7%9F%B3%E5%A2%A8%E6%96%87%E6%A1%A3aotosave.png" alt="" loading="lazy"><br>
-▲ 图片来自石墨文档  编辑文档流程</p>
-<p>3、设定自动保存，但同时也提供手动保存操作按钮，让用户放心。<br>
-对于文章编辑器而言，用户在打字排版过程中是几乎需要实时地对输入的内容进行保存，所以自动保存在文章编辑器中是最为常见的，并且当提供了定时自动保存，手动保存的功能其实也是可以不需要了（但为了给用户确定性，一些产品还是会保留）。</p>
-<p><strong>手动保存</strong><br>
-通常用于数据信息不会频繁发生变化的场景，当用户需要保存时，可以进行手动保存。<br>
-手动保存可结合分步表单设计，进行分步保存。通常这类表单也提供独立的模块编辑功能。<br>
-如若不提供独立的保存动作，通常为表单结束后进行提交保存。<br>
-优点：节约开发成本，将选择权交给用户。<br>
-缺点：由于不是实时自动保存和定时保存，可能存在意外退出导致数据丢失的情况。多次点击保存，同时间可能出现多条保存状态反馈提示。</p>
-<p><strong>复位的使用场景</strong><br>
-当涉及到多项内容输入，面临更改时，可能面临一键复位的情况。如答题问卷。<br>
-复位涉及到局部复位和全局复位，对于重要或者输入信息量较大的流程，<br>
-当用户触发复位时，需要给予用户相应的结果提示，米面用户进行误操作无法修复。<br>
-否则则需考虑版本控制。即有规则地设定保存用户修改的记录，并提供恢复版本。</p>
-<p><strong>预览的使用场景</strong><br>
-预览功能主要满足用户无法在编辑的过程中实现所见即所得，通过预览预期编辑效果。<br>
-使用场景：常见的自媒体编辑器，或者后台文件需要在前台进行进行展示如B端C化产品，此时通常会用到预览功能。如公众号预览，Airbnb创建房源信息预览。<br>
-预览相关的动作：预览权限、预览有效时间 预览是否保存。</p>
-<p><strong>发布的使用场景</strong><br>
-发布用于区分是否真正完成，以决定是否可见或有效，如果是H5编辑器、创作平台文章编辑器、workflow 编辑器建议做，表单编辑器可做可不做（用户侧编辑完成一个表单的操作会比较简单），图片编辑器一般无需考虑做。</p>
-<h3 id="五-一步表单与分步表单表单布局"><strong>五、一步表单与分步表单，表单布局。</strong></h3>
-<p>完成表单的流程类型包括<br>
-1、一步表单：单一流程一次性保存提交<br>
-2、分步表单：单一流程分步进行一次性保存提交<br>
-3、分步表单：分步保存提交。</p>
-<p><strong>单一流程一次性保存提交</strong></p>
-<p><strong>a、单一表单</strong></p>
-<p>单一流程一次保存提交通常为要求必填信息内容完全输入，或无明确规定分步的内容表单。如调查问卷。此类表单信息内容不宜过多，且最好设置自动保存功能。避免用户中途中断数据输入，导致数据丢失或收集失败。<br>
-优点：简短的信息内容获取快速便捷。<br>
-缺点：不适用于较长的信息表单设计。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/18%E3%80%81%E9%97%AE%E5%8D%B7%E7%BD%91" alt="" loading="lazy"><br>
-▲ 图片来自问卷网</p>
-<p><strong>b、多表单合集</strong></p>
-<p>各个分类表单相对独立，可以进行单一流程保存提交，如Teambtion 个人中心。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/19%E3%80%81teambion" alt="" loading="lazy"><br>
-▲ 图片来自Teambiton</p>
-<p><strong>单一流程分步进行一次性保存提交</strong></p>
-<p>单一流程分步进行通常会采用“步骤组件（steps）”进行引导，明确每一步的动作，激励用户进行输入，当用户完成所有的步骤点击完成/提交后，数据信息被保存。与无分步的表单相比，有步骤引导提示的表单，更能够让用户有耐心地完成信息的输入。步骤组件在布局上有多种展示形式，横向、纵向，视觉上还会细分具体为具体的进度条展示或步骤条。不同的使用场景需要匹配具体的步骤组件。</p>
-<p><strong>a、横向步骤组件（horizontal steps）使用场景</strong></p>
-<p>通常用于单个流程，希望用户按流程进行，分步较少，输入数据内容较少的场景。单流程内分步填写，多数情况允许用户在进入下流程后可以选择返回上一步更改输入。少数情况如“答题类-单题结算记分流程”则不会允许用户重新填写。</p>
-<p>优点：适用于数量较少的分类清楚，有条例逻辑的结构化信息，信息量适中，引导用户填写，并告知用户填写进度，用户体验较好。<br>
-缺点：不适用于没有结构化分类的信息，或结构化信息条目较多的场景。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/20%E3%80%81%E5%8D%83%E7%89%9B%E7%BD%91" alt="" loading="lazy"><br>
-▲ 图片来自千牛申请免费开店流程，该流程允许用户返回上一步。</p>
-<p><strong>b、纵向步骤组件（vertical steps）使用场景</strong></p>
-<p>当单一流程中有较多结构化信息，流程较长且需要分步时，采用纵向步骤组件。<br>
-优点：较于横向步骤组件，纵向步骤组件分步数量可以更多。左右布局的信息展示方式允许单步骤下容纳更多的信息。不会造成横向步骤和纵向信息一直延续无结束的感觉。<br>
-缺点：纵向分步数量依然受限制。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/21%E3%80%81ant%20design%20system%20%E7%BB%84%E4%BB%B6%E8%A7%84%E8%8C%83.png" alt="" loading="lazy"><br>
-▲ 图片来自Ant design system 组件规范</p>
-<p><strong>c、横向步骤进度条组件（horizontal steps）使用场景</strong></p>
-<p>同样是体现进度，样式上与步骤组件不同的是，进度条没有明确告诉用户未来的每一步的内容，只能呈现当下用户的输入状态。适用于信息较多，结构信息较多的场景。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/22%E3%80%81%E8%BF%9B%E5%BA%A6%E6%9D%A1" alt="" loading="lazy"><br>
-▲ 图片来自Elements design system 组件规范</p>
-<p>进度条使用场景：通常用于有明确定量可估量的流程中。如总时间、总金额、总数等。（而在一个存在选填必填信息的表单中，很难定义一步是否计入总流程中，如果确定要使用进度条组件需要明确给予计算规则，平衡用户真实填写步骤。）需要注意，不同进度状态的进度条有时会结合具体的动作进行设计，届时需要考虑到每一个动作的类型定义以及触发动作后的反馈。</p>
-<p>优点：单步骤下能够容纳更多的信息，且让用户感受到每填写一项内容进度向前的体验。忽略展示每一步用户所有做的动作介绍，避免给用户造成表单填写压力。</p>
-<p>缺点：需要合理控制步骤和内容信息量的关系，如果信息容量过多而步骤显示较少，会给用户造成错觉和表单设计不合理的感受。</p>
-<p>进度条类型：<br>
-表进度类的进度条，可显示当前所处位置/量，也可以给予剩余容量/时间。表状态的进度条，通常只显示持续加载或进行状态，无进度表示。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/23%E3%80%81Airbnb%20%E5%88%9B%E5%BB%BA%E6%88%BF%E6%BA%90%E6%B5%81%E7%A8%8B" alt="" loading="lazy"><br>
-▲ 图片来自Airbnb 创建房源流程</p>
-<p>早期的Airbnb在创建房源的流程中采用“菜单组件（menu）”作为步骤组件，结合线性必填和分步跳步填写进行创建房源的表单设计。存在用户不清楚哪些信息是必须填写，什么情况下可以上一步，点击menu会发生的动作，且多步骤展示给用户，无意间给用户造成了表单信息填写压力。现在将线性必填和分步填写分开，并以进度条的方式进行填写进度展示，优化了整个表单流程。</p>
-<p><strong>分步保存</strong><br>
-与单一流程一次性保存提交不同，分步保存在创建时就允许用户对于该表单的结构化模块信息进行独立编辑。在完成了表单的必要信息填写后，即完成了表单的基础创建。当用户面对表单中大量的不确定信息时，可以进行选择性填写保存，后期可再进行添加。</p>
-<p>分步保存是用户在填写过程中手动操作的结果，在没有设定系统自动保存的场景下，信息的保存取决于用户的操作。相较于一次性保存，分步保存降低了数据丢失的风险。</p>
-<h3 id="六-表单的页面形式">六、表单的页面形式</h3>
-<p>如何确定创建web表单的页面形式？明确具体的页面交互流程方式及其各自特点，结合表单的信息容量、结构化程度、表单于创建页面的层级关联关系进行判断。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/24%E3%80%81%E9%A1%B5%E9%9D%A2%E5%BD%A2%E5%BC%8F.png" alt="" loading="lazy"><br>
-明确具体的页面交互流程方式及其各自特点</p>
-<p>1、新增页面窗口<br>
-新页面打开为主要流程步骤中的分支流程，不会影响用户对主流程的继续操作，页面功能具有一定的独立性。如单平台多产品的Google、Teambion个人中心与应用间的流程，相对独立。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/25%E3%80%81Google" alt="" loading="lazy"></p>
-<p>2、本页面内新增窗口<br>
-页面内新增窗口为多分支流程同步的场景，满足用户在单场景下进行同类项目处理，如网易邮箱多标签多进程切换，文档类软件可以同时处理多个文档如：石墨文档客户端。（存在部分客户端软件可以通过新新增主流程创建合并文档如Adobe creative suites<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/26%E3%80%81%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1" alt="" loading="lazy"><br>
-▲ 图片来自网易邮箱</p>
-<p>3、本页面刷新<br>
-本页面刷新通常强调主流程与分支流程的关联关系，且会通过返回或者面包屑组件从分支流程退出到主流程。如dropbox 的新建文件夹，进入文件夹，进入打开文件流程。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/27%E3%80%81dropbox%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9%E6%B5%81%E7%A8%8B" alt="" loading="lazy"><br>
-▲ 图片来自Dropbox 打开文件夹流程</p>
-<p>4、模态弹窗<br>
-模态弹窗常用于信息容量较少，且信息层级较高，不建议其它流程干扰的场景。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/28%E3%80%81Airbnb%E5%88%9B%E5%BB%BA%E6%95%85%E4%BA%8B%E6%B5%81%E7%A8%8B" alt="" loading="lazy"><br>
-▲ 图片来自Airbnb 创建故事流程</p>
-<p>5、非模态弹窗</p>
-<p>通常为浮层样式，且无明显遮照。承载信息容量较少，信息层级较模态弹窗低，允许其它流程干扰。非模态弹窗可以同时打开多个，并允许拖动弹窗位置进行信息对比。如google邮箱，允许同时开启多封邮件编辑。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/29%E3%80%81Google%E7%BC%96%E8%BE%91%E5%A4%9A%E5%B0%81%E6%96%B0%E9%82%AE%E4%BB%B6%E6%B5%81%E7%A8%8B" alt="" loading="lazy"><br>
-▲ 图片来自Google 编辑多封新邮件流程</p>
-<p>6、在以上基础上的变形<br>
-详细可参考<a href="https://uxdesign.cc/form-design-for-complex-applications-d8a1d025eba6">Andrew Coyle《Form Design for Complex Applications》</a></p>
-<h3 id="七-表单的设计原则"><strong>七、表单的设计原则</strong></h3>
-<p>1、说明完整填写路径，以友好统一型语言引导用户填写完成。<br>
-2、明确定义每一条目信息，避免无意义信息获取和输入，降低用户输入成本。<br>
-3、有逻辑有结构地模块化组织信息内容，必要信息重点信息优先。<br>
-4、明确必填、选填信息项。<br>
-5、合理设计填写步骤，让用户有节奏的进行表单输入。<br>
-6、合理选择信息输入组件，使用符合用户心理和基本操作的输入组件。<br>
-7、能使用选择输入时，尽量避免使用填写输入，尽量减少用户的操作步骤。<br>
-8、合理设定表单动作及动作的各种状态。<br>
-9、合理设定动作的摆放的位置。<br>
-10、对于用户的每一个操作给予相应的反馈。<br>
-11、视觉符合表单主题及业务场景，保持干净，舒适。</p>
-<h3 id="八-参考文献及资料"><strong>八、参考文献及资料</strong></h3>
-<p><a href="http://www.woshipm.com/pd/1058591.html">弘毅道《5个方面阐述：WEB表单设计》</a><br>
-<a href="http://www.woshipm.com/pd/1622572.html">阿里TXD《交互细节：页面链接打开方式探讨》</a><br>
-<a href="http://blog.sae.sina.com.cn/archives/4883">tingzhi《让用户更高效地填写表单》</a><br>
-<a href="https://uxdesign.cc/form-design-for-complex-applications-d8a1d025eba6">Andrew Coyle《Form Design for Complex Applications》</a><br>
-<a href="http://www.woshipm.com/pd/2780248.html">Sen《预览、保存和发布：编辑器的设计者如何设计这些功能》</a><br>
-<a href="http://www.woshipm.com/pd/396100.html">Ester《产品容错性原则》</a><br>
-<a href="http://www.woshipm.com/pd/242913.html">Snow《auto save 自动保存案例和场景分析》</a><br>
-书籍《web表单设计：点石成金的技术》</p>
-<h3 id="one-more-thing">one more thing</h3>
-<p>未来的表单将越来越自然，也许来源于日常你我自然的谈话，可以是一个动作，一个眼神。<br>
-未来的表单设计规则我们不能精准定义，<br>
-但是现在还是要踏实掌握当下的表单设计规则，无论是web端还是移动端喔～</p>
 ]]></content>
     </entry>
 </feed>
