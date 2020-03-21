@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-03-21T03:01:28.732Z</updated>
+    <updated>2020-03-21T12:53:13.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[抖音 - 新主播直播流程优化方案]]></title>
+        <id>https://magicmeowo.github.io/post/dou-yin-xin-zhu-bo-zhi-bo-liu-cheng-you-hua-fang-an</id>
+        <link href="https://magicmeowo.github.io/post/dou-yin-xin-zhu-bo-zhi-bo-liu-cheng-you-hua-fang-an">
+        </link>
+        <updated>2020-03-21T11:48:05.000Z</updated>
+        <content type="html"><![CDATA[<p>【前言】<br>
+对抖音的两种鲜明的观点：<br>
+1、刷抖音比较浪费时间，根本不下载。<br>
+2、能够合理利用碎片时间享受短视频的乐趣，充分体验。</p>
+<p>我以前支持第 1 种观点，并且在下载抖音查看内容之后，觉得抖音并没有什么吸引我的内容。<br>
+但经过算法训练后的抖音，确实还没有吸引力的，闲暇时间，看看抖音可以学习可以放松。<br>
+更重要的一点是，它让我意识到，个人知识和视野的架构结合算法，决定了抖音世界的丰富和有趣。</p>
+<p>最近直播热，猎奇一下，就开通了直播。简单分析流程，可优化之处和优化方案，当作一次产品分析练习。<br>
+<img src="http://magicmeowo.images.polymath.top/%E6%8A%96%E9%9F%B3%E9%A2%98%E7%9B%AE.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E6%8A%96%E9%9F%B3%E6%80%9D%E8%80%83.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E6%8A%96%E9%9F%B3%E6%96%B0%E4%B8%BB%E6%92%AD%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E4%BC%98%E5%8C%96%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E6%96%B9%E6%A1%881.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E5%AE%9E%E5%90%8D%E5%88%B6.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E7%9B%B4%E6%92%AD%E4%B8%AD%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.png" alt="" loading="lazy"><br>
+<img src="http://magicmeowo.images.polymath.top/%E7%9B%B4%E6%92%AD%E7%BB%93%E6%9E%9C%E5%8F%8D%E9%A6%88%E4%BC%98%E5%8C%96.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爵士乐学习之旅]]></title>
         <id>https://magicmeowo.github.io/post/Jazz Music</id>
@@ -478,48 +502,6 @@
 <p>结合对以上内容的思考，以及对于大部分时间选择器的研究。整理出了如下的一份思考小结，和时间选择器的构成。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8%E7%A0%94%E7%A9%B6.png" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/time%20picker.png" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8%E6%96%B9%E6%A1%88.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[也想勇敢一点，面对不确定的世界]]></title>
-        <id>https://magicmeowo.github.io/post/science&amp;subject</id>
-        <link href="https://magicmeowo.github.io/post/science&amp;subject">
-        </link>
-        <updated>2019-12-26T02:48:49.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="灵感来源">灵感来源</h3>
-<p><strong>害怕来自于未知，不确定</strong><br>
-从毕业生过渡到社会新人，这个时间段可能会面临很多“未知”，因此这段时间个人的心理变化也是非常复杂的，而最紧密的还是工作，自我与社会之间关联的探索，这些都离不开体验与认知。我时常觉得自己无知，也因此经常感到自卑，甚至焦虑。也是因为意识到自己的无知，所以渴望提升自己的认知。与无知紧密联系的心理是“害怕”，“害怕“有一种词性为哲学名词。害怕来自心理的恐惧，是人面对自己的无知的恐惧，但是一个人意识到自己的无知本身就是有知的开始。人的有知使人认识到事物的可怕性，但是恐惧却是来自人们对事物的无知。所以说害怕来自有知和无知。</p>
-<h3 id="关于无知和有知">关于无知和有知</h3>
-<p>回忆自己意识到自己无知的场景，往往有以下几种：<br>
-1、阅读一本书籍，意识到这个道理源于生活，且常常发生，对于大家而言是通识的事，我才刚意识到。<br>
-2、与他人交流，交流的内容涉及到自己的知识盲区，会意识到自己的无知。（对外）<br>
-3、自己对于自己知识边界的把握。（对内）<br>
-4、当你面对一件让你感到困难的事，你会觉得自己能力不足（对外）<br>
-5、当你有所期望，但实际并没有达成的时候。（对外）<br>
-...此处省略更多场景</p>
-<p><strong>关于达克效应中的绝望之谷</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%82%93%E5%AE%81%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94.jpeg" alt="" loading="lazy"><br>
-前段时间很流行“达克效应”，第一次看到这张图时候，我感觉我自己就处在绝望之谷，当然现在好像也没走出绝望之谷。我感觉我处在绝望之谷，是因为生活的位置与未来的不确定性，还有我来自工作上同事们的指导。虽然身处绝望之谷，经常让人感到崩溃，但无需过度苛责自己，只要保持空杯和积极，意识到自己无知，是学习和进步地开始。我也是在一次又一次的自我暗示下，找到了心态平衡点。在急切需要提升个人认知和知识及经验时，下意识告诉自己慢就是快。而这里的慢是想强调通过对事物本质建立更深层次需要花费时间，这是必须的，所以不要让心态影响了学习的过程。</p>
-<p>另外在检索“达克效应”的过程中，发现英国哲学家——贝特朗罗素说过的一句话“我们这个时代让人困扰的事之一是：那些对事确信无疑的人其实很蠢，而那些富有想象力和理解力的人却总是怀疑和优柔寡断。”看来即便是处于平稳阶段的人，也会有他的困难。</p>
-<p><strong>主观能动性</strong><br>
-也许关于对内对外引发自己感到自己无知的场景区分，意义并不大，本质上一定是因为有输入，才会有相应的反馈。这也就意味着，如果能够增加不同类型的输入频率和输入深度，便能够更加快速和有效地更新自己的认知。被动型输入容易让人产生不适，因此主动性便变得非常重要。这让我想到两个案例，均来自生命。第一个案例是鸡蛋，被敲开始无生命的，从里面开确实拥有生命的。第二案例是花朵，含苞待放的花朵，在外力作用下打开的美，并没有由内而外绽放那样自然。因此，对于从无知到有知变化的过程，如果想要有良好的体验，主动是非常重要的。</p>
-<h3 id="基于三观构建自己的知识能力体系">基于三观构建自己的知识能力体系</h3>
-<p>关于建立知识能力体系，是需要分场景的。比如围绕三观（价值观、世界观、人生观），或者围绕生活，围绕工作等。这是非常庞大的体系，我也是在工作一年后，开始逐渐有了自己的理解。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%B8%89%E8%A7%82%E5%AE%9A%E4%B9%89.png" alt="" loading="lazy"><br>
-来自百度百科的对于三观的定义（较客观，若有其它更丰富的内容解读，欢迎分享）<br>
-关于价值观，我感觉自己并不能够有明确的定义，价值观似乎是建立在个人与外部环境长久交互过程中而产生的。与其说个人定义，不如谈谈自己的希望。我希望世界美好，万物有爱，我期待所有的事都变得美好，并渴望自己能够奉献一份力量。我也相信事情有糟糕和美好的一面，黑暗中总会有一束光给予希望。而关于价值，我相信所有的事情都有存在的意义，于己，或于他/她/它。</p>
-<p>关于世界观，学生时期建立世界观，主要来源于课堂，家庭。从小我们的教育体制，就帮我们划分了学科门类，基于对于基础学科的学习，在接受高等教育时，选择自己日后要钻研的方向。但现实是，大部分高中毕业生并不知道大学的专业方向对于自己的影响，所以在选择上也并没有达到理想。因此对于学科的门类的认知，随着教育体制改革的发展，应该逐渐纳入通识中。这也就意味着，在孩子还不能建立自己对于学问知识和世界的认知框架时，长辈们应该尽可能地以一种孩子能接受（趣味培养更佳）的方式，向孩子们描绘世界和学科的关联关系。这样也许能更培养孩子们学习了解学科的兴趣，从而更加了解世界。全面系统的知识构建并不是一朝一夕之事，需要结合体验，经历实践才能领域。而在学生时期，多指点，多激励，激发孩子们的好奇心，就像播种一样，当时间变长，孩子自然会收获属于自己的森林。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AD%A6%E9%97%AE.png" alt="" loading="lazy"></p>
-<p>“你的气质里，藏着你读过的书，走过的路，爱过的人。”这句文艺和鸡汤气味浓厚的句子，据说来自于经典电影《卡萨布兰卡》，翻看了很久电影剧照，并没有找到原文，因此在这里也只能以据说描述。不可否认的是，这句话确实有它的道理，读书，出游，与他人交流，都能增加对世界的了解。当你进入图书馆，发现感兴趣但从未阅读过得书籍；当你去一个之前没有去过的地点，感受新的环境和风景；与他人的交流过程中，碰撞出新的火花与灵感。这些美好的体验，一点一滴构成了所认知的世界。<br>
-（ps：电影《卡萨布兰卡》的经典主题曲并不是《Casablanca》而是《as time goes by》）</p>
-<p>走进线下图书馆，我往往会注意图书馆中图书的分类，线上阅读，则会关注产品内图书的分类，它们也提供给我新的视角了解这个世界。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E7%9F%A5%E8%AF%86%E7%B1%BB%E4%BA%A7%E5%93%811.png" alt="" loading="lazy"><br>
-不同的产品对于书籍分类采用了不同的方式，结合产品自身业务，或学科分类，或用户行为习惯...通过这些目录，似乎能够微微看到不同产品的设计风格，业务导向，以及洞察世界的眼光和态度。不仅仅是阅读类产品，各种类别的产品，其实生活中的所有事情，小到中午要吃什么，菜单的内容，大到对于各个国家，世界，宇宙的了解。在这里想感谢分享给我关于《经史子集》的好朋友，在我们的交流中，我有更了解世界~<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E7%BB%8F%E5%8F%B2%E5%AD%90%E9%9B%86.png" alt="" loading="lazy"><br>
-世界观的构建也是可持续迭代的，可能需要一生来建立，当意识到这件事始终处于进行时，似乎也没有那么焦虑，会想要一步一步，与时间结伴，与世界共舞。</p>
-<p>关于“公安三问”：你是谁，你从哪来，要去哪？下意识的感觉是人在处于人生不同的阶段会有不同的答案。而人生阶段，从人的物理生命周期而言，也就是从幼年到衰老的过程。如果搜索 life span inforgraphics / life stages inforgraphics 你会发先很多信息图表向你展示来自埃里克森（Erik Homburger Erikson）的心理社会发展（psycho-social development）的八阶段理论图表，还有不同阶段人的财富积累和支出。<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/psycho-social%20development.jpg" alt="" loading="lazy"><br>
-人生的阶段不能单纯地按年龄进行分割，虽然有大致时段分割，但各自人生阶段能由自己决定。因此到了什么年龄就该做什么年龄的事，也只具有相对借鉴意义，很开心我能大致窥见未来将会发生的一些事。虽然对于“哲学三问”我依然没有办法给出肯定的答案，但是面对不确定的世界，我似乎也开始变得期待。</p>
-<p>我热爱生活，也期待一直如此 ~</p>
-<p>关于职业的能力知识架构，后期新增文章分享，还在积累中～～</p>
 ]]></content>
     </entry>
 </feed>
