@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-03-26T03:06:43.928Z</updated>
+    <updated>2020-03-26T10:04:10.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -556,7 +556,8 @@ make things，change things；<br>
 <p>发展到现在，design system 已经成为各互联网公司产品设计中的底层标准和架构，支撑着整个产品的运转。通常设计界被大家熟知的 design system 有<br>
 1、<a href="https://ant.design/index-cn">Ant design</a><br>
 2、<a href="https://www.lightningdesignsystem.com/design-tokens/">Lighting design system</a><br>
-...<br>
+3、<a href="https://material.io/">Material design system</a><br>
+4、<a href="https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout">ios-apple design sysytem</a><br>
 通过研究几套design system language ，你会发现它通常以几个模块构成<br>
 -设计原则 design guideline<br>
 -工作流设计 - 如何用一套“大家”都“能听懂”的“标准化”语言，对于流程进行“设计与说明”。<br>
