@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-04-08T15:02:43.757Z</updated>
+    <updated>2020-04-08T15:28:54.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[交互设计如何赋能疫情期的线下实体书店]]></title>
+        <id>https://magicmeowo.github.io/post/bookstore online service</id>
+        <link href="https://magicmeowo.github.io/post/bookstore online service">
+        </link>
+        <updated>2020-04-08T15:06:42.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>一个小的交互设计项目，依然存在很多不足之处，此处作为一个方案记录，提供思考的一种角度。项目方案可持续更新。</p>
+<h3 id="思考与方案设计">思考与方案设计</h3>
+<p>![](http://magicmeowo.images.polymath.top/eico design 笔试题.001.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.002.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.003.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.004.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.005.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.006.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.007.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.008.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.009.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.010.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.011.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.012.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.013.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.014.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.015.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.016.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.017.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.018.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.019.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.020.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.021.jpeg)<br>
+![](http://magicmeowo.images.polymath.top/eico design 笔试题.022.jpeg)</p>
+<h3 id="相关发现">相关发现</h3>
+<p><a href="http://www.bookdao.com/">百道网-出版业网络媒体平台</a><br>
+<a href="https://mp.weixin.qq.com/s/R8HYK_sYsrS4ob4yTqN2DA">区分平台内容特点，分发营销推广策略</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游戏设计入门]]></title>
         <id>https://magicmeowo.github.io/post/game design</id>
@@ -577,35 +613,6 @@ make things，change things；<br>
 <img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
 <p>补充说明：<br>
 对于验证流程中，部分动作设定条件需实时监听才能激活状态，较于无条件默认用户触发可点击验证状态而言，开发流程更加繁琐，也可能会面临要修改流程细节的问题，因此可考虑验证填写空状态，即当用户未填写任何内容时，触发验证，给予提示“请输入...内容”，而输入过程中监听可以考虑仅在设定新密码过程中进行条件判断验证，如输入字符类型，输入位数等。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 design language system 的一些思考]]></title>
-        <id>https://magicmeowo.github.io/post/design system</id>
-        <link href="https://magicmeowo.github.io/post/design system">
-        </link>
-        <updated>2020-01-03T09:33:49.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
-<p>工作期间，公司开始属于自己的UI视觉规范，基于视觉设计规范，我们开始形成了模块组件迭代。并由此，围绕着产品交互，UI，前端开发，三轴同步跟进自己的系统，争取在需求确定后，以最准确最快速最低地成本完成迭代。本文就这一阶段的参与交互规范设计的经历，谈一谈自己对于design language system、规范、合作、以及不同类型的设计系统语言的理解。</p>
-<h3 id="我所理解的-design-language-system">我所理解的 design language system</h3>
-<p>Alla Kholmatova 在书籍《design system》中描述到早期设计体系发展的背景，建立于传统网页设计方式通常以&quot;页&quot;为单元进行思考，而随着互联网的飞速发展和产品复杂度的提升，非体系化的”页“思考与设计的方法越来越不适用，因此建立体系化的设计模式，对于产品的持久性发展至关重要。</p>
-<p><strong>设计语言系统</strong><br>
-若将其整体视为名词，则指的是一个渐成的以设计语言为主题的系统，又或者是以设计为主题的语言系统。若将其拆解为动词与名词，则可理解为是设计与语言相关的系统。</p>
-<p>以上三者对于设计语言系统这个词的定义涵盖了大部分这个系统的使用场景。设计师和开发人员齐心协力设计与设计语言相关的系统，目的是为了让内部产品研发相关人员能够快速就所要设计的项目，需要用到的零部件快速达到一致。而这样一套语言的设计，需要考虑产品的真实业务场景，商业目标，用户的体验场景，心智模型，情感要素，产品开发的成本等相关因素。对于基本组件有了明确的定义，产品研发的相关工作人员就能够更加专注地研究场景，并基于各自擅长领域的研究，对于整体体系进行迭代升级，从而达到灵活可持续的长久发展。尽可能得提高消息传递的准确率和效率。</p>
-<p><strong>design language system的构成</strong><br>
-《design system》描述到设计体系包含”设计模式“和”实践方法“两个方面，设计模式包含功能性模式设计和感知性模式设计，功能性设计模式（组件设计）主要关注于行为和实体组成要素，感知性设计（风格设计）主要关注非实体组成要素，如界面外观，配色，字体等。实践方法则强调如何构建与维护体系，如前期规划，界面清查，模式库创建，文档撰写，语义定义，迭代。</p>
-<p>发展到现在，design system 已经成为各互联网公司产品设计中的底层标准和架构，支撑着整个产品的运转。通常设计界被大家熟知的 design system 有<br>
-1、<a href="https://ant.design/index-cn">Ant design</a><br>
-2、<a href="https://www.lightningdesignsystem.com/design-tokens/">Lighting design system</a><br>
-3、<a href="https://material.io/">Material design system</a><br>
-4、<a href="https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout">ios-apple design sysytem</a><br>
-通过研究几套design system language ，你会发现它通常以几个模块构成<br>
--设计原则 design guideline<br>
--工作流设计 - 如何用一套“大家”都“能听懂”的“标准化”语言，对于流程进行“设计与说明”。<br>
--设计模式 - 功能模式（导航指引，信息输入，信息输出，反馈与提示，其它）<br>
--设计模式 - 感知模式（基本元素，动态语言，图形化风格内容）<br>
--数据可视化图谱模块<br>
--实现工具 - 前端编程语言</p>
 ]]></content>
     </entry>
 </feed>
