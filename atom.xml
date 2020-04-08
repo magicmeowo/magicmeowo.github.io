@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-04-08T15:02:07.489Z</updated>
+    <updated>2020-04-08T15:02:43.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[游戏设计入门]]></title>
+        <id>https://magicmeowo.github.io/post/game design</id>
+        <link href="https://magicmeowo.github.io/post/game design">
+        </link>
+        <updated>2020-04-08T15:02:37.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>All work and no play makes jack a dull boy<br>
+大部分人对于游戏的概念是娱乐消磨时间，但游戏已然成为一种文化，反射用户在真实世界的生活，或创建了新的精神文明。游戏和其它类产品在设计上有相似之处，不少产品在设计过程中需要考虑游戏沉浸感，或者完成任务后的爽感，或获得感，或新鲜感。</p>
+<p>本文从游戏定义和分类，逐步开始了解游戏。<br>
+学会娱乐，也是一种能力。<br>
+Have fun and enjoy！</p>
+<h3 id="游戏的定义与作用">游戏的定义与作用</h3>
+<p>【通过官方百科可以查到的定义及作用】<br>
+游戏是所有哺乳类动物，特别是灵长类动物学习生存的第一步。它是一种基于物质需求满足之上的，在一些特定时间、空间范围内遵循某种特定规则的，追求精神世界需求满足的社会行为方式，但同时这种行为方式也是哺乳类动物或者灵长类动物所需的一种降压减排的方式，不管是在出生幼年期，或者发育期，成熟期都会需要的一种行为方式。合理适度的游戏允许人类在模拟环境下挑战和克服障碍，可以帮助人类开发智力、锻炼思维和反应能力、训练技能、培养规则意识等，大型网络游戏还可以培养战略战术意识和团队精神。</p>
+<p>【来自一些游戏设计师分享的观点】<br>
+游戏的本质：Have fun 情感体验。<br>
+游戏的过程，学习规则，掌握规则的过程，并且玩家在这个学习和掌握过程中要不断地感到“美好”<br>
+游戏的设计元素需要包含： 目标、规则、有趣的挑战、反馈、掌握感和征服感。<br>
+《A THEORY OF FUN FOR GAME DESIGN》提到一个概念： 快乐 = 学习，通过学习学习并掌握规则，利用规则去完成有趣的挑战，获得奖励反馈（反馈周期较短），达成目标，获取极大的成就感，即快乐。<br>
+而关于游戏的哲学，离不开“是什么，为什么，怎么做”，与其相关的学科内容则包括：游戏的社会价值，教育意义，游戏心理学，设计技巧与设计方法等。</p>
+<p>游戏设计作为一门学科，同样也是一门科学，与其它设计类学科相似，具有共通性。</p>
+<h3 id="游戏的分类">游戏的分类</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工具合集记录]]></title>
         <id>https://magicmeowo.github.io/post/tools</id>
@@ -581,18 +606,6 @@ make things，change things；<br>
 -设计模式 - 感知模式（基本元素，动态语言，图形化风格内容）<br>
 -数据可视化图谱模块<br>
 -实现工具 - 前端编程语言</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读书杂记]]></title>
-        <id>https://magicmeowo.github.io/post/impression-after-reading</id>
-        <link href="https://magicmeowo.github.io/post/impression-after-reading">
-        </link>
-        <updated>2020-01-01T06:29:02.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
-<p>开这个模块用于持续记录阅读感想，不仅仅是自己的感想，也包含他人的评价。</p>
-<p>【2020/02/20】<br>
-<a href="http://dy.163.com/v2/article/detail/DK3FC7BV0521PA4F.html">《知识的边界》</a></p>
 ]]></content>
     </entry>
 </feed>
