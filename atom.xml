@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-04-09T11:54:48.975Z</updated>
+    <updated>2020-04-18T07:42:44.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[向 Steve Jobs 学习魔力演讲]]></title>
+        <id>https://magicmeowo.github.io/post/speech</id>
+        <link href="https://magicmeowo.github.io/post/speech">
+        </link>
+        <updated>2020-04-18T07:40:20.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">【前言】</h3>
+<p>设计师工作中经常面临提案的场景，每一次提案既是一次演讲又是一次交流分享，也是一次收获。<br>
+好好学习，好好准备，灵活运用。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品细节记录]]></title>
+        <id>https://magicmeowo.github.io/post/chan-pin-xi-jie-ji-lu</id>
+        <link href="https://magicmeowo.github.io/post/chan-pin-xi-jie-ji-lu">
+        </link>
+        <updated>2020-04-16T15:12:22.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">【前言】</h3>
+<p>常惊喜于产品设计中魔鬼的细节，那些让用户和产品设计师 WOW 的瞬间，值得被记录与回味。<br>
+也想通过这样一种方式，深入地去研究不同类型的产品，也许不够全面和体系化，但相信每一次记录也是成长。Done is better than perfect.<br>
+文章将以「产品」V.版本号-功能-日期-内容描述 的形式进行记录</p>
+<h2 id="导航类">导航类</h2>
+<p>个人感想：导航如果以最基本的功能存在，对于导航这类产品的定义应该属于纯工具类。但随着工具的发展，不同场景的融入，导航工具变得更加情感化，个性化，功能也逐渐拓展，与其它产品、服务、场景融合。每一类产品，总是有它所属的核心产品功能，能够让大家在第一时间想到它。导航功能看似交互动作简单，但功能实现远离复杂，工具类产品也最能体现产品设计者对于用户体验的用心。</p>
+<p>###「高德地图」<br>
+V 10.12.0    2019/09/28<br>
+【景区随身听】真人讲解，走哪听哪。<br>
+可以通过地图对景区中的关键景点采用“讲解功能”，该功能</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[交互设计如何赋能疫情期的线下实体书店]]></title>
         <id>https://magicmeowo.github.io/post/bookstore online service</id>
@@ -107,14 +136,26 @@ Have fun and enjoy！</p>
         <link href="https://magicmeowo.github.io/post/tools">
         </link>
         <updated>2020-03-27T13:32:37.000Z</updated>
-        <content type="html"><![CDATA[<p>【前言】<br>
-一切为了效率</p>
-<p>【pdf】<br>
-<a href="https://pdfcandy.com/">candypdf</a><br>
+        <content type="html"><![CDATA[<p>###【前言】<br>
+一切为了效率和生活</p>
+<h3 id="软件工具类">软件工具类</h3>
+<h3 id="pdf">【pdf】</h3>
+<p><a href="https://pdfcandy.com/">candypdf</a><br>
 <a href="https://www.ilovepdf.com/">Ilovepdf</a><br>
 <a href="https://smallpdf.com/cn/compress-pdf">smallpdf</a><br>
 <a href="https://acrobat.adobe.com/us/en/acrobat/how-to/compress-pdf.html">acrobat</a><br>
 <a href="https://lightpdf.com/zh/">lightpdf</a></p>
+<h3 id="居家生活类">居家生活类</h3>
+<p>1、长得像吹风机的熨斗；<br>
+2、睡眠记忆枕<br>
+3、待热水壶的饮水机<br>
+4、柑橘味香薰<br>
+5、天猫精灵<br>
+6、戴森吸尘器<br>
+7、洗碗机<br>
+8、老管家品牌的家用清洁产品<br>
+9、酒精棉片，用于清洁办公桌<br>
+10、小米 - 工具箱</p>
 ]]></content>
     </entry>
     <entry>
@@ -482,167 +523,6 @@ make things，change things；<br>
 <p>【2020/03/02】《心灵捕手》</p>
 <p>【2020/03/08】《纽约的一个雨天》</p>
 <p>【2020/03/16】《剩女》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企业官网交互设计 Pharbers website design]]></title>
-        <id>https://magicmeowo.github.io/post/website design</id>
-        <link href="https://magicmeowo.github.io/post/website design">
-        </link>
-        <updated>2020-01-26T08:37:00.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="1背景挑战">1.背景挑战</h3>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/pharbers.png" alt="" loading="lazy"><br>
-<strong>关于法伯</strong><br>
-成立于2008年的法伯宏业——Pharbers，是一家关注建设医药行业领先的市场销售saas决策平台的公司，致力于以高效便捷生动的方式解决客户对数据分析的需求，当前公司多款核心产品已覆盖多家内外资药企和医疗健卡机构。面对产品线类型和数量的增多，法伯希望通过整合各产品线打造一体化数据平台设计，<br>
-有利于公司多业务发展及管理的同时提高用户产品及服务体验。</p>
-<p>官网作为体现品牌产品和服务的展示和获取销售线索的入口，亦需要根据公司未来发展计划，<br>
-做出相应的信息架构布局展示，调整以适应不同阶段的公司及市场发展环境的变化。</p>
-<p><strong>项目属性</strong>：企业团队项目</p>
-<p><strong>我的参与</strong>：信息架构梳理 &amp; 全流程交互设计 &amp; 产品体验测试</p>
-<p><strong>项目耗时</strong>：2个月：从设计到开发开始执行（2019/12/09 — 2020/01/22）</p>
-<p><a href="http://web.pharbers.com"><strong>网站地址</strong></a>（开发中）</p>
-<p><em><strong>友情提示： 图片内容可通过对网站比例尺寸调整放大查看</strong></em></p>
-<hr>
-<h3 id="2关键点突破">2.关键点突破</h3>
-<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%85%B3%E9%94%AE%E7%82%B9%E7%AA%81%E7%A0%B4.png" alt="" loading="lazy"></figure>
-<h3 id="3信息架构梳理">3.信息架构梳理</h3>
-<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%841.png" alt="" loading="lazy"></figure>
-<h3 id="4页面内容故事线设计">4.页面内容故事线设计</h3>
-<figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%95%85%E4%BA%8B%E7%BA%BF.png" alt="" loading="lazy"></figure>
-<h3 id="5页面层数-关系及特点">5.页面层数、关系及特点</h3>
-<figure data-type="image" tabindex="4"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%A1%B5%E9%9D%A2%E5%B1%82%E7%BA%A72.png" alt="" loading="lazy"></figure>
-<h3 id="6页面信息模块化设计">6.页面信息模块化设计</h3>
-<p><strong>信息模块</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%A1%E6%81%AF%E6%A8%A1%E5%9D%97.png" alt="" loading="lazy"><br>
-<strong>影响力模块信息设计案例</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png" alt="" loading="lazy"></p>
-<h3 id="7页面信息布局">7.页面信息布局</h3>
-<figure data-type="image" tabindex="5"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E7%BD%91%E7%AB%99%E5%B8%83%E5%B1%80.png" alt="" loading="lazy"></figure>
-<h3 id="8网站页面构成">8.网站页面构成</h3>
-<figure data-type="image" tabindex="6"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BA%A4%E4%BA%92%E9%A1%B5%E9%9D%A2.png" alt="" loading="lazy"></figure>
-<h3 id="9导航与站点地图的设计">9.导航与站点地图的设计</h3>
-<figure data-type="image" tabindex="7"><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/sitemap%20navi.png" alt="" loading="lazy"></figure>
-<h3 id="10动作表单设计">10.动作表单设计</h3>
-<p><img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A1%A8%E5%8D%95%E5%8A%A8%E4%BD%9C.png" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E8%A1%A8%E5%8D%95%E5%8A%A8%E4%BD%9C%E8%AF%B4%E6%98%8E.png" alt="" loading="lazy"></p>
-<h3 id="11设计回顾与小结">11.设计回顾与小结</h3>
-<p><strong>设计思路</strong><br>
-对比两种不同的设计思路，第一种是让每一个页面体现它的场景，第二种是页面间保持相对一致性，且展示页面来源。当内容信息和运营维护能力不够强的时候，无序的增加页面层级并不是明智的方案，只会增加内容空旷感和维护压力。</p>
-<p><strong>复关于用性与灵活性</strong><br>
-高度复用的结构和一致性的组件布局，整体网站符合一致性设计不容易让用户迷失。在设计的过程中不仅仅需要对于交互流程方式进行抽象，也需要对常规页面布局进行抽象，对不同展示标题信息动作组件和其它类型组件进行抽象，以达到最小成本，最便捷的交互流程，最熟悉的操作方式，最灵活的信息延展性。注重全局设计也注重局部细节设计。</p>
-<p><strong>关于复盘</strong><br>
-不要看表面样式，要看为什么要这样设计，要耐心分析元素构成，要考虑当前可实现的基础和全集延展性。注重积累：积累元素，积累组件，积累布局，积累UI，积累状态，积累反馈，积累极限参数规则。</p>
-<p><strong>如何跳出当前方案的设计，保持持续迭代</strong><br>
-设计过程中有所考量的方案，暂时无法实现可以收纳于功能盒（functional box）。<br>
-如何跳出当前的方案，如何打破固有认知？<br>
-首先，要有井底之蛙需要有自知之明。最灵活最自由的东西，奇点的突破才是最难把握的。<br>
-1、当我们没有达到最灵活最自由的状态的时候，不要觉得当前的方案就是最好的，不存在最，只存在更。<br>
-2、利用时滞效应进行回顾，有时有效。<br>
-3、多角色多元角度进行回顾。（可以是自己演绎也可以是请教）<br>
-4、查看头部同类型内容，观察对方是否存在新突破点。<br>
-5、查看相似但不同类内容，观察是否有可融合点。<br>
-（很多时候打破现状的方法不仅是单一方法应用，更多的是多方法应用...有待补充）</p>
-<h3 id="12参考">12.参考</h3>
-<p><a href="https://slack.com/intl/en-cn/">Slack</a><br>
-<a href="https://www.h2o.ai/">h2o</a><br>
-<a href="https://plaid.com/">plaid</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帐号的登录方式与绑定]]></title>
-        <id>https://magicmeowo.github.io/post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu</id>
-        <link href="https://magicmeowo.github.io/post/tong-yi-ge-ren-bu-tong-de-ge-ren-zhong-xin-ge-ren-zhong-xin-ji-zhang-hao-ti-xi-she-ji-yan-jiu">
-        </link>
-        <updated>2020-01-08T08:43:29.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
-<p>登录往往是我们进入一个产品世界的第一步，不同产品有不同的登录方式。如“游客登录、密码登录、第三方授权登录...”，不同的登录方式涉及到帐号的绑定和安全机制的设计。因此帐号的行为（增删改查）作为整个帐号和产品系统的重要部分，非常值得好好研究总结及设计。</p>
-<p>本文灵感来源于后台产品的个人中心模块设计，在个人中心的帐号管理模块涉及到帐号的增删改查，以帐号的登录方式与绑定为主要分析内容。梳理登录流程，以及登录方式与绑定当前存在的一些优化问题。<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%B8%90%E5%8F%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%B8%8E%E7%BB%91%E5%AE%9A.png" alt="帐号的登录方式与绑定" loading="lazy"></p>
-<p>关于为什么我们需要一个帐号，谁在使用帐号，以及当前Web、移动端常见的帐号类型，<br>
-可以参考文章<a href="https://wxy.magicmeowo.space/post/account/">《真实世界中的你我，虚拟世界中的帐号》</a></p>
-<h3 id="帐号行为">帐号行为</h3>
-<p>帐号的增删改查，通常包含注册（增）、登录（查）、应用、管理（改）、退出、删除（删）。<br>
-部分产品存在未注册也可以登录使用产品，常见有工具类产品，如：相机、计算器、输入法等。但随着产品体系越来越壮大，工具类软件也慢慢地接入到平台的帐号体系中。形成用户数据集取得分支。我们以注册、登录、管理，为主要内容进行探讨。</p>
-<h3 id="注册">注册</h3>
-<p>注册通常需要用户通过填写表单信息完成，表单信息通常包括用户的基本信息，通讯方式，其它身份信息，职业信息，场景信息等，通讯渠道通畅用于身份验证，也存在无需用户验证仅填写的情况。<br>
-整体流程大致分为，信息填写，通讯渠道身份验证。具体流程先后需要根据具体场景判断。<br>
-如果是密码登录，则通常需要在提交注册信息后设定初始密码。或者后期正式登录后，补充密码设置流程。</p>
-<h3 id="登录方式及其特点">登录方式及其特点</h3>
-<p>【密码登录】<br>
-<strong>适用帐号类型：</strong> 邮箱 / 产品体系帐号 / 手机<br>
-<strong>相关动作及流程：</strong><br>
-1、设置密码。以密码登录为主要登录或唯一登录方式的场景中，往往会要求用户在注册过程中设定密码。<br>
-2、身份验证，修改密码。通常需要结合通讯渠道或其它安全验证机制进行验证。<br>
-3、身份验证，忘记密码，找回密码。通常也需要结合通讯渠道或其它安全验证机制进行验证。<br>
-<strong>场景：</strong> 较多用于Web端，面向企业，或办公类产品，初创型互联网或软件公司常用，移动端普遍设有密码登录，但通常会结合其它登录方式，如验证码或第三方登录。<br>
-优：安全性高，相较于验证码或第三方登录，在密码机制设立完善的场景下。<br>
-劣：密码需要记忆，增加用户的记忆压力，同时若用户在不同平台上设定相同密码，密码安全风险增大。<br>
-密码相较于验证码或第三方登录，交互动作更多。需要对密码设定密码机制的设计，其后续更改，找回流程也较复杂。</p>
-<p>【验证码登录】<br>
-<strong>适用帐号类型：</strong> 邮箱 / 手机<br>
-<strong>相关动作流程：</strong> 通过登录邮箱获取邮箱url或验证码验证，手机接收动态验证码验证。<br>
-<strong>场景：</strong> 邮箱常用于Web端，手机常用于移动端，但对于B端C化的产品，通常用户选择登录方式。<br>
-优：验证码登录便捷快速，对于移动端场景更加友好。<br>
-劣：验证码需要短信服务提供商，成本需要考量。邮箱验证码需要跳转平台操作，整体流程容易中断。邮箱验证码和url的使用场景多用于安全验证，手机验证码存在手机二次放号现象，易造成重复创建号码或号码已被注册的问题。</p>
-<p>【第三方登录】<br>
-<strong>适用帐号类型：</strong> 手机<br>
-<strong>相关动作流程：</strong> 第三方授权，跳转第三方平台进行操作后进入原产品。<br>
-<strong>场景：</strong> 常用于移动端，web端常用于B端C化的产品，或较大型的互联网公司平台型产品。<br>
-优：登录便捷，数据信息更加多元，可实施更精准的推荐策略。<br>
-劣：过程中可能发生未登录第三方平台，登录第三方平台失败或授权失败而导致原产品登录失败的问题。第三方授权同时也是数据信息共通的过程，需要向用户明确授权共通信息的内容，避免不同产品不同场景信息同步的事情发生。</p>
-<p>【游客登录】<br>
-<strong>场景：</strong> web / 移动端 常有，让用户提前进行产品体验，但是涉及到产品功能时，会需要用户有帐号进行用户的行为记录。</p>
-<p>【生物特征登录】<br>
-<strong>场景：</strong> 更加强调安全性和真实性，通常用于金融类产品，指纹识别，语音识别，人脸识别...<br>
-金融类产品考虑安全性，会设定特殊安全乱序键盘，或通过图案密码降低用户的记忆成本。<br>
-而生物识别是在此基础上，进一步强调安全的验证。</p>
-<p>【多种登录方式融合】<br>
-即融合 密码登录、验证码登录、第三方授权登录、游客模式登录等登录方式。<br>
-<strong>场景：</strong> 如何登录的选择权在于用户，融合多种登录方式通常用于发展到一定程度的互联网公司，用户选择验证码登录可以更加便捷，选择密码登录则在密码机制下 更加安全，选择第三方授权登录能够互通数据，对于平台而言，可以建立更完整更丰富的用户画像。对于产品策略和发展更加有力。</p>
-<h3 id="帐号与绑定">帐号与绑定</h3>
-<p><strong>帐号为什么需要绑定？</strong><br>
-帐号的绑定往往与安全机制，身份验证紧密联系，手机验证码登录或邮箱密码登录过程已经是一种核实身份的过程。但当主体帐号的密码或涉及到安全问题的内容有所变更时，需要通过绑定的通讯渠道对动作实施者的身份进行确定。<br>
-帐号绑定同时也与登录便捷性有关，如第三方快捷登录。</p>
-<p><strong>绑定类型及特点</strong><br>
-通常帐号的数据ID,会根据帐号习题和产品策略与手机/邮箱/产品体系帐号进行绑定。而不同的绑定方式又面对不同类型的问题。</p>
-<p>【手机绑定】<br>
-以手机为唯一通讯方式时，手机为唯一的身份验证方式。此时可能存在 <strong>“手机二次放号问题”</strong> ，即当号码被原用户注册过该平台产品且尚未注销时，号码新用户想注册被告知该手机号已被注册，二次放号涉及到帐号的ID绑定问题和涉及策略。此处暂不做深入分析，后续会有文章深入讨论。<br>
-【邮箱绑定】<br>
-以邮箱为唯一通讯方式时，邮箱为唯一的身份验证方式。此时可能存在 <strong>“多邮箱问题”</strong> ，当用户有多个平台的邮箱时，用户需要选择，是否允许添加多邮箱，主邮箱与副邮箱之间的差异。<br>
-【第三方绑定】<br>
-第三方绑定通常为更便捷快速的操作，以及不同产品间的信息共通使用。也有利于记录更多用户的数据。<br>
-但第三方绑定通常仅用于登录，而不涉及到安全验证机制。<br>
-【多种绑定方式】<br>
-帐号的数据ID，可以选择绑定手机，邮箱，或第三方。此时可以根据用户的选择进行相应的关联，但需要判定在通讯方式中，至少有一种绑定可以用于身份安全验证。不少产品会在用户取消绑定手机时，对用户绑定状态数量进行判断，如手机号是唯一绑定时，此时只能更换绑定而不能解除绑定。当用户解除邮箱时，如邮箱为唯一绑定时，只允许更换邮箱。</p>
-<h3 id="如何设计和选择符合自己场景的注册-登录方式">如何设计和选择符合自己场景的注册、登录方式？</h3>
-<p>根据不同产品的策略和产品的生命周期，对于帐号体系和帐号与绑定，有不同阶段的设置。<br>
-基于已有的帐号体系和登录方式，总结以下几种类型。<br>
-【B端产品】<br>
-1、帐号发放<br>
-2、用户通过邮箱注册，获取以邮箱帐号为主的产品体验，但不建立正式帐号。建立业务关系后，才可以建立正式帐号数据ID并绑定邮箱，登录使用正式产品。手机仅作为安全机制验证。<br>
-3、允许用户通过手机号进行注册，但仅能达成快速注册。需建立业务关系，才能建立正式帐号数据ID并与手机号进行绑定，登录使用正式产品。<br>
-4、通过邮箱或手机号进行快速注册体验demo产品。建立业务关系后，才能确立正式帐号数据ID，不限制登录方式，但是要求必须有手机或邮箱至少一项绑定关系，考虑到安全验证和机制。<br>
-【C端产品】<br>
-手机号注册同步绑定数据ID，邮箱密码 / 帐号密码 / 第三方快速登录。主要以手机号验证码进行登录，随着产品的发展壮大，逐渐补充登录方式。<br>
-【B端C化产品】<br>
-一般用户：手机号 / 邮箱 / 第三方注册，绑定手机号。企业级产品用户：需要满足条件。</p>
-<p>不同的产品确实有不同的注册方式，登录方式，绑定方式，但大多逃不出，<br>
-注册：表单+身份验证。<br>
-登录：密码/短信/第三方/生物属性登录。<br>
-绑定：手机，邮箱，第三方绑定。</p>
-<p>在此进行通用设计的一个模板抽象，会根据不同的场景有所修饰和改变，仅供参考。</p>
-<p><strong>密码登录&amp;验证码登录页面说明</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E4%B8%8E%E9%AA%8C%E8%AF%81%E7%99%BB%E5%BD%95.png" alt="" loading="lazy"></p>
-<p><strong>手机验证码验证流程 / 手机绑定流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E9%AA%8C%E8%AF%81%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
-<p><strong>密码登录流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/password%20entry.png" alt="" loading="lazy"></p>
-<p><strong>忘记密码 / 找回密码 / 修改密码</strong> （包含邮箱验证码流程）<br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png" alt="" loading="lazy"></p>
-<p><strong>注册流程的简化流程</strong><br>
-<img src="https://raw.githubusercontent.com/magicmeowo/image-sets/master/%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"></p>
-<p>补充说明：<br>
-对于验证流程中，部分动作设定条件需实时监听才能激活状态，较于无条件默认用户触发可点击验证状态而言，开发流程更加繁琐，也可能会面临要修改流程细节的问题，因此可考虑验证填写空状态，即当用户未填写任何内容时，触发验证，给予提示“请输入...内容”，而输入过程中监听可以考虑仅在设定新密码过程中进行条件判断验证，如输入字符类型，输入位数等。</p>
 ]]></content>
     </entry>
 </feed>
