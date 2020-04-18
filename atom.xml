@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-04-18T07:42:44.657Z</updated>
+    <updated>2020-04-18T07:43:18.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[产品细节记录]]></title>
-        <id>https://magicmeowo.github.io/post/chan-pin-xi-jie-ji-lu</id>
-        <link href="https://magicmeowo.github.io/post/chan-pin-xi-jie-ji-lu">
+        <id>https://magicmeowo.github.io/post/design details</id>
+        <link href="https://magicmeowo.github.io/post/design details">
         </link>
         <updated>2020-04-16T15:12:22.000Z</updated>
         <content type="html"><![CDATA[<h3 id="前言">【前言】</h3>
