@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-06-02T14:18:57.742Z</updated>
+    <updated>2020-06-08T07:36:56.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,96 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[Keynote 快捷操作]]></title>
+        <id>https://magicmeowo.github.io/post/keyshorts - keynote/</id>
+        <link href="https://magicmeowo.github.io/post/keyshorts - keynote/">
+        </link>
+        <updated>2020-06-08T07:20:40.000Z</updated>
+        <content type="html"><![CDATA[<p>详细可参考<a href="%5Bhttps://support.apple.com/zh-cn/guide/keynote/tanfde4a3e6d/mac%5D(https://support.apple.com/zh-cn/guide/keynote/tanfde4a3e6d/mac)">Keynote演讲快捷键</a></p>
+<h3 id="通用快捷键">通用快捷键</h3>
+<p>| 存储为     | Option-Shift-Command-S |<br>
+| 最小化窗口 | Command-M              |<br>
+| 进入全屏幕视图   | Control-Command-F   |</p>
+<h4 id="在演示文稿内四处移动">在演示文稿内四处移动</h4>
+<p>| 移到当前文本区域的开头 | Command-上箭头键 |<br>
+| 移到当前文本区域的底部 | Command-下箭头键 |<br>
+| 移到当前行的开始位置   | Command-左箭头键 |<br>
+| 移到当前行的结束位置   | Command-右箭头键 |<br>
+| 移到第一张幻灯片   | Fn-左箭头键或 Home 键 |<br>
+| 移到最后一张幻灯片 | Fn-右箭头键或 End 键  |</p>
+<h4 id="选择文本">选择文本</h4>
+<p>| 将粗体应用到所选文本   | Command-B |<br>
+| 将斜体应用到所选文本   | Command-I |<br>
+| 将下划线应用到所选文本 | Command-U |<br>
+| 使字体大小变大 | Command-加号 (+) |<br>
+| 使字体大小变小 | Command-减号 (-) |<br>
+| 使文本左对齐               | Command-左大括号 ({)     |<br>
+| 使文字居中                 | Command-竖线 (|)        |<br>
+| 使文本右对齐               | Command-右大括号 (})     |<br>
+| 使文本左右对齐（两端对齐） | Option-Command-竖线 (|) |</p>
+<h4 id="格式化文本">格式化文本</h4>
+<p>| 将文本转换为链接 | Command-K        |<br>
+| 拷贝段落样式     | Option-Command-C |<br>
+| 粘贴段落样式   | Option-Command-V   |</p>
+<h4 id="文本准确性">文本准确性</h4>
+<p>| 查找与替换           | Command-F                |<br>
+| 检查拼写和语法       | Command-分号键 (😉       |<br>
+| 显示“拼写和语法”窗口 | Shift-Command-冒号键 (😃 |</p>
+<h4 id="导航视图">导航视图</h4>
+<p>| 显示或隐藏对象列表 | Shift-Command-L        |<br>
+| 成组所选对象       | Option-Command-G       |<br>
+| 取消成组所选对象   | Option-Shift-Command-G |<br>
+| 将所选对象移到最后 | Shift-Command-B        |<br>
+| 将所选对象后移一层 | Option-Shift-Command-B |<br>
+| 将所选对象移到最前 | Shift-Command-F        |<br>
+| 将所选对象前移一层 | Option-Shift-Command-F |<br>
+| 锁定所选对象 | Command-L                      |<br>
+| 解锁所选对象 | Option-Command-L               |<br>
+| 复制对象     | Command-D 或按住 Option 键拖移 |<br>
+| 创建与上一张所选幻灯片位于同一层次的新幻灯片 | Return 键或 Shift-Command-N |<br>
+| 向右缩进所选幻灯片                           | Tab 键                      |<br>
+| 向左移动缩进的幻灯片                         | Shift-Tab 键                |<br>
+| 选择多张幻灯片                               | 按住 Shift 键拖移           |<br>
+| 扩展或减少幻灯片选择                         | 按住 Shift 键点按           |<br>
+| 复制幻灯片       | Command-D |<br>
+| 删除所选幻灯片   | Delete 键 |<br>
+| 移到下一张幻灯片 | 下箭头键  |<br>
+| 移到上一张幻灯片 | 上箭头键  |<br>
+| 展开幻灯片组     | 右箭头键  |<br>
+| 折叠幻灯片组     | 左箭头键  |<br>
+| 跳过某张幻灯片以使其不显示在演示文稿中，或显示某张被跳过的幻灯片   | Shift-Command-H   |</p>
+<h4 id="显示-看片台视图">显示 - 看片台视图</h4>
+<p>| 移到下一张幻灯片           | 右箭头键               |<br>
+| 移到上一张幻灯片           | 左箭头键               |<br>
+| 将选择扩展到下一张幻灯片   | Shift-右箭头键         |<br>
+| 将选择扩展到上一张幻灯片   | Shift-左箭头键         |<br>
+| 将选择扩展到第一张幻灯片   | Shift-Command-上箭头键 |<br>
+| 将选择扩展到最后一张幻灯片 | Shift-Command-下箭头键 |<br>
+| 选择第一张幻灯片           | Command-上箭头键       |<br>
+| 选择最后一张幻灯片         | Command-下箭头键       |</p>
+<h4 id="播放演示文稿并使用演讲者模式">播放演示文稿并使用演讲者模式</h4>
+<p>| 播放演示文稿   | Option-Command-P   |</p>
+<h4 id="在演示过程中控制视频">在演示过程中控制视频</h4>
+<p>| 操作                                 | 快捷键 |<br>
+| 播放视频                             | 空格键 |<br>
+| 暂停或继续播放视频                   | K 键   |<br>
+| 倒回视频（如果已暂停播放，按帧倒回） | J 键   |<br>
+| 快进视频（如果已暂停播放，按帧快进） | L 键   |<br>
+| 跳到视频的开头                       | I 键   |<br>
+| 跳到视频的结尾                       | O 键   |</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于无意识设计]]></title>
+        <id>https://magicmeowo.github.io/post/interact naturally/</id>
+        <link href="https://magicmeowo.github.io/post/interact naturally/">
+        </link>
+        <updated>2020-06-03T08:30:05.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>受到一些体验设计及工业设计领域好作品的影响，想就“无意识设计”这个话题，提出来谈谈自己的看法，也作为鞭策自己的一个设计原则。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don‘t make me think 点石成金]]></title>
         <id>https://magicmeowo.github.io/post/books -dont make me think/</id>
@@ -630,39 +720,6 @@ make things，change things；<br>
 概念点+思考框架；<br>
 改变现实，优化世界。<br>
 以互联网为基础的新品牌，新服务公司。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抖音 - 新主播直播流程优化方案]]></title>
-        <id>https://magicmeowo.github.io/post/dou-yin-xin-zhu-bo-zhi-bo-liu-cheng-you-hua-fang-an/</id>
-        <link href="https://magicmeowo.github.io/post/dou-yin-xin-zhu-bo-zhi-bo-liu-cheng-you-hua-fang-an/">
-        </link>
-        <updated>2020-03-21T11:48:05.000Z</updated>
-        <content type="html"><![CDATA[<p>【前言】<br>
-对抖音的两种鲜明的观点：<br>
-1、刷抖音比较浪费时间，根本不下载。<br>
-2、能够合理利用碎片时间享受短视频的乐趣，充分体验。</p>
-<p>我以前支持第 1 种观点，并且在下载抖音查看内容之后，觉得抖音并没有什么吸引我的内容。<br>
-但经过算法训练后的抖音，确实还没有吸引力的，闲暇时间，看看抖音可以学习可以放松。<br>
-更重要的一点是，它让我意识到，个人知识和视野的架构结合算法，决定了抖音世界的丰富和有趣。</p>
-<p>最近直播热，猎奇一下，就开通了直播。简单分析流程，可优化之处和优化方案，当作一次产品分析练习。<br>
-<img src="http://magicmeowo.images.polymath.top/%E6%8A%96%E9%9F%B3%E9%A2%98%E7%9B%AE.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E6%8A%96%E9%9F%B3%E6%80%9D%E8%80%83.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E6%8A%96%E9%9F%B3%E6%96%B0%E4%B8%BB%E6%92%AD%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E4%BC%98%E5%8C%96%E6%B5%81%E7%A8%8B.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E6%96%B9%E6%A1%881.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E5%AE%9E%E5%90%8D%E5%88%B6.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E7%9B%B4%E6%92%AD%E4%B8%AD%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.png" alt="" loading="lazy"><br>
-<img src="http://magicmeowo.images.polymath.top/%E7%BB%93%E6%9E%9C.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爵士乐学习之旅]]></title>
-        <id>https://magicmeowo.github.io/post/Jazz Music/</id>
-        <link href="https://magicmeowo.github.io/post/Jazz Music/">
-        </link>
-        <updated>2020-03-21T02:54:48.000Z</updated>
-        <content type="html"><![CDATA[<p>自由浪漫的爵士乐是我漫长人生中的一剂良药，我想习得它，拥有它，与它的自由浪漫永远在一起。</p>
 ]]></content>
     </entry>
 </feed>
