@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-08-31T09:19:13.007Z</updated>
+    <updated>2020-09-16T08:08:46.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,182 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[逻辑的图形可视化]]></title>
+        <id>https://magicmeowo.github.io/post/visual design analysisi/</id>
+        <link href="https://magicmeowo.github.io/post/visual design analysisi/">
+        </link>
+        <updated>2020-09-16T08:01:32.000Z</updated>
+        <content type="html"><![CDATA[<p>主要讲了基本的7种类型图的使用场景<br>
+7 种类型图：<br>
+1、交换图：将各种关系形象化，厘清事物之间的关系。<br>
+2、树状图：树立事物结构，全面掌握具体内容<br>
+3、深挖图：深究原因，为什么<br>
+4、定位图：事物之间的比较，掌握定位<br>
+5、流程图：将完成目标的过程形象化，分析流程<br>
+6、重叠图：凸显商品，服务特点，组合的作用<br>
+7、金字塔图：明确目标方向</p>
+<p>可视化体验优化 - 美学<br>
+更加强调的是一种“图解能力”，“图形思维”，“可视化思维”，即生活中所有的小事大事都可以通过图解来进行拆解和理解。</p>
+<h3 id="1-交换图">1、交换图</h3>
+<p>关系：商业活动，一种提供某种价值并收取对等报酬的行为，在商业活动中一定存在着交换行为。<br>
+案例：零售业的运营机制。（供应商-生产商-零售商-客人）用户向谷歌支付了什么。</p>
+<ul>
+<li>
+<p>要点<br>
+弄清楚谁是交换的中心<br>
+找出隐藏的相关人物<br>
+交换等价物不一定是金钱</p>
+</li>
+<li>
+<p>思考：商业模式分析<br>
+自己所在的公司<br>
+迅速发展的公司<br>
+经常使用的服务<br>
+利润率较高的公司<br>
+已破产的公司</p>
+</li>
+</ul>
+<p>箭头的使用，单向箭头，无箭头</p>
+<h3 id="2-树状图">2、树状图</h3>
+<p>分模块、分组、整理成树状图</p>
+<h3 id="3-深挖图">3、深挖图</h3>
+<ul>
+<li>
+<p>要点<br>
+思考原因<br>
+持续 Q&amp;A （通过细分原因思考，一直分解到无法分解为止）<br>
+整合成为一张图</p>
+</li>
+<li>
+<p>思考<br>
+为什么业绩不理想<br>
+为什么还想去那家店</p>
+</li>
+</ul>
+<h3 id="4-定位图比较图-象限图">4、定位图（比较图-象限图）</h3>
+<p>对所有项目的综合性比较，会出现各有长短的情况。因此在比较的时候锁定最重要的几项，这样能明显比较出差异。<br>
+定位，比较对象各自所处的状况，掌握定位，就能客观地对事物进行比较和研究。</p>
+<ul>
+<li>
+<p>要点<br>
+确认纵轴，把较重视的要素放上面<br>
+确认横轴，把较重视的要素放右边<br>
+画出比较对象<br>
+大胆比较定性项目，展现主观想法</p>
+</li>
+<li>
+<p>思考<br>
+多种选项，如何比较出合适的客户<br>
+公司与对手公司有何差异<br>
+成功的项目与失败的项目有何差异<br>
+公司长期畅销产品的顾客阶层是什么<br>
+新商品如何定位<br>
+如果拿到多个offer，如何选择</p>
+</li>
+</ul>
+<h3 id="5-流程图">5、流程图</h3>
+<p>构思阶段，如果过于追求细节，构思可能会受到局限。<br>
+在想法付诸实践的阶段，除了考虑实施方法等因素外，还必须同时考虑好实施步骤。</p>
+<ul>
+<li>
+<p>要点<br>
+确认步骤数，一开始不用细究步骤内容<br>
+画出流程图模版，标注内容<br>
+完善步骤内容，控制三行内<br>
+附加信息和主要流程分开</p>
+</li>
+<li>
+<p>思考：（画出流程图）<br>
+常规工作流程是？怎样顺利签订合同？<br>
+如何面试？如何推出一款畅销商品？<br>
+如何筹备年会？出国旅游计划怎么做？</p>
+</li>
+</ul>
+<p>衍生图：<br>
+时序流程图（通常用于线性工作流项目管理）；软件设计流程图</p>
+<h3 id="6-组合图重叠图">6、组合图（重叠图）</h3>
+<p>重叠图可以帮助我们将多个特点组合进行思考，可以加深自己的理解，向他人介绍概念时也非常有效。重叠的部分体现优势和特点</p>
+<ul>
+<li>
+<p>要点<br>
+找出组合成分，准确找出乘数<br>
+利用简单的结构拓展思路<br>
+画出圆形模块，写出内容，控制两行内<br>
+重叠圆形模版<br>
+进一步完善关键词（延展总结内容）<br>
+圆形数量控制在2-3个</p>
+</li>
+<li>
+<p>思考<br>
+经营的商品<br>
+所在部门与团队</p>
+</li>
+</ul>
+<p>衍生图：重叠图和叠加关系图的关系不同，注意区分。</p>
+<h3 id="7-金字塔图">7、金字塔图</h3>
+<p>想要提高某项能力，需要制定方针，弄清楚不足之处，并在此基础上展开具体的行动。<br>
+确定方针，就不会彷徨，可以集中利用资源（时间空间金钱）来实现目标，有了方针，就能提高效率。<br>
+不同的方针，也意味着策略战术会有差异。</p>
+<ul>
+<li>
+<p>要点<br>
+分清阶段<br>
+画出金字塔模型，写出概要。（越上层的概念越重要，注意连贯性）<br>
+完善内容画完图可以进一步考量细节措施（不要一开始就追求完美）</p>
+</li>
+<li>
+<p>思考<br>
+预测亚马逊下一步举措<br>
+自己的公司有什么方针<br>
+可以采取什么样的方针提高利用率<br>
+竞争公司有什么方针<br>
+如何制定人生方针</p>
+</li>
+</ul>
+<h3 id="如何培养习惯">如何培养习惯</h3>
+<p>凡成事者，都有一个共同点——拥有优秀的习惯；如果想把自己的能力和存在转化成果，优秀的习惯是不可或缺的。掌握工具的使用方法 - 反复练习- 养成习惯 - 成果</p>
+<p>tips：<br>
+1、选择可以反复练习的题材来画图，进行图解练习时，可以选择那些不断更新的内容为题材（如书、新闻）无需花太多时间选择题材，多动手，多画图，练习整理脑海中杂乱无章的思绪。<br>
+2、画图的时候，不要勉强自己一开始就用一张图去总结所有的内容，可以从简短的题材开始，画一些相对简单的图形。<br>
+3、重视练习的数量，当每日实践形成一种习惯时，再逐渐追求练习的质量</p>
+<h3 id="作者分享的案例">作者分享的案例</h3>
+<p>《代官山成人 TSUTAYA 计划》作者：增田宗昭</p>
+<p>做计划时，可以按照“守、破、离”<br>
+守：模仿框架，学习基本内容<br>
+破：改变风格，尝试不同的形式<br>
+离：积累到一定程度后，会有质的突破</p>
+<p>《品味源于知识》水野学<br>
+提升品味的技巧：掌握速成捷径、掌握流行趋势、思考共同点</p>
+<p>《德鲁克精华之个人管理》<br>
+需要解决的问题一共四种，<br>
+高频发生的问题：对策流程化<br>
+低频发生的问题：特殊处理<br>
+普遍性问题：遵守原则和步骤<br>
+特殊性问题：具体问题具体分析</p>
+<p>对经济类接骨木或者角度比较新颖的TED 演讲等节目作为题材进行图解练习</p>
+<p>《解读星野度假村的日式待客之道》<br>
+规范化服务、个性化细节、明确客户需求、思考客户没思考到的需求</p>
+<h3 id="培养习惯的一点建议">培养习惯的一点建议</h3>
+<p>改善外观的表现技巧和解释图形知识阐述技巧的附加要素<br>
+它们的作用都是建立在思考方式上，<br>
+基于思维方式，培养图形表现技巧，提高阐述技巧<br>
+图形既帮助人理解也是一种传达信息的工具<br>
+原始信息，通过图形思考，进而借图发生</p>
+<p>图形表现技巧<br>
+尺寸、形状、颜色、线条、距离、大小</p>
+<p>讲解技巧要点<br>
+树状图和深挖图，适用于个人思考或人数较少的会<br>
+交换图：首先强调出场任务，再强调关系<br>
+金字塔图：首先介绍阶段书。从上到下，或由下岛上，让人更容易理解<br>
+重叠图：首先介绍相关要素数量和特征，再介绍重叠部分，例如：我公司的商品兼备以上所有特征，请注意这些特征的重叠部分。<br>
+流程图：首先介绍步骤数量，再依次介绍从开始到实现目标的具体内容。<br>
+定位图：介绍两条数轴，象限图，然后再介绍各个对象，所处的位置以及特点。</p>
+<p>从思考到讲解<br>
+思考：确定题材、确认切入点（哪种图）、理解内容、<br>
+讲解：调整图形外观、调整讲解方式</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《心理学简史》]]></title>
         <id>https://magicmeowo.github.io/post/psychology/</id>
@@ -1371,34 +1547,6 @@ Source：所有数据及信息的来源</p>
 | 快进视频（如果已暂停播放，按帧快进） | L 键   |<br>
 | 跳到视频的开头                       | I 键   |<br>
 | 跳到视频的结尾                       | O 键   |</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品设计爱好周刊 第1期 2020/06/08]]></title>
-        <id>https://magicmeowo.github.io/post/product design Magzine V01/</id>
-        <link href="https://magicmeowo.github.io/post/product design Magzine V01/">
-        </link>
-        <updated>2020-06-07T07:47:51.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="产品">产品</h2>
-<p><br /><strong>Qlearly</strong><br>
-网页书签管理插件，本周发现现已不支持账号登录，仅能进行本地保存。<br />非常好用的网站收藏工具，采用竖向栅栏分类，横向可拖拽移动的交互方式，自定义网站分类。<br /><img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1591523470559-84b9a9ad-84c5-4ffe-8fea-d650a35b905e.png#align=left&amp;display=inline&amp;height=1433&amp;margin=%5Bobject%20Object%5D&amp;name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-07%20%E4%B8%8B%E5%8D%885.44.50.png&amp;originHeight=1434&amp;originWidth=2108&amp;size=781458&amp;status=done&amp;style=none&amp;width=2108" alt="屏幕快照 2020-06-07 下午5.44.50.png" loading="lazy"><br /><br>
-<br /><strong>Poimo 一款可充气电动车</strong><br />东京大学师生最近研发了一款可折叠充气电动车——Poimo。整台车浑然一体，没有过一个机械零件焊接，把它从背包里掏出来，放在地上，再打打气就能跑了。<br /><br>
-<br />Poimo 表面采用的是热塑性聚氨酯，重量仅有5.5kg，由于材料原因，就像是个天然气垫一样，坐起来比一般的电动车舒服。虽然目前尚处于原型阶段。<br /><img src="https://cdn.nlark.com/yuque/0/2020/webp/487908/1591540693899-ce4b4cd6-e1af-4252-b1d7-a409a396bddd.webp#align=left&amp;display=inline&amp;height=524&amp;margin=%5Bobject%20Object%5D&amp;name=poimo2.webp&amp;originHeight=524&amp;originWidth=818&amp;size=40084&amp;status=done&amp;style=none&amp;width=818" alt="poimo2.webp" loading="lazy"><img src="https://cdn.nlark.com/yuque/0/2020/webp/487908/1591540697709-464506be-81d4-4063-b96a-9b6c8c2cfeb8.webp#align=left&amp;display=inline&amp;height=460&amp;margin=%5Bobject%20Object%5D&amp;name=poimo3.webp&amp;originHeight=460&amp;originWidth=818&amp;size=165028&amp;status=done&amp;style=none&amp;width=818" alt="poimo3.webp" loading="lazy"><br>
-<a name="3RY5t"></a></p>
-<h2 id="文章">文章</h2>
-<p>【技术类】<br /><a href="https://www.zhihu.com/question/27886951">如何学习好Keynote</a><br />知乎的一个话题，具有一定的参考意义。<br /><br>
-<br /><a href="https://www.ifanr.com/app/714265">用 Keynote 优雅地演讲，必须掌握的 15 个技巧 | 领客专栏 · MacTips</a><br />文章描述了一些比较关键的快捷操作使用方式，尤其是 iPhone 可以远程操控 keynote 播放这一点，感觉对于经常需要通过 slides 演讲汇报的用户，非常友好。其实掌握一项软件，就是从基础的菜单栏和工具栏开始研究。有耐心认真去研究一款产品，有助于收获关于软件设计和软件操作等相关知识。<br /><br>
-<br /><a href="https://support.apple.com/zh-cn/guide/keynote/tanfde4a3e6d/mac">Mac 上 Keynote 讲演的键盘快捷键</a><br />苹果官方给出的 Keynote 快捷键操作指南<br /><br>
-<br />【行业】<br /><a href="https://www.vzkoo.com/news/87.html">中国电商行业深度研究报告</a><br /><a href="https://report.iimedia.cn/repo1-0/38858.html">2019年中国电商半年度发展报告</a><br /><a href="https://report.iimedia.cn/repo1-0/38858.html">2020中国电商营销市场研究报告</a><br /><a href="https://www.iresearch.com.cn/Detail/report?id=3571&amp;isfree=0">2020中国企业服务全景概览</a><br /><a href="https://www.iyiou.com/p/127476.html?share_from=1b5e77a9fs93xEWf2DlR6Euq-U-HMy0EYGskdfuLDTaEqkJvGzfROX7K4cEUAT1aQ9-Fpkii2XmC5p2RT6N-UpKR7FKELxQQ2l3WcEjsBgQdXdcVMo">中国信用卡大革命 1985-2020</a><br />行业发展报告能提供给我们一个了解行业现状以及由来的视角，<br />很多背后的信息还是需要自己去总结和归纳。<br /><br>
-<br />【设计】<br /><a href="https://mp.weixin.qq.com/s/Rbkt4GqZePL35KXptbKhUw">动效赋能！助力用户体验设计</a><br />文章从动效的起源发展，应用场景，设计语言，动画价值，未来发展几个角度分析新阶段动效设计的发展及影响<br /><a href="https://mp.weixin.qq.com/s/9mVVKRuIQUrY9Ae9EtmA2A">Apple 的设计哲学（网页篇）</a><br /><br>
-<br />最近其实都没有太关注技术层的内容，后期内容也要跟上来。<br>
-<a name="rp9kf"></a></p>
-<h2 id="书籍">书籍</h2>
-<p>《影响商业的50本书》吴晓波<br /><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1591540189876-46490b31-3e35-42dc-a0e0-855982deb17d.jpeg#align=left&amp;display=inline&amp;height=864&amp;margin=%5Bobject%20Object%5D&amp;name=%E5%BD%B1%E5%93%8D%E5%95%86%E4%B8%9A%E7%9A%8450%E6%9C%AC%E4%B9%A6.jpeg&amp;originHeight=864&amp;originWidth=1060&amp;size=92668&amp;status=done&amp;style=none&amp;width=1060" alt="影响商业的50本书.jpeg" loading="lazy"><br />吴晓波老师的《激荡30年》为我打开了步入商业和真实世界的大门。《影响商业的50本书》是他最近出版的一本新书，从众多商业书籍总挑选出的50本经典读物，我目前看到了《克鲁格曼-萧条经济学的回归》。作为经理管理领域甚至是商业领域的门外汉，这本书为我梳理了一个较为精简的知识架构，基于此，我也希望通过自己的后期研究，能够更加了解商业。<br>
-<a name="2SneG"></a></p>
-<h2 id="纪录片">纪录片</h2>
-<p>《Dream maker》阿里纪录片<br />阿里的价值观，责任感，创新驱动力，也让我想起了晓波老师推荐的那几本商业书籍，如《追求卓越》《基业长青》。这里再分享两篇最近看到的资讯，觉得也很有启发。<br /><br>
-<br /><a href="https://mp.weixin.qq.com/s/f7FsfGMzAJqULzwxiwUZ2A">阿里巴巴创新事业群的一年</a><br /></p>
 ]]></content>
     </entry>
 </feed>
