@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-11-03T04:23:00.476Z</updated>
+    <updated>2020-11-04T03:16:42.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[产品走查两三事]]></title>
+        <id>https://magicmeowo.github.io/post/chan-pin-zou-cha-liang-san-shi/</id>
+        <link href="https://magicmeowo.github.io/post/chan-pin-zou-cha-liang-san-shi/">
+        </link>
+        <updated>2020-11-03T04:23:27.000Z</updated>
+        <content type="html"><![CDATA[<p>非常重要等待更新的事</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区产品研究动机，构建社区的核心点]]></title>
         <id>https://magicmeowo.github.io/post/community/</id>
@@ -313,15 +322,18 @@
 <p>一个观点，不一定对：<br>
 因为提醒和任务（事项）的关系是紧密联系的，不少产品直接将 iPhone 的提醒直接拿来当成待办事项的设计，我认为这是需要考量的，当我们选择沿用一个产品的设计方案，首先应该思考的是自己的场景是什么，其次是我们要沿用的这个设计方案为什么要这样设计。以及我们的场景和这样的方案设计是否符合，或者说有没有什么更好的方案去解决当下我们的场景的问题。</p>
 <h3 id="各模块的功能差异">各模块的功能差异</h3>
-<p>当一个产品中，以上场景都出现的时候，就应该考虑整合了。而在整合之前要做的事，是区分各个场景。对于任务和提醒而言，<br>
-其实在不考虑协同的产品中，主要是用户的主观能动性，同时这种场景下，提醒的内容数量是相对可控的，个人计划也相对可控。<br>
-如果涉及到任务体系，也可以选择自主设定是否要提醒，这样主动性依然在用户手中。<br>
-而在更加强调协作的场景中，比如多任务多人协作场景，这个时候提醒可以是由他人发起，提醒我去执行的。主动权可能就在对方手中，这个时候数量以及个人计划的可控性相对较低。<br>
-任务下发通知，和任务提醒执行是两种场景，因此也会区分到底是通知，还是提醒。</p>
+<p>当一个产品中，以上场景都出现的时候，就应该考虑整合了。而在整合之前要做的事，是区分各个场景。对于任务和提醒而言，其实在不考虑协同的产品中，主要是用户的主观能动性，同时这种场景下，提醒的内容数量是相对可控的，个人计划也相对可控。</p>
+<p>如果涉及到任务体系，也可以选择自主设定是否要提醒，这样主动性依然在用户手中。<br>
+而在更加强调协作的场景中，比如多任务多人协作场景，这个时候提醒可以是由他人发起，提醒我去执行的。主动权可能就在对方手中，这个时候数量以及个人计划的可控性相对较低。</p>
+<p>任务下发通知，和任务提醒执行是两种场景，因此也会区分到底是通知，还是提醒。</p>
 <p>通知和消息的差异在对应的模块已经有写到，可以选择差异化二者，保持相互独立。<br>
 或者将某一模块嵌入另一模块中，<br>
 具体涉及方案也需要根据实际的场景进行设计。</p>
 <p>动态也可作为消息的一种存在。不少社区社交类产品有这样的设计。但动态由于涉及到多种类型的操作，因此会在动态这类内容下，进行细分，以上是我对提到的这些模块的一个大致认识和区分。如果真的要涉及到具体的某一个或几个功能的涉及，除了要考虑场景外，还需要考虑对应的信息内容，机制，关联关系等。</p>
+<p>最后分享一个我认为消息系统目前做的比较好的产品：董车帝<br>
+它很清楚地区分了 通知消息、互动消息、系统消息、聊天消息，这几类的场景本身有异同。没有冗杂在一起同时保持了相对一致性。</p>
+<p>其它产品诸如，微博、网易云音乐、知乎等有社交属性的社区产品，大多将消息整合在一起。<br>
+当然这可能是产品发展成熟度或者产品策略的设计考量，但在产品初期，能将通知系统做的相对清晰和简单的设计，还是值得点赞的。</p>
 ]]></content>
     </entry>
     <entry>
@@ -1396,65 +1408,6 @@ A（第一象限）：熟悉度高，喜爱度高；<br>
 <br />整个纪录片分为3集，从亲情、爱情、友情、工作、生活等多角度，诠释比尔盖茨对于不同身份的演绎。<br />他热爱思考，也时长一个人独处，面对质疑，他也会有情绪不稳定的时候，他热爱多角度思考，且能做到专注投入。他擅长以技术角度解决问题，仿佛自己手持一把锤子，看到的问题，都是钉子。面对问题，迎难而上，细分问题，逐步化解。<br /><br>
 <br />比尔盖茨的母亲 Mary Gates 在纪录片的最后说了一段话，我记录下来，与你共勉：<br /><br>
 <br /><strong>每个人一开始，都要先给成功下一个你自己的定义</strong><br /><strong>有了这些对我们自身的具体的期待</strong><br /><strong>我们就更可能成功</strong><br /><strong>说到底，那不在于你得到了什么甚至也不在于你给予了什么</strong><br /><strong>而在于你成为了一个怎样的人</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品设计爱好周刊 | 第2期 2020/06/14]]></title>
-        <id>https://magicmeowo.github.io/post/sights and thoughts2/</id>
-        <link href="https://magicmeowo.github.io/post/sights and thoughts2/">
-        </link>
-        <updated>2020-06-14T18:05:17.000Z</updated>
-        <content type="html"><![CDATA[<p><a name="qXDAN"></a></p>
-<h3 id="产品">产品</h3>
-<p><a name="SPjVw"></a></p>
-<h4 id="1-动物之森初体验">1、动物之森初体验</h4>
-<p>动物之森（animal crossing）是任天堂于2001年开发的一款电子游戏，在日本发行。游戏大量使用内置时钟和日历模拟真是时间，玩家生活在一个由拟人动物居住的小岛，开展各种活动。2018年9月，任天堂公布《动物之森》新作，并于2019年登陆 switch 平台。<br /><br>
-<br />无论是从媒体还是身边的朋友传递出来的动森游戏体验都非常不错，感觉是大富翁和养成类游戏（偏真实生活设计）的集合，官方说是情感沟通类游戏。类似游戏有：模拟人生。<br /><br>
-<br />有不少文章从动森的“历史发展，视觉设计，玩家故事”，时下背景来分析这一款游戏。<br />此处分享<a href="https://mp.weixin.qq.com/s/tbOj_r7wJbs7Kk4ZwnYd2Q">万能编辑部的一个短视频</a>，该提供了一个新的角度—游戏规则，来向我们分析这个游戏的设计理念，好有意思。<br /><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592141449820-5c7cd850-aa35-4eaf-90f9-27ec977a15aa.jpeg#align=left&amp;display=inline&amp;height=173&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG271.jpeg&amp;originHeight=1080&amp;originWidth=1544&amp;size=143698&amp;status=done&amp;style=none&amp;width=247" alt="WechatIMG271.jpeg" loading="lazy"><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592141450704-521e16f2-4e54-47d2-a291-9ae01771cdbc.jpeg#align=left&amp;display=inline&amp;height=173&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG267.jpeg&amp;originHeight=1080&amp;originWidth=1440&amp;size=148131&amp;status=done&amp;style=none&amp;width=230" alt="WechatIMG267.jpeg" loading="lazy"><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592141451638-e112cf48-0dba-4ac2-88e8-18ab743af3ed.jpeg#align=left&amp;display=inline&amp;height=172&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG268.jpeg&amp;originHeight=1080&amp;originWidth=1440&amp;size=135385&amp;status=done&amp;style=none&amp;width=229" alt="WechatIMG268.jpeg" loading="lazy"><br />挑选了3张我在游戏中的场景截图，萌萌的，确实可爱。<br />其它的文章可以参考<br /><a href="https://mp.weixin.qq.com/s/YRveGqXYEGwLNj9RduOZXQ">《动物森友会》爆红背后，任天堂是这么「利用」人性的</a><br /><a href="https://mp.weixin.qq.com/s/VM4m0TM5pjIbuZYZJeAt9A">任天堂是怎么做出《动物森友会》的？</a><br /><a href="https://mp.weixin.qq.com/s/ULwWn5_R1N2X91AIqdmmcA">从9个游戏设计角度，分析《动物森友会》是如何让千万人沉迷的？</a><br /></p>
-<p><a name="h19YT"></a></p>
-<h4 id="2-淘宝中一些神奇的设计">2、“淘宝”中一些神奇的设计</h4>
-<p><a name="52P5m"></a></p>
-<h4 id=""><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592145593404-9ece11f5-e583-42ba-a56e-e49b747f77d4.jpeg#align=left&amp;display=inline&amp;height=463&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG294.jpeg&amp;originHeight=1541&amp;originWidth=828&amp;size=109452&amp;status=done&amp;style=none&amp;width=249" alt="WechatIMG294.jpeg" loading="lazy"><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592145611584-b9b31d95-c21c-4067-badb-31ccb667e5f6.jpeg#align=left&amp;display=inline&amp;height=467&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG295.jpeg&amp;originHeight=1792&amp;originWidth=828&amp;size=223395&amp;status=done&amp;style=none&amp;width=216" alt="WechatIMG295.jpeg" loading="lazy"><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592145595630-4c54d241-d675-4d41-9e58-c2b8f741fbdb.jpeg#align=left&amp;display=inline&amp;height=463&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG296.jpeg&amp;originHeight=1792&amp;originWidth=828&amp;size=109768&amp;status=done&amp;style=none&amp;width=214" alt="WechatIMG296.jpeg" loading="lazy"></h4>
-<p>1、商品详情页中的“赠送他人”，对方确认收获前是不知道礼物的，该礼物将形成链接，只要发送给对方，对方确认接受，后续完成付款即可。<br />2、商品详情页中的“帮我选”，可以将多个商品生成链接发给好友，让对方给你选。<br />3、商品详情页中分享，可以形成短视频内容链接，分享给好友。<br />其实淘宝还有很多神奇的功能，之后可以独立成一个模块进行分享。<br /></p>
-<p><a name="JfP4M"></a></p>
-<h3 id="资讯">资讯</h3>
-<p><a name="hZe2m"></a></p>
-<h4 id="1-苹果发布-wwdc-活动议程">1、苹果发布 WWDC 活动议程！</h4>
-<p><strong><img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1592138669062-2f7d83f1-e6c0-4f1e-b7e2-81874a21e6ea.png#align=left&amp;display=inline&amp;height=1070&amp;margin=%5Bobject%20Object%5D&amp;name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-14%20%E4%B8%8B%E5%8D%888.35.29.png&amp;originHeight=1070&amp;originWidth=1728&amp;size=806522&amp;status=done&amp;style=none&amp;width=1728" alt="屏幕快照 2020-06-14 下午8.35.29.png" loading="lazy"></strong><br />苹果公司官方网站发文宣布，即将在本月 22 日-26 日举办 2020 年全球开发者大会。其中，主题演讲将于北京时间 23 日凌晨 1 点举行，用户可以通过苹果官网、应用程序，以及 Youtube、腾讯、B 站等平台进行观看。</p>
-<p>（其实还蛮期待有一篇文章能整理从第 1 届到第 31 届的WWDC 的资料的）</p>
-<p><a name="yTATY"></a></p>
-<h4 id="2-苹果新专利可实现远程合影">2、苹果新专利可实现远程合影！</h4>
-<p><strong><img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1592138680022-0e20b1fb-62d5-455f-9ced-40f84d432869.png#align=left&amp;display=inline&amp;height=1076&amp;margin=%5Bobject%20Object%5D&amp;name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-14%20%E4%B8%8B%E5%8D%888.43.03.png&amp;originHeight=1076&amp;originWidth=1914&amp;size=613290&amp;status=done&amp;style=none&amp;width=1914" alt="屏幕快照 2020-06-14 下午8.43.03.png" loading="lazy"></strong><br />根据外媒消息：近日，苹果获得一份新专利，该专利可以让用户远程实现拍照合影。该功能让用户在线向其他人发出自拍邀请，如果接受，其他人只要启动自己的手机摄像头，并定位到邀请框架中，就能远程合成出一张合影照片，远程自拍还可以选择「静态照片、视频图像或实时流媒体图像」。</p>
-<p><a name="LUVDG"></a></p>
-<h4 id="3-小米手环5">3、<a href="https://www.mi.com/shouhuan5?product_id=1202300012&amp;cfrom=search">小米手环5</a></h4>
-<p><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592139214015-dc5b8005-b6ec-4bd4-b821-221ac66175f2.jpeg#align=left&amp;display=inline&amp;height=1406&amp;margin=%5Bobject%20Object%5D&amp;name=%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF5.jpeg&amp;originHeight=1406&amp;originWidth=1080&amp;size=142942&amp;status=done&amp;style=none&amp;width=1080" alt="小米手环5.jpeg" loading="lazy"><br />618开始发售，新款的小米手环。</p>
-<p><a name="DIfrU"></a></p>
-<h4 id="4-swpa-索尼世界摄影大赛-部分作品">4、<a href="http://www.myzaker.com/article/5e76e81f8e9f092de87a11af/">SWPA 索尼世界摄影大赛 - 部分作品</a></h4>
-<p>索尼世界摄影大赛 2020，从全球 63 个国家 / 地区中选择获奖图片，每个国家都有代表自己的获奖者。该计划奖励来自每个国家的一名摄影师获得独立图像。<br />原定在 4 月 17 日至 5 月 4 日在伦敦萨默塞特宫举行的 2020 年索尼世界摄影奖展览中向全球观众展示他们的作品。但是受疫情影响，该展览将推迟至夏季；索尼世界摄影奖颁奖典礼暂定于 2020 年 6 月 9 日举行。<br /><br>
-<br /><img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1592136371552-99bb18d8-4513-486f-a7c6-ee2a29dbdd0e.png#align=left&amp;display=inline&amp;height=333&amp;margin=%5Bobject%20Object%5D&amp;name=%E7%B4%A2%E5%B0%BC%E6%AF%94%E8%B5%9B.png&amp;originHeight=333&amp;originWidth=562&amp;size=330818&amp;status=done&amp;style=none&amp;width=562" alt="索尼比赛.png" loading="lazy"><br />2020年索尼世界摄影大赛中国国家专项奖<br />第一名《另一个自我》重庆的摄影师袁天虎，<br />第二名《须臾世界》成都的摄影师杨苏铁，<br />第三名的获奖作品《异星海滩》，上海的非专业摄影师陈琪禕。<br /></p>
-<p><a name="sEfCP"></a></p>
-<h4 id="5-2020-英国-dba-设计影响力奖"><a href="https://effectivedesign.org.uk/winners/2020/gold">5、2020 英国 DBA 设计影响力奖</a></h4>
-<p>2020 年英国 DBA 设计影响力奖（Design Business Association）由设计商业协会（DBA）每年举办一次，评审团将通过设计项目对商业成功增长和利润的贡献来进行衡量，主要奖励取得了巨大商业成功的设计作品。今年是第 31 届颁奖典礼，由于疫情，颁奖典礼选择了在 Zoom 上举行。本届最高奖项由三个不同的设计工作室夺得，赛事共颁发了 26 项奖项：5 项金奖、12 项银奖和 9 项铜奖。</p>
-<p><a name="KmSR9"></a></p>
-<h3 id="文章">文章</h3>
-<p><a name="Sw1zX"></a></p>
-<h4 id="1-像素艺术的前世今生">1、<a href="https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9336237210278483280%22%7D&amp;n_type=1&amp;p_from=3">像素艺术的前世今生</a></h4>
-<p>无意中看到这篇文章，是看到一条资讯说华为p40最近和<a href="http://hello.eboy.com/eboy/"> eboys </a>合作出品包装。关于像素的艺术作品有很多，但是有一个发展衍生过程的还是比较少。<img src="https://cdn.nlark.com/yuque/0/2020/jpeg/487908/1592153264417-a6f632f9-545b-4ef4-9c5f-8419400e96b1.jpeg#align=left&amp;display=inline&amp;height=720&amp;margin=%5Bobject%20Object%5D&amp;name=WechatIMG298.jpeg&amp;originHeight=720&amp;originWidth=1080&amp;size=90566&amp;status=done&amp;style=none&amp;width=1080" alt="WechatIMG298.jpeg" loading="lazy"><br /></p>
-<p><a name="d1rqW"></a></p>
-<h4 id="2-notion-的支撑者">2、<a href="https://mp.weixin.qq.com/s/MbWAx_pVa42Y1q8qieRmGA">Notion 的支撑者</a></h4>
-<p>前段时间有研究一下协同工具，场景是如何快速在一台新电脑上建立工作环境。结合亿欧的一份疫情期间的远程协作工具报告，我有梳理现阶段我常用的一些工具，以及他们各自的特点。工具的本质是为了提高生产力和创造力。也有不少朋友向我推荐 Notion ，尤其在设计领域，似乎用 Notion 的朋友特别多，但对于 Notion ，我也只是下载，简单尝试就放弃了，并没有深入研究过。这篇文章较全面的分析了一下为 Notion 付出汗水，创造者们的故事。也为我之后研究 Notion 提供了一些参考建议。<br /></p>
-<p><a name="YFX51"></a></p>
-<h4 id="3-微信公众号科洛弗道11号">3、微信公众号：科洛弗道11号</h4>
-<p>笔者似乎很喜欢凌晨更新，由于是新账号，且文章数量有限，暂时还没有开通留言功能。<br />但每一篇文章，内容都很丰富，简称“干货”。目前发布的文章包含产品分析、交互趋势分析等。<br /></p>
-<p><a name="wbN5b"></a></p>
-<h4 id="4-设计师值得收藏的6个mobile端组件库"><a href="https://www.jianshu.com/p/39150f08f8b5">4、设计师值得收藏的6个Mobile端组件库</a></h4>
-<p>这段时间主要以移动端产品研究为主，所以想系统复习一下基础组件库。<br />这篇关于移动端的资料还挺全，推荐。<br /></p>
-<p><a name="BFVOr"></a></p>
-<h3 id="书籍">书籍</h3>
-<p>《蚂蚁金服》<br />此书讲述了金融科技公司“蚂蚁金服”的发展史，同时也展示了传统金融领域，企业与服务的变革。<br>
-<a name="ua2na"></a></p>
-<h3 id="纪录片">纪录片</h3>
-<p>《成为沃伦巴菲特》<br />沃伦巴菲特的成长史，同时也简单讲述了巴菲特的投资之道，Never lose money，以及他是如何将收益率维持在百分之20%</p>
 ]]></content>
     </entry>
 </feed>
