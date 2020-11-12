@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magicmeowo.github.io</id>
     <title>Magicmeowo</title>
-    <updated>2020-11-04T03:16:42.301Z</updated>
+    <updated>2020-11-12T12:07:00.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://magicmeowo.github.io"/>
     <link rel="self" href="https://magicmeowo.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://magicmeowo.github.io/images/avatar.png</logo>
     <icon>https://magicmeowo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Magicmeowo</rights>
+    <entry>
+        <title type="html"><![CDATA[关于价值观以及生活方式的思考]]></title>
+        <id>https://magicmeowo.github.io/post/guan-yu-jie-zhi-guan-yi-ji-sheng-huo-fang-shi-de-si-kao/</id>
+        <link href="https://magicmeowo.github.io/post/guan-yu-jie-zhi-guan-yi-ji-sheng-huo-fang-shi-de-si-kao/">
+        </link>
+        <updated>2020-11-12T12:05:19.000Z</updated>
+        <content type="html"><![CDATA[<p>【前言】工作中的一些思考<br>
+价值观的定义<br>
+如何定义生活方式<br>
+人对于劳动生产类活动，维持性活动，休闲娱乐活动的投入以及愉悦度感知。<br>
+如何定义年轻化</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产品走查两三事]]></title>
         <id>https://magicmeowo.github.io/post/chan-pin-zou-cha-liang-san-shi/</id>
@@ -1368,46 +1381,6 @@ A（第一象限）：熟悉度高，喜爱度高；<br>
 <p>开启新增长：因此，针对与基因不相符的产品，最好的方式是让其独立运作，甚至是单独成立公司，单独融资，或者要么去投资其他公司，只有这样才能让增长第二曲线更快、更健康地增长。</p>
 <h2 id="其它文章推荐">其它文章推荐</h2>
 <p><a href="https://mp.weixin.qq.com/s/bRohCunJFxeMIxqIJ6yJJw">带你遍历用户生命价值与流失挽救（上) : 流量下的价值套路</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品设计爱好周刊 | 第3期 2020/06/24]]></title>
-        <id>https://magicmeowo.github.io/post/sights and thoughts3/</id>
-        <link href="https://magicmeowo.github.io/post/sights and thoughts3/">
-        </link>
-        <updated>2020-06-21T02:34:12.000Z</updated>
-        <content type="html"><![CDATA[<p><a name="qXDAN"></a></p>
-<h3 id="前言">前言</h3>
-<p>灵感来自于阮一峰老师的《科技爱好者周刊》，同时意识到自己每天会接收大量的碎片信息，于是想要记录并整理自己的所见所闻，如果能够产生一丁点共鸣或启发亦或是一点思考，那也是极好的。<br />很开心能和大家一起，每天深入了解世界一点点 ～<br /><br>
-<br />本来应该 21 号 父亲节（也是夏至日）更新的，结果还是因为自己时间管理不行，导致计划延迟了。要避免呀～<br />努力输入的同时，也要努力输出，这样才能有进步。<br /></p>
-<p><a name="9TDsq"></a></p>
-<h3 id="产品">产品</h3>
-<p><a name="SPjVw"></a></p>
-<h4 id="1-moo-音乐">1、MOO 音乐</h4>
-<p>腾讯旗下的一款针对年轻群体的小众音乐，获得了2019年德国红点奖中的品牌与传播类。<br />视觉设计非常潮，很想国外的产品，交互动作也很新颖。<img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1592935915270-4dc3d768-9d70-4162-8729-715da6023e84.png#align=left&amp;display=inline&amp;height=1364&amp;margin=%5Bobject%20Object%5D&amp;name=moo.png&amp;originHeight=1364&amp;originWidth=2530&amp;size=3294126&amp;status=done&amp;style=none&amp;width=2530" alt="moo.png" loading="lazy"><br /><br>
-<br /></p>
-<p><a name="JfP4M"></a></p>
-<h3 id="资讯">资讯</h3>
-<p><a name="hZe2m"></a></p>
-<h4 id="1-airpods-pro-新海报">1、AirPods pro 新海报</h4>
-<p><img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1592937408172-bd57e3d6-83c2-47e9-9987-1a48a6848572.png#align=left&amp;display=inline&amp;height=149&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=448&amp;originWidth=1280&amp;size=226113&amp;status=done&amp;style=none&amp;width=426.6666666666667" alt="image.png" loading="lazy"><br />苹果又发布了五张运动风海报。这次苹果通过人物形象的线条勾勒，来展现 AirPods Pro 无线、防汗、免提等功能，传达产品能够让人在运动状态时不受干扰、尽情投入的卖点！<br /></p>
-<p><a name="oDL96"></a></p>
-<h4 id="2-2020伦敦设计节">2、2020伦敦设计节</h4>
-<p><img src="https://cdn.nlark.com/yuque/0/2020/png/487908/1592937485945-b4d1d12e-9c98-42e1-b7f8-35d3aefd7075.png#align=left&amp;display=inline&amp;height=360&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=1080&amp;originWidth=1080&amp;size=1737175&amp;status=done&amp;style=none&amp;width=360" alt="image.png" loading="lazy"><br />2020年伦敦设计节将延期但正常举办！近日，官方于公布了由设计公司Pentagram合伙人Domenic Lippa设计的平面视觉系统。自2007年以来，Pentagram每年都会为伦敦设计节迭代制作一套视觉图形系统，在保持主视觉颜色为红色的同时，此次Domenic在排版设计上减少了负空间，令该视觉可以适应各种页面和屏幕大小。</p>
-<p><a name="KmSR9"></a></p>
-<h3 id="文章">文章</h3>
-<p><a name="Sw1zX"></a></p>
-<h4 id="1-the-best-investment-apps-for-everyday-investors"><a href="https://www.forbes.com/sites/jaimecatmull/2019/10/07/the-15-best-investment-apps-for-everyday-investors/#7c1f31bd145b">1、The best investment Apps for everyday investors</a></h4>
-<p>文章描述了国外市场的15个头部理财工具，使用这些工具的人群特征，以及产品特点。<br /></p>
-<p><a name="BFVOr"></a></p>
-<h3 id="书籍">书籍</h3>
-<p>《定投指数基金》<br />本月持续在阅读的一本书，希望对于个人了解投资理财有帮助。</p>
-<p><a name="ua2na"></a></p>
-<h3 id="纪录片">纪录片</h3>
-<p>《走进比尔》2019<br />比尔盖茨除了创建微软公司外，其实在公益领域做了很多很有价值的研究。<br />比如研究南亚的污水处理系统的设计，致力于解决污水乱排放导致的疾病问题。<br />研究清洁核能发电系统设计，避免核污染造成的不必要灾害。<br />研究针对尼日利亚地区流行的骨髓灰质炎的疫苗，避免让孩子们得这种疾病。<br /><br>
-<br />整个纪录片分为3集，从亲情、爱情、友情、工作、生活等多角度，诠释比尔盖茨对于不同身份的演绎。<br />他热爱思考，也时长一个人独处，面对质疑，他也会有情绪不稳定的时候，他热爱多角度思考，且能做到专注投入。他擅长以技术角度解决问题，仿佛自己手持一把锤子，看到的问题，都是钉子。面对问题，迎难而上，细分问题，逐步化解。<br /><br>
-<br />比尔盖茨的母亲 Mary Gates 在纪录片的最后说了一段话，我记录下来，与你共勉：<br /><br>
-<br /><strong>每个人一开始，都要先给成功下一个你自己的定义</strong><br /><strong>有了这些对我们自身的具体的期待</strong><br /><strong>我们就更可能成功</strong><br /><strong>说到底，那不在于你得到了什么甚至也不在于你给予了什么</strong><br /><strong>而在于你成为了一个怎样的人</strong></p>
 ]]></content>
     </entry>
 </feed>
